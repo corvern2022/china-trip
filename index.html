@@ -83,9 +83,9 @@
   .fab svg{width:22px;height:22px}
   .fab:active{transform:scale(.94)}
 
-  .vhead{padding:18px 18px 6px}
-  .vhead h2{font-size:21px;font-weight:700}
-  .vhead p{font-size:13px;color:var(--sub);margin-top:3px}
+  .vhead{padding:22px 20px 8px}
+  .vhead h2{font-size:23px;font-weight:800;letter-spacing:-.4px;color:var(--ink)}
+  .vhead p{font-size:13.5px;color:var(--sub);margin-top:5px;line-height:1.55}
   .listwrap{padding:8px 14px 90px}
   .lcard{background:var(--card);border-radius:16px;padding:16px;margin-bottom:8px;display:flex;align-items:center;gap:12px;box-shadow:var(--shadow-card);transition:transform .1s}
   .lcard:active{transform:scale(.985)}
@@ -146,15 +146,19 @@
   .fld textarea{min-height:60px;resize:vertical}
   .row2{display:flex;gap:9px}.row2>*{flex:1}
   .mini{font-size:12px;color:var(--sub)}
-  .pill{border:none;border-radius:14px;padding:15px 16px;font-size:15.5px;font-weight:700;font-family:inherit;transition:transform .08s ease,background-color .15s ease}
+  .pill{border:none;border-radius:14px;padding:15px 16px;font-size:15.5px;font-weight:700;font-family:inherit;transition:transform .08s ease,background-color .15s ease,opacity .15s ease}
   .pill.primary{background:var(--accent);color:#fff;width:100%}
   .pill.primary:active{transform:scale(.98);background:#2272e0}
+  .pill.primary:disabled{background:#d1d6db;color:#fff;transform:none;cursor:default}
   .pill.ghost{background:var(--bg);color:var(--ink2)}
   .pill.ghost:active{transform:scale(.98);background:#e5e8eb}
-  .daybtn{display:flex;align-items:center;gap:11px;border:1px solid var(--line);background:#fff;border-radius:14px;padding:15px;font-size:15px;font-weight:700;width:100%;margin-bottom:9px;color:var(--ink)}
+  .daybtn{display:flex;align-items:center;gap:11px;border:1px solid var(--line);background:#fff;border-radius:14px;padding:15px;font-size:15px;font-weight:700;width:100%;margin-bottom:9px;color:var(--ink);transition:transform .08s ease,background-color .12s ease}
+  .daybtn:active{transform:scale(.985);background:#f7f8fa}
   .daybtn .d{width:14px;height:14px;border-radius:50%}
   .daybtn small{margin-left:auto;font-weight:500;color:var(--sub);font-size:12.5px}
   .daybtn.add{justify-content:center;color:var(--accent);border-style:dashed}
+  .section-divider{height:1px;background:var(--line);margin:18px 0 16px;border:none}
+  .section-label{font-size:12px;font-weight:700;color:var(--sub);letter-spacing:.2px;margin:0 0 10px}
   .guide{font-size:13px;color:var(--ink2);margin:0 0 14px 18px;line-height:1.8}
   .guide b{color:var(--accent)}
   .fld-preview{display:flex;align-items:center;justify-content:space-between;background:rgba(49,130,246,.08);border:1px solid rgba(49,130,246,.16);border-radius:14px;padding:14px 16px;margin:-2px 0 16px;transition:background-color .15s ease}
@@ -167,6 +171,9 @@
   .toast{position:fixed;left:50%;bottom:calc(84px + env(safe-area-inset-bottom,0px));transform:translateX(-50%) translateY(4px);background:rgba(25,31,40,.92);backdrop-filter:blur(6px);color:#fff;padding:13px 20px;border-radius:14px;font-size:13.5px;font-weight:600;z-index:4000;opacity:0;transition:opacity .25s,transform .25s;pointer-events:none;max-width:86%;text-align:center;box-shadow:0 8px 24px rgba(0,0,0,.25)}
   .toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
   .leaflet-control-attribution{font-size:9px}
+  .leaflet-control-layers{border:1px solid rgba(15,23,42,.04)!important;border-radius:14px!important;box-shadow:0 2px 8px rgba(15,23,42,.08)!important;overflow:hidden}
+  .leaflet-control-layers-toggle{border-radius:14px}
+  .leaflet-bar{border:none!important;border-radius:12px!important;box-shadow:0 2px 8px rgba(15,23,42,.08)!important;overflow:hidden}
 </style>
 </head>
 <body>
@@ -261,13 +268,13 @@
   <div class="fld"><label>한자·영문 (선택)</label><input id="f_han" maxlength="60"></div>
   <div class="fld"><label>종류</label><select id="f_cat"></select></div>
   <div class="fld"><label>메모 (선택)</label><textarea id="f_note" maxlength="300"></textarea></div>
-  <div class="fld"><label>위치</label>
-    <div class="row2" style="align-items:flex-end">
-      <div><label class="mini">위도</label><input id="f_lat" placeholder="37.5365"></div>
-      <div><label class="mini">경도</label><input id="f_lng" placeholder="121.395"></div>
-    </div>
-    <button class="pill ghost" id="pickOnMap" style="width:100%;margin-top:9px">📍 지도에서 위치 찍기</button>
+  <hr class="section-divider">
+  <p class="section-label">위치</p>
+  <div class="row2">
+    <div class="fld"><label class="mini" style="display:block;margin-bottom:6px">위도</label><input id="f_lat" placeholder="37.5365"></div>
+    <div class="fld"><label class="mini" style="display:block;margin-bottom:6px">경도</label><input id="f_lng" placeholder="121.395"></div>
   </div>
+  <button class="pill ghost" id="pickOnMap" style="width:100%;margin-bottom:14px">📍 지도에서 위치 찍기</button>
   <button class="pill primary" id="addSave">추가하고 저장</button>
 </div></div>
 
@@ -303,6 +310,7 @@
   <div class="grip"></div>
   <h3>둘이 함께 쓰기<button class="x" onclick="closeOvl('shareSheet')"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button></h3>
   <p class="sub">한 사람만 설정하면, 공유 링크를 받은 사람과 저장·동선이 자동으로 같이 동기화됩니다(약 4초). 중국에서도 접속이 잘 되는 편이에요.</p>
+  <p class="section-label">1. Supabase 프로젝트 만들기</p>
   <ol class="guide">
     <li><b>supabase.com</b> 가입 → New project</li>
     <li>왼쪽 <b>SQL Editor</b>에 아래 SQL 붙여넣고 Run</li>
@@ -316,10 +324,14 @@ alter table yt_rooms enable row level security;
 drop policy if exists "public" on yt_rooms;
 create policy "public" on yt_rooms for all using (true) with check (true);
 grant all on table yt_rooms to anon, authenticated;</textarea></div>
+  <hr class="section-divider">
+  <p class="section-label">2. 연결 정보 입력</p>
   <div class="fld"><label>Project URL</label><input id="s_url" placeholder="https://OOOO.supabase.co"></div>
   <div class="fld"><label>anon public key</label><input id="s_key" placeholder="eyJhbGciOi..."></div>
   <div class="fld"><label>공유 코드 (둘이 같은 값)</label><input id="s_room" placeholder="oritrip2026"></div>
   <button class="pill primary" id="s_connect" style="margin-bottom:9px">연결하기</button>
+  <hr class="section-divider">
+  <p class="section-label">공유 · 백업 관리</p>
   <div class="row2">
     <button class="pill ghost" id="s_copylink">🔗 링크 복사</button>
     <button class="pill ghost" id="s_disconnect">연결 해제</button>
@@ -725,6 +737,7 @@ function openExpenseSheet(id){
   document.getElementById('e_krwPreview').textContent=fmtNum(v*fxRate);
   document.getElementById('e_fxPreview').textContent=fmtNum(fxRate);
   document.getElementById('e_previewBox').classList.toggle('empty',!v);
+  if(typeof updESave==='function')updESave();
   openOvl('expenseSheet');
 }
 document.getElementById('addExpenseBtn').onclick=()=>openExpenseSheet(null);
@@ -761,12 +774,12 @@ document.querySelectorAll('.navb').forEach(b=>b.onclick=()=>setView(b.dataset.v)
 function updateBadges(){const n=favorites.length;const b=document.getElementById('navFavBadge');b.style.display=n?'flex':'none';b.textContent=n;}
 
 function fillCat(){const s=document.getElementById('f_cat');const cats=['관광','맛집','카페','로컬시장','쇼핑','마사지','숙소',...Object.keys(userCats)];s.innerHTML=cats.map(c=>`<option>${c}</option>`).join('');}
-function openAdd(){fillCat();openOvl('addSheet');}
+function openAdd(){fillCat();if(typeof updAddSave==='function')updAddSave();openOvl('addSheet');}
 document.getElementById('fabAdd').onclick=()=>{document.getElementById('f_name').value='';openAdd();};
 document.getElementById('pickOnMap').onclick=()=>{closeOvl('addSheet');pickMode=true;setView('map');toast('지도를 탭해서 위치를 지정하세요');map.getContainer().style.cursor='crosshair';};
 function doPick(latlng){document.getElementById('f_lat').value=latlng.lat.toFixed(6);document.getElementById('f_lng').value=latlng.lng.toFixed(6);
   if(pickTemp)map.removeLayer(pickTemp);pickTemp=L.circleMarker(latlng,{radius:8,color:'#fff',weight:2,fillColor:'#e84118',fillOpacity:1}).addTo(map);
-  pickMode=false;map.getContainer().style.cursor='';openOvl('addSheet');toast('위치 지정됨');}
+  pickMode=false;map.getContainer().style.cursor='';if(typeof updAddSave==='function')updAddSave();openOvl('addSheet');toast('위치 지정됨');}
 document.getElementById('addSave').onclick=()=>{
   const name=document.getElementById('f_name').value.trim();const han=document.getElementById('f_han').value.trim();
   const note=document.getElementById('f_note').value.trim();const lat=parseFloat(document.getElementById('f_lat').value);const lng=parseFloat(document.getElementById('f_lng').value);
@@ -781,6 +794,11 @@ document.getElementById('addSave').onclick=()=>{
   rebuildDB();renderSavedPins();renderFavView();updateBadges();
   ['f_name','f_han','f_note','f_lat','f_lng'].forEach(i=>document.getElementById(i).value='');
   closeOvl('addSheet');showCard(byId[id]);toast('추가 & 저장됨');};
+// 필수값이 채워졌을 때만 저장 버튼 활성화 (토스식 사전 차단)
+function updAddSave(){const ok=document.getElementById('f_name').value.trim()&&!isNaN(parseFloat(document.getElementById('f_lat').value))&&!isNaN(parseFloat(document.getElementById('f_lng').value));document.getElementById('addSave').disabled=!ok;}
+['f_name','f_lat','f_lng'].forEach(i=>document.getElementById(i).addEventListener('input',updAddSave));updAddSave();
+function updESave(){const ok=document.getElementById('e_title').value.trim()&&parseFloat(document.getElementById('e_cny').value)>0;document.getElementById('e_save').disabled=!ok;}
+['e_title','e_cny'].forEach(i=>document.getElementById(i).addEventListener('input',updESave));updESave();
 
 function openOvl(id){document.getElementById(id).classList.add('open');}
 function closeOvl(id){document.getElementById(id).classList.remove('open');
