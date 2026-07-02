@@ -532,9 +532,28 @@ function openDayPick(id){pendingId=id;const rec=byId[id];if(!rec)return;
 window.openDayPick=openDayPick;
 function addDay(){if(numDays>=12){toast('최대 12일까지');return;}numDays++;routes[numDays]=[];saveLS('yt_numDays',numDays);saveLS('yt_routes',routes);renderDayChips();}
 
+const KO2ZH={
+  // 지명·일반
+  '옌타이':'烟台','연태':'烟台','등대':'灯塔','해수욕장':'海水浴场','해변':'海滨','공원':'公园','박물관':'博物馆',
+  '기차역':'火车站','버스터미널':'汽车站','터미널':'汽车站','공항':'机场','항구':'港','부두':'码头','광장':'广场',
+  '호텔':'酒店','숙소':'酒店','모텔':'宾馆','백화점':'百货','쇼핑몰':'购物中心','시장':'市场','야시장':'夜市','아침시장':'早市',
+  '슈퍼':'超市','마트':'超市','편의점':'便利店','약국':'药店','병원':'医院','은행':'银行','환전':'兑换','우체국':'邮局',
+  '영화관':'电影院','노래방':'KTV','수족관':'海洋馆','아쿠아리움':'海洋馆','동물원':'动物园','온천':'温泉','절':'寺','사원':'寺','교회':'教堂',
+  '산':'山','역':'站','와인':'葡萄酒','섬':'岛','다리':'桥','서점':'书店','박람회':'展览',
+  // 음식
+  '훠궈':'火锅','마라탕':'麻辣烫','마라샹궈':'麻辣香锅','만두':'饺子','샤오롱바오':'小笼包','국수':'面馆','라면':'拉面','우육면':'牛肉面',
+  '바베큐':'烧烤','꼬치':'烧烤','양꼬치':'羊肉串','해산물':'海鲜','딤섬':'点心','북경오리':'烤鸭','베이징덕':'烤鸭',
+  '치킨':'炸鸡','피자':'披萨','햄버거':'汉堡','초밥':'寿司','스시':'寿司','돈까스':'炸猪排','한식':'韩国料理','한국음식':'韩国料理',
+  '카페':'咖啡','커피':'咖啡','밀크티':'奶茶','버블티':'奶茶','빙수':'刨冰','아이스크림':'冰淇淋','베이커리':'面包店','빵집':'面包店','케이크':'蛋糕店','디저트':'甜品','맥주':'啤酒','술집':'酒吧','바':'酒吧',
+  // 서비스
+  '마사지':'按摩','발마사지':'足疗','스파':'水疗','미용실':'美发','네일':'美甲',
+  // 브랜드
+  '스타벅스':'星巴克','맥도날드':'麦当劳','맥날':'麦当劳','케이에프씨':'肯德基','버거킹':'汉堡王','피자헛':'必胜客',
+  '하이디라오':'海底捞','유니클로':'优衣库','이케아':'宜家','월마트':'沃尔玛','까르푸':'家乐福','완다':'万达',
+  '루이싱':'瑞幸','루이싱커피':'瑞幸咖啡','헤이티':'喜茶','미쉐빙청':'蜜雪冰城','팝마트':'泡泡玛特','샤오미':'小米','화웨이':'华为','애플스토어':'苹果'
+};
 function toChinese(q){let s=q.trim();
-  const tok={'옌타이':'烟台','연태':'烟台','등대':'灯塔','해수욕장':'海水浴场','해변':'海滨','공원':'公园','박물관':'博物馆','기차역':'火车站','호텔':'酒店','시장':'市场','백화점':'百货','산':'山','역':'站','와인':'葡萄酒','섬':'岛'};
-  Object.keys(tok).sort((a,b)=>b.length-a.length).forEach(k=>{if(s.includes(k))s=s.split(k).join(tok[k]);});return s;}
+  Object.keys(KO2ZH).sort((a,b)=>b.length-a.length).forEach(k=>{if(s.includes(k))s=s.split(k).join(KO2ZH[k]);});return s;}
 function searchDB(q){const nq=norm(q),ncn=norm(toChinese(q));
   const toks=[...q.split(/\s+/),...toChinese(q).split(/\s+/)].map(norm).filter(t=>t.length>=2);
   const res=[];DB.forEach(e=>{const hay=norm(e.name+e.han+(e.alias||''));let sc=0;
@@ -579,13 +598,18 @@ async function osmSearch(q){
   if(osmBusy)return;osmBusy=true;
   drop.innerHTML='<div class="drow" style="justify-content:center;color:var(--sub)">온라인에서 찾는 중...</div>';drop.classList.add('show');
   try{
-    const cq=toChinese(q);
-    const url='https://nominatim.openstreetmap.org/search?format=jsonv2&limit=8&accept-language=ko,zh,en&viewbox=120.9,37.75,121.9,37.20&bounded=1&q='+encodeURIComponent(cq);
-    const r=await fetch(url,{headers:{'Accept':'application/json'}});
-    if(!r.ok)throw new Error('http '+r.status);
-    const rows=await r.json();
-    if(!Array.isArray(rows)||!rows.length){
-      drop.innerHTML='<div class="drow" style="justify-content:center;color:var(--sub);text-align:center">온라인에서도 못 찾았어요<br>영어나 한자로 검색하면 더 잘 나와요</div>'+`<div class="drow add" id="addNew">＋ '${esc(q)}' 직접 추가</div>`;
+    // 한글이면 한자 변환 쿼리를 먼저, 그다음 원문 순으로 시도
+    const queries=[...new Set([toChinese(q),q])].filter(Boolean);
+    let rows=[];
+    for(const qq of queries){
+      const url='https://nominatim.openstreetmap.org/search?format=jsonv2&limit=8&accept-language=ko,zh,en&viewbox=120.9,37.75,121.9,37.20&bounded=1&q='+encodeURIComponent(qq);
+      const r=await fetch(url,{headers:{'Accept':'application/json'}});
+      if(!r.ok)throw new Error('http '+r.status);
+      const j=await r.json();
+      if(Array.isArray(j)&&j.length){rows=j;break;}
+    }
+    if(!rows.length){
+      drop.innerHTML='<div class="drow" style="justify-content:center;color:var(--sub);text-align:center">온라인에서도 못 찾았어요<br>영어나 한자 이름으로 검색하면 더 잘 나와요</div>'+`<div class="drow add" id="addNew">＋ '${esc(q)}' 직접 추가</div>`;
       document.getElementById('addNew').onclick=()=>{drop.classList.remove('show');document.getElementById('f_name').value=q;openAdd();};
       return;}
     drop.innerHTML='<div class="drow" style="padding:9px 16px;font-size:11.5px;color:var(--sub);border-bottom:1px solid #f2f4f6">🌐 온라인 검색 결과 · 탭하면 장소 추가로 이어져요</div>'+
@@ -593,8 +617,10 @@ async function osmSearch(q){
     drop.querySelectorAll('[data-osm]').forEach(el=>el.onclick=()=>{
       const p=rows[+el.dataset.osm];const g=wgs2gcj(parseFloat(p.lat),parseFloat(p.lon));
       drop.classList.remove('show');sInput.blur();
-      document.getElementById('f_name').value=(p.name||p.display_name||'').split(',')[0].slice(0,60);
-      document.getElementById('f_han').value='';
+      const osmName=(p.name||p.display_name||'').split(',')[0].slice(0,60);
+      const koQuery=/[가-힣]/.test(q);
+      document.getElementById('f_name').value=koQuery?q.slice(0,60):osmName;
+      document.getElementById('f_han').value=koQuery?osmName:'';
       document.getElementById('f_note').value=(p.display_name||'').split(',').slice(1,4).join(',').trim().slice(0,300);
       document.getElementById('f_lat').value=g.lat.toFixed(6);document.getElementById('f_lng').value=g.lng.toFixed(6);
       if(pickTemp)map.removeLayer(pickTemp);
