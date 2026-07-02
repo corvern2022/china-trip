@@ -203,6 +203,13 @@
 
     <section class="view" id="view_fav">
       <div class="vhead"><h2>즐겨찾기</h2><p>탭하면 지도로, ★로 저장, 한자는 눌러서 복사</p></div>
+      <div style="padding:4px 14px 10px">
+        <div class="searchbox" style="box-shadow:none;border:1.5px solid var(--line);background:#fff">
+          <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg></span>
+          <input id="favSearch" placeholder="즐겨찾기에서 검색" autocomplete="off">
+          <button class="clr" id="favSearchClr" aria-label="지우기"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+        </div>
+      </div>
       <div class="chips" id="favChips"></div>
       <div class="listwrap" id="favList"></div>
     </section>
@@ -266,7 +273,7 @@
 
 <div class="ovl" id="expenseSheet"><div class="sheet">
   <div class="grip"></div>
-  <h3>지출 추가<button class="x" onclick="closeOvl('expenseSheet')"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button></h3>
+  <h3><span id="expTitle">지출 추가</span><button class="x" onclick="closeOvl('expenseSheet')"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button></h3>
   <p class="sub">위안화(¥) 금액만 입력하면 원화로 자동 환산돼요.</p>
   <div class="fld"><label>항목명</label><input id="e_title" placeholder="예: 훠궈 저녁식사" maxlength="60"></div>
   <div class="fld"><label>금액 (위안 ¥)</label><input id="e_cny" type="number" inputmode="decimal" placeholder="0"></div>
@@ -428,30 +435,17 @@ const places=[
  {id:'r_cheese',cat:'카페',name:'연태 치즈과자',han:'香酥其子块 (南洪风情街店)',sub:'로컬 베이커리',lat:37.5412,lng:121.3882,note:'연태 치즈과자 ¥8. 난홍풍정街 골목. (핀 대략)',approx:true},
 ];
 const hotels=[
- {id:'h_pullman',cat:'숙소',name:'풀먼 옌타이 센터',han:'Pullman Yantai Center',sub:'5성',stars:5,rate:'4.5',lat:37.54211,lng:121.40387,note:'완다 단지 플래그십, 소청리 옆, 바다뷰.'},
- {id:'h_ji',cat:'숙소',name:'JI호텔 옌타이산',han:'全季酒店 烟台山店',sub:'4성',stars:4,rate:'4.5',lat:37.5422527,lng:121.4013885,note:'비즈니스 호텔, 위치 좋음.'},
- {id:'h_haiwei',cat:'숙소',name:'완다 하이웨이 시뷰',han:'Wanda Haiwei Seaview Apt',sub:'4성',stars:4,rate:'—',lat:37.536118,lng:121.39445,note:'완다몰과 직접 연결. 먹거리·마트 발밑.'},
- {id:'h_fourpoints',cat:'숙소',name:'포포인츠 쉐라톤 즈푸',han:'Four Points by Sheraton',sub:'4성',stars:4,rate:'—',lat:37.54094,lng:121.3859,note:'난홍·완다 도보권.'},
- {id:'h_center',cat:'숙소',name:'더 센터 호텔',han:'The Center Hotel Yantai',sub:'4성',stars:4,rate:'4.4',lat:37.53913,lng:121.3865,note:'완다·소청리 도보 10분.'},
- {id:'h_asia',cat:'숙소',name:'아시아 호텔',han:'Asia Hotel 亚细亚',sub:'4성·외국인친화',stars:4,rate:'4.0',lat:37.539974,lng:121.381965,note:'영어 가능, Chris Bar 양식·맥주.'},
- {id:'h_fengdu',cat:'숙소',name:'즈푸 펑두 호텔',han:'Zhifu Fengdu 凤都',sub:'4성',stars:4,rate:'—',lat:37.54995,lng:121.38834,note:'로컬 4성, 가성비.'},
- {id:'h_bestwestern',cat:'숙소',name:'베스트웨스턴 골든월',han:'Best Western Golden Great Wall',sub:'4성',stars:4,rate:'4.3',lat:37.550592,lng:121.372193,note:'옌타이역 인근.'},
- {id:'h_buenapen',cat:'숙소',name:'부에나비스타 반도',han:'Buena Vista Peninsula',sub:'4성',stars:4,rate:'4.8',lat:37.533443,lng:121.373906,note:'모던·중국 전통 디자인.'},
- {id:'h_hilton',cat:'숙소',name:'힐튼 옌타이',han:'Hilton Yantai 希尔顿',sub:'5성·바다뷰',stars:5,rate:'4.6',lat:37.5390122,lng:121.4015104,note:'바다뷰, 서비스·조식 평 최상.',alias:'힐튼 hilton'},
- {id:'h_intercity',cat:'숙소',name:'인터시티호텔 코스트',han:'IntercityHotel Coast',sub:'4성',stars:4,rate:'—',lat:37.54152,lng:121.39859,note:'독일계 체인, 시내 중심.'},
- {id:'h_golden',cat:'숙소',name:'골든 걸프 호텔',han:'Golden Gulf 金海湾',sub:'4성',stars:4,rate:'4.2',lat:37.547173,lng:121.403397,note:'등대·해안공원 바로.'},
- {id:'h_bright',cat:'숙소',name:'브라이트 래디언스',han:'Bright Radiance Hotel',sub:'4성·일출뷰',stars:4,rate:'4.3',lat:37.536957,lng:121.41415,note:'바다뷰·일출 객실, 조식 풍성.'},
- {id:'h_buena',cat:'숙소',name:'부에나비스타 걸프 리조트',han:'Buena Vista Gulf Resort',sub:'5성',stars:5,rate:'5.0',lat:37.513416,lng:121.446477,note:'어부의 부두 옆 해변 리조트.'},
- {id:'h_hyattplace',cat:'숙소',name:'하얏트 플레이스',han:'Hyatt Place Yantai',sub:'4성·신축',stars:4,rate:'4.3',lat:37.46377,lng:121.447935,note:'신축, 공항 수속 카운터.'},
- {id:'h_crowne',cat:'숙소',name:'크라운 플라자 시뷰',han:'Crowne Plaza Sea View',sub:'5성',stars:5,rate:'4.4',lat:37.461094,lng:121.471176,note:'해변 IHG 5성.'},
+ {id:'h_greatboutique',cat:'숙소',name:'그레이트 부티크 아파트먼트',han:'Great Boutique Apartment Hotel',sub:'숙소·7/12~7/14',lat:37.5359,lng:121.3952,note:'완다프라자 SOHO 아파트 A2동 16층 프런트. 즈푸구. (핀 대략)',approx:true,alias:'great boutique soho 완다'},
+ {id:'h_bright',cat:'숙소',name:'브라이트 래디언스',han:'Bright Radiance Hotel',sub:'4성·일출뷰',stars:4,lat:37.536957,lng:121.41415,note:'바다뷰·일출 객실, 조식 풍성.'},
 ];
 
 let DB=[],byId={};
 function rebuildDB(){DB=[];places.forEach(p=>DB.push(p));hotels.forEach(h=>DB.push(h));userPlaces.forEach(p=>DB.push(Object.assign({user:true},p)));byId={};DB.forEach(r=>byId[r.id]=r);}
 rebuildDB();
 
-const DEFAULT_FAVS=['p_chaoyang','p_suocheng','p_wharf','a_changyu','s_joycity','a_hongkou','p_more','p_miluo','p_jianbing','r_cheese','p_xingfu','p_nanhong','l_yantaiuniv','p_jixiang','p_zheng','p_maxiang','p_mongkok1','p_laobang','p_lishi','p_afu','p_yongge','p_dingxiang','r_guoxiao','r_maolu','p_wanda','p_jjy','p_rt','h_pullman','h_hilton','h_golden','h_bright','h_ji','h_center','h_asia','h_haiwei','h_buena','h_crowne'];
-if(loadLS('yt_seed',null)!=='v10'){favorites=Array.from(new Set([...favorites,...DEFAULT_FAVS]));saveLS('yt_favs',favorites);saveLS('yt_seed','v10');}
+const DEFAULT_FAVS=['p_chaoyang','p_suocheng','p_wharf','a_changyu','s_joycity','a_hongkou','p_more','p_miluo','p_jianbing','r_cheese','p_xingfu','p_nanhong','l_yantaiuniv','p_jixiang','p_zheng','p_maxiang','p_mongkok1','p_laobang','p_lishi','p_afu','p_yongge','p_dingxiang','r_guoxiao','r_maolu','p_wanda','p_jjy','p_rt','h_greatboutique','h_bright'];
+if(loadLS('yt_seed',null)!=='v11'){favorites=Array.from(new Set([...favorites,...DEFAULT_FAVS]));saveLS('yt_favs',favorites);saveLS('yt_seed','v11');}
+{const cleaned=favorites.filter(id=>byId[id]);if(cleaned.length!==favorites.length){favorites=cleaned;saveLS('yt_favs',favorites);}}
 function isFav(id){return favorites.includes(id);}
 </script>
 <script>
@@ -592,8 +586,13 @@ function renderFavChips(){const cats=[['전체','all'],['★ 저장됨','saved']
   box.innerHTML=cats.map(([l,k])=>`<button class="chip ${favCat===k?'active':''}" data-k="${k}">${k!=='all'&&k!=='saved'?catDot(k,12):''}${l}</button>`).join('');
   box.querySelectorAll('.chip').forEach(c=>c.onclick=()=>{favCat=c.dataset.k;renderFavChips();renderFavList();});}
 function renderFavList(){const box=document.getElementById('favList');if(!box)return;
-  const list=DB.filter(e=>favCat==='all'||(favCat==='saved'?isFav(e.id):e.cat===favCat));
-  if(!list.length){box.innerHTML='<div class="empty"><div class="big"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5l2.6 5.27 5.82.85-4.21 4.1 1 5.8L12 16.9l-5.21 2.62 1-5.8-4.21-4.1 5.82-.85L12 3.5Z"/></svg></div>저장한 장소가 아직 없어요.<br>아래 목록에서 ☆를 누르면<br>여기 저장되고 지도에도 표시됩니다.</div>';return;}
+  let list=DB.filter(e=>favCat==='all'||(favCat==='saved'?isFav(e.id):e.cat===favCat));
+  const q=(document.getElementById('favSearch')||{value:''}).value.trim();
+  if(q){const nq=norm(q),ncn=norm(toChinese(q));
+    list=list.filter(e=>{const hay=norm(e.name+e.han+(e.alias||''));return (nq&&hay.includes(nq))||(ncn&&hay.includes(ncn));});}
+  if(!list.length){
+    if(q){box.innerHTML='<div class="empty"><div class="big"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg></div>\''+esc(q)+'\' 검색 결과가 없어요.</div>';return;}
+    box.innerHTML='<div class="empty"><div class="big"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5l2.6 5.27 5.82.85-4.21 4.1 1 5.8L12 16.9l-5.21 2.62 1-5.8-4.21-4.1 5.82-.85L12 3.5Z"/></svg></div>저장한 장소가 아직 없어요.<br>아래 목록에서 ☆를 누르면<br>여기 저장되고 지도에도 표시됩니다.</div>';return;}
   box.innerHTML=list.map(e=>`<div class="lcard">${catDot(e.cat,20)}
     <div class="nm" onclick="showCard(byId['${e.id}'])">${esc(e.name)}<small>${esc(e.cat)}${e.sub?' · '+esc(e.sub):''}</small>
       <button class="hanchip" data-cp="${e.id}">${esc(e.han||e.name)}<span>복사</span></button></div>
@@ -605,6 +604,9 @@ function renderFavList(){const box=document.getElementById('favList');if(!box)re
   box.querySelectorAll('[data-cp]').forEach(c=>c.onclick=ev=>{ev.stopPropagation();copyHan(c.dataset.cp);});
 }
 function renderFavView(){renderFavChips();renderFavList();}
+{const fs=document.getElementById('favSearch'),fc=document.getElementById('favSearchClr');
+ fs.addEventListener('input',()=>{fc.style.display=fs.value?'flex':'none';renderFavList();});
+ fc.onclick=()=>{fs.value='';fc.style.display='none';renderFavList();fs.focus();};}
 function copyHan(id){const r=byId[id];if(!r)return;const t=r.han||r.name;const done=()=>toast('복사됨: '+t);
   if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(t).then(done).catch(()=>fbCopy(t,done));else fbCopy(t,done);}
 function fbCopy(t,cb){const ta=document.createElement('textarea');ta.value=t;ta.style.position='fixed';ta.style.opacity='0';document.body.appendChild(ta);ta.select();try{document.execCommand('copy');}catch(e){}document.body.removeChild(ta);cb&&cb();}
@@ -635,12 +637,12 @@ function renderLedger(){
     return `<div class="ledgerDateHead"><span>${esc(d||'날짜 없음')}</span><span>¥${fmtNum(daySum)} · ≈₩${fmtNum(daySum*fxRate)}</span></div>`+
       items.map(e=>`
     <div class="lcard" style="display:flex;align-items:center;gap:10px">
-      <div style="flex:1;min-width:0">
+      <div style="flex:1;min-width:0" data-editexp="${e.id}">
         <div style="font-weight:600;font-size:15px">${esc(e.title)}</div>
         <div style="font-size:12px;color:var(--sub);margin-top:2px">${e.cat?esc(EXPCAT[e.cat]||e.cat):''}</div>
         ${e.note?`<div style="font-size:12px;color:var(--sub);margin-top:2px">${esc(e.note)}</div>`:''}
       </div>
-      <div style="text-align:right">
+      <div style="text-align:right" data-editexp="${e.id}">
         <div style="font-weight:700;font-size:15px">¥${fmtNum(e.cny)}</div>
         <div style="font-size:12px;color:var(--sub)">≈ ₩${fmtNum(e.cny*fxRate)}</div>
       </div>
@@ -648,17 +650,30 @@ function renderLedger(){
     </div>`).join('');
   }).join('');
   box.querySelectorAll('[data-delexp]').forEach(b=>b.onclick=()=>{expenses=expenses.filter(e=>e.id!==b.dataset.delexp);saveLS('yt_expenses',expenses);renderLedger();});
+  box.querySelectorAll('[data-editexp]').forEach(el=>el.onclick=()=>openExpenseSheet(el.dataset.editexp));
 }
 document.getElementById('fxEdit').onclick=()=>{document.getElementById('fx_input').value=fxRate;openOvl('fxSheet');};
 document.getElementById('fx_save').onclick=()=>{const v=parseFloat(document.getElementById('fx_input').value);
   if(isNaN(v)||v<=0){toast('올바른 환율을 입력하세요');return;}
   fxRate=v;saveLS('yt_fxrate',fxRate);closeOvl('fxSheet');renderLedger();toast('환율 저장됨');};
-document.getElementById('addExpenseBtn').onclick=()=>{
-  ['e_title','e_cny','e_note'].forEach(i=>document.getElementById(i).value='');
-  document.getElementById('e_cat').value='food';document.getElementById('e_date').value=todayStr();
-  document.getElementById('e_krwPreview').textContent='0';document.getElementById('e_fxPreview').textContent=fmtNum(fxRate);
-  document.getElementById('e_previewBox').classList.add('empty');
-  openOvl('expenseSheet');};
+let editingExpId=null;
+function openExpenseSheet(id){
+  const e=id?expenses.find(x=>x.id===id):null;
+  editingExpId=e?e.id:null;
+  document.getElementById('expTitle').textContent=e?'지출 수정':'지출 추가';
+  document.getElementById('e_save').textContent=e?'수정하고 저장':'추가하고 저장';
+  document.getElementById('e_title').value=e?e.title:'';
+  document.getElementById('e_cny').value=e?e.cny:'';
+  document.getElementById('e_note').value=e?e.note:'';
+  document.getElementById('e_cat').value=e&&EXPCAT[e.cat]?e.cat:'food';
+  document.getElementById('e_date').value=e&&e.date?e.date:todayStr();
+  const v=e?e.cny:0;
+  document.getElementById('e_krwPreview').textContent=fmtNum(v*fxRate);
+  document.getElementById('e_fxPreview').textContent=fmtNum(fxRate);
+  document.getElementById('e_previewBox').classList.toggle('empty',!v);
+  openOvl('expenseSheet');
+}
+document.getElementById('addExpenseBtn').onclick=()=>openExpenseSheet(null);
 document.getElementById('e_cny').addEventListener('input',()=>{const v=parseFloat(document.getElementById('e_cny').value)||0;
   document.getElementById('e_krwPreview').textContent=fmtNum(v*fxRate);
   document.getElementById('e_previewBox').classList.toggle('empty',!v);});
@@ -673,8 +688,11 @@ document.getElementById('e_save').onclick=()=>{
   if(note.length>200){toast('메모는 200자 이내로 적어주세요');return;}
   if(isNaN(cny)||cny<=0){toast('금액을 입력하세요');return;}
   if(cny>999999){toast('금액이 너무 커요');return;}
-  expenses.push({id:'e'+Date.now()+Math.random().toString(36).slice(2,7),title,cny,cat,date,note});saveLS('yt_expenses',expenses);
-  closeOvl('expenseSheet');renderLedger();toast('지출 기록됨');};
+  const ex=editingExpId?expenses.find(x=>x.id===editingExpId):null;
+  if(ex){Object.assign(ex,{title,cny,cat,date,note});toast('지출 수정됨');}
+  else{expenses.push({id:'e'+Date.now()+Math.random().toString(36).slice(2,7),title,cny,cat,date,note});toast('지출 기록됨');}
+  editingExpId=null;saveLS('yt_expenses',expenses);
+  closeOvl('expenseSheet');renderLedger();};
 
 function setView(v){
   document.querySelectorAll('.view').forEach(s=>s.classList.toggle('active',s.id==='view_'+v));
