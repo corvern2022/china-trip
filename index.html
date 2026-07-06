@@ -1156,6 +1156,10 @@ const places=[
  {id:'r_maolu',cat:'맛집',name:'마오루 촨차이',han:'茅庐川菜 (大悦城店)',sub:'사천요리',lat:37.545389,lng:121.387389,note:'새우당면·새우계란찜·누룽지찹쌀갈비. 조이시티 6층.'},
  {id:'r_guoxiao',cat:'맛집',name:'궈샤오야오 훠궈',han:'郭小肴',sub:'무한리필 훠궈',lat:37.5362,lng:121.3958,note:'무한리필 훠궈 1인 50~60위안, 새우완자. 완다몰 안. (핀 대략)',approx:true},
  {id:'r_cheese',cat:'카페',name:'연태 치즈과자',han:'香酥其子块 (南洪风情街店)',sub:'로컬 베이커리',lat:37.5412,lng:121.3882,note:'연태 치즈과자 ¥8. 난홍풍정街 골목. (핀 대략)',approx:true},
+ {id:'r_hefeng',cat:'맛집',name:'허팡샤오카오 (상쾅점)',han:'合丰烧烤 (上夼一店)',sub:'꼬치구이',lat:37.5232,lng:121.3990,note:'2일차 저녁 꼬치구이. 上夼西路. (핀 대략)',approx:true,alias:'허펑 합풍 샤오카오'},
+ {id:'r_zhaoxi',cat:'맛집',name:'우육삼관',han:'朝夕牛肉糁馆',sub:'아침 소고기탕',lat:37.5368,lng:121.3945,note:'4·5일차 아침. 완다 근처. (핀 대략)',approx:true,alias:'차오시 우육탕 牛肉糁'},
+ {id:'s_sanzhan',cat:'쇼핑',name:'싼잔 도매시장',han:'三站批发市场',sub:'도매시장·100위안샵',lat:37.5415,lng:121.3905,note:'쌈찬도매시장+100위안샵. 北马路 인근. (핀 대략)',approx:true,alias:'삼참 삼잔 산잔'},
+ {id:'r_lvcha',cat:'맛집',name:'녹차식당',han:'绿茶餐厅',sub:'중식 체인',lat:37.5450,lng:121.3878,note:'4일차 저녁. 조이시티 인근 추정. (핀 대략)',approx:true,alias:'뤼차 그린티'},
 ];
 const hotels=[
  {id:'h_greatboutique',cat:'숙소',name:'그레이트 부티크 아파트먼트',han:'Great Boutique Apartment Hotel',sub:'숙소·7/12~7/14',lat:37.5359,lng:121.3952,note:'완다프라자 SOHO 아파트 A2동 16층 프런트. 즈푸구. (핀 대략)',approx:true,alias:'great boutique soho 완다'},
@@ -1166,8 +1170,23 @@ let DB=[],byId={};
 function rebuildDB(){DB=[];places.forEach(p=>DB.push(p));hotels.forEach(h=>DB.push(h));userPlaces.forEach(p=>DB.push(Object.assign({user:true},p)));byId={};DB.forEach(r=>byId[r.id]=r);}
 rebuildDB();
 
-const DEFAULT_FAVS=['p_chaoyang','p_suocheng','p_wharf','a_changyu','s_joycity','a_hongkou','p_more','p_miluo','p_jianbing','r_cheese','p_xingfu','p_nanhong','l_yantaiuniv','p_jixiang','p_zheng','p_maxiang','p_mongkok1','p_laobang','p_lishi','p_afu','p_yongge','p_dingxiang','r_guoxiao','r_maolu','p_wanda','p_jjy','p_rt','h_greatboutique','h_bright'];
-if(loadLS('yt_seed',null)!=='v11'){favorites=Array.from(new Set([...favorites,...DEFAULT_FAVS]));saveLS('yt_favs',favorites);saveLS('yt_seed','v11');}
+const DEFAULT_FAVS=['p_chaoyang','p_suocheng','p_wharf','a_changyu','s_joycity','a_hongkou','p_more','p_miluo','p_jianbing','r_cheese','p_xingfu','p_nanhong','l_yantaiuniv','p_jixiang','p_zheng','p_maxiang','p_mongkok1','p_laobang','p_lishi','p_afu','p_yongge','p_dingxiang','r_guoxiao','r_maolu','p_wanda','p_jjy','p_rt','h_greatboutique','h_bright','r_hefeng','r_zhaoxi','s_sanzhan','r_lvcha','r_mongkok3','a_yantaishan','a_dongpaotai','a_yuhuang'];
+if(loadLS('yt_seed',null)!=='v12'){favorites=Array.from(new Set([...favorites,...DEFAULT_FAVS]));saveLS('yt_favs',favorites);saveLS('yt_seed','v12');}
+// 최종 스케줄(7/10~7/14) 동선 1회 시드
+const ROUTE_SEED={
+ 1:['r_mongkok3','a_hongkou','a_yantaishan','p_lishi','p_chaoyang','p_zheng'],
+ 2:['p_wharf','a_dongpaotai','r_guoxiao','p_suocheng','p_wanda','r_hefeng'],
+ 3:['a_changyu','h_greatboutique','p_wanda','p_xingfu'],
+ 4:['r_zhaoxi','a_yuhuang','p_maxiang','s_sanzhan','p_nanhong','s_joycity','r_lvcha','p_rt','p_zheng'],
+ 5:['r_zhaoxi','p_wanda','p_jjy','p_lishi']
+};
+if(loadLS('yt_routeseed',null)!=='v1'){
+  Object.keys(ROUTE_SEED).forEach(d=>{
+    routes[d]=ROUTE_SEED[d].map(id=>{const r=byId[id];return r?{id:r.id,name:r.name,lat:r.lat,lng:r.lng}:null;}).filter(Boolean);
+  });
+  numDays=Math.max(numDays,5);
+  saveLS('yt_routes',routes);saveLS('yt_numDays',numDays);saveLS('yt_routeseed','v1');
+}
 {const cleaned=favorites.filter(id=>byId[id]);if(cleaned.length!==favorites.length){favorites=cleaned;saveLS('yt_favs',favorites);}}
 function isFav(id){return favorites.includes(id);}
 </script>
