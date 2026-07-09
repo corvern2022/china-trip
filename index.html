@@ -1678,9 +1678,27 @@ function renderRouteViewSafe(){try{renderRouteView();}catch(e){}}
 function shareStatus(){const el=document.getElementById('s_status');if(!el)return;el.innerHTML=SYNC?`✅ 공유 중 · 코드 <b>${SYNC.room}</b>. "🔗 링크 복사"로 상대에게 보내세요.`:'아직 공유 안 됨.';}
 document.getElementById('openShare').onclick=()=>{if(SYNC){document.getElementById('s_url').value=SYNC.url;document.getElementById('s_key').value=SYNC.key;document.getElementById('s_room').value=SYNC.room;}shareStatus();openOvl('shareSheet');};
 document.getElementById('copySql').onclick=()=>{const t=document.getElementById('sqlBox').value;const done=()=>toast('SQL 복사됨');if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(t).then(done).catch(()=>fbCopy(t,done));else fbCopy(t,done);};
-document.getElementById('s_connect').onclick=()=>{const url=document.getElementById('s_url').value.trim(),key=document.getElementById('s_key').value.trim(),room=document.getElementById('s_room').value.trim();
+document.getElementById('s_connect').onclick=async()=>{const url=document.getElementById('s_url').value.trim(),key=document.getElementById('s_key').value.trim(),room=document.getElementById('s_room').value.trim();
   if(!/^https:\/\/.+supabase\.co/.test(url)){toast('올바른 Supabase URL을 넣어주세요');return;}if(!key){toast('anon key를 넣어주세요');return;}if(!room){toast('공유 코드를 정해주세요');return;}
-  SYNC={url,key,room};saveLS('yt_sync',SYNC);startSync();shareStatus();toast('공유 연결됨');};
+  const tmp={url,key,room};
+  // 연결 전에 이 공유 코드에 이미 다른 데이터가 있는지 확인 — 있으면 말없이 덮어쓰지 않고 물어봄
+  try{
+    const r=await fetch(tmp.url.replace(/\/+$/,'')+'/rest/v1/yt_rooms?room=eq.'+encodeURIComponent(room)+'&select=data',{headers:{'apikey':tmp.key,'Authorization':'Bearer '+tmp.key}});
+    if(r.ok){
+      const rows=await r.json();
+      const remote=Array.isArray(rows)&&rows[0]&&rows[0].data;
+      if(remote&&coreHash(remote)!==coreHash(getState())){
+        const remoteN=(remote.favorites||[]).length+(remote.expenses||[]).length;
+        const localN=favorites.length+expenses.length;
+        const keepMine=confirm(`이 공유 코드에는 이미 다른 데이터가 있어요.\n(클라우드: 저장 ${(remote.favorites||[]).length}곳·지출 ${(remote.expenses||[]).length}건 / 이 기기: 저장 ${favorites.length}곳·지출 ${expenses.length}건)\n\n확인 = 이 기기 데이터를 유지하고 클라우드에 덮어쓰기\n취소 = 클라우드 데이터를 가져오기 (이 기기 데이터는 사라짐)`);
+        SYNC=tmp;saveLS('yt_sync',SYNC);
+        if(keepMine){await pushSync();clearInterval(pollTimer);pollTimer=setInterval(pullSync,4000);setDot('live');}
+        else startSync();
+        shareStatus();toast(keepMine?'이 기기 데이터로 덮어썼어요':'클라우드 데이터를 가져왔어요');return;
+      }
+    }
+  }catch(e){}
+  SYNC=tmp;saveLS('yt_sync',SYNC);startSync();shareStatus();toast('공유 연결됨');};
 document.getElementById('s_disconnect').onclick=()=>{SYNC=null;saveLS('yt_sync',null);clearInterval(pollTimer);setDot('');shareStatus();toast('공유 해제됨');};
 document.getElementById('s_copylink').onclick=()=>{if(!SYNC){toast('먼저 연결하세요');return;}const link=location.origin+location.pathname+'?su='+encodeURIComponent(SYNC.url)+'&sk='+encodeURIComponent(SYNC.key)+'&room='+encodeURIComponent(SYNC.room);const done=()=>toast('공유 링크 복사됨');if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(link).then(done).catch(()=>fbCopy(link,done));else fbCopy(link,done);};
 document.getElementById('s_export').onclick=()=>{const blob=new Blob([JSON.stringify(getState(),null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='yantai-plan.json';a.click();};
