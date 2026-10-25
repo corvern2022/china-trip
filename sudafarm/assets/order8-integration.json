@@ -1,0 +1,20 @@
+{
+  "status": "art-ready; src integration belongs to Claude",
+  "anchors": "unchanged; do not remeasure",
+  "pattern_index": "parts/pattern/contoured/index.json",
+  "pattern_maps": 180,
+  "pattern_use": "Lookup by wool PNG path and pattern id; display full-canvas no-repeat instead of repeating the shared tile. Keep existing screen/multiply/opacity/mask pipeline.",
+  "shadow": {
+    "file": "fx/animal_shadow.png",
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      248
+    ],
+    "placement": "under map animal at same canvas width; omit for layered portraits; use once per animal"
+  },
+  "scale": 0.55
+}

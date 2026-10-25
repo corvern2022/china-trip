@@ -1,0 +1,347 @@
+{
+  "sheep/wool_full.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "maps": {
+      "spots": "parts/pattern/contoured/sheep/wool_full/spots.png",
+      "stripes": "parts/pattern/contoured/sheep/wool_full/stripes.png",
+      "patch": "parts/pattern/contoured/sheep/wool_full/patch.png",
+      "fade": "parts/pattern/contoured/sheep/wool_full/fade.png",
+      "dots": "parts/pattern/contoured/sheep/wool_full/dots.png",
+      "checker": "parts/pattern/contoured/sheep/wool_full/checker.png",
+      "hearts": "parts/pattern/contoured/sheep/wool_full/hearts.png",
+      "stars": "parts/pattern/contoured/sheep/wool_full/stars.png",
+      "swirl": "parts/pattern/contoured/sheep/wool_full/swirl.png",
+      "flower": "parts/pattern/contoured/sheep/wool_full/flower.png",
+      "zigzag": "parts/pattern/contoured/sheep/wool_full/zigzag.png",
+      "galaxy": "parts/pattern/contoured/sheep/wool_full/galaxy.png"
+    },
+    "repeat": false,
+    "backgroundSize": "100% 100%",
+    "blend": "same screen accent + multiply wool + opacity .85 as existing renderer"
+  },
+  "sheep/wool_half.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "maps": {
+      "spots": "parts/pattern/contoured/sheep/wool_half/spots.png",
+      "stripes": "parts/pattern/contoured/sheep/wool_half/stripes.png",
+      "patch": "parts/pattern/contoured/sheep/wool_half/patch.png",
+      "fade": "parts/pattern/contoured/sheep/wool_half/fade.png",
+      "dots": "parts/pattern/contoured/sheep/wool_half/dots.png",
+      "checker": "parts/pattern/contoured/sheep/wool_half/checker.png",
+      "hearts": "parts/pattern/contoured/sheep/wool_half/hearts.png",
+      "stars": "parts/pattern/contoured/sheep/wool_half/stars.png",
+      "swirl": "parts/pattern/contoured/sheep/wool_half/swirl.png",
+      "flower": "parts/pattern/contoured/sheep/wool_half/flower.png",
+      "zigzag": "parts/pattern/contoured/sheep/wool_half/zigzag.png",
+      "galaxy": "parts/pattern/contoured/sheep/wool_half/galaxy.png"
+    },
+    "repeat": false,
+    "backgroundSize": "100% 100%",
+    "blend": "same screen accent + multiply wool + opacity .85 as existing renderer"
+  },
+  "sheep/wool_sheared.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "maps": {
+      "spots": "parts/pattern/contoured/sheep/wool_sheared/spots.png",
+      "stripes": "parts/pattern/contoured/sheep/wool_sheared/stripes.png",
+      "patch": "parts/pattern/contoured/sheep/wool_sheared/patch.png",
+      "fade": "parts/pattern/contoured/sheep/wool_sheared/fade.png",
+      "dots": "parts/pattern/contoured/sheep/wool_sheared/dots.png",
+      "checker": "parts/pattern/contoured/sheep/wool_sheared/checker.png",
+      "hearts": "parts/pattern/contoured/sheep/wool_sheared/hearts.png",
+      "stars": "parts/pattern/contoured/sheep/wool_sheared/stars.png",
+      "swirl": "parts/pattern/contoured/sheep/wool_sheared/swirl.png",
+      "flower": "parts/pattern/contoured/sheep/wool_sheared/flower.png",
+      "zigzag": "parts/pattern/contoured/sheep/wool_sheared/zigzag.png",
+      "galaxy": "parts/pattern/contoured/sheep/wool_sheared/galaxy.png"
+    },
+    "repeat": false,
+    "backgroundSize": "100% 100%",
+    "blend": "same screen accent + multiply wool + opacity .85 as existing renderer"
+  },
+  "sheep/wool_sleep.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "maps": {
+      "spots": "parts/pattern/contoured/sheep/wool_sleep/spots.png",
+      "stripes": "parts/pattern/contoured/sheep/wool_sleep/stripes.png",
+      "patch": "parts/pattern/contoured/sheep/wool_sleep/patch.png",
+      "fade": "parts/pattern/contoured/sheep/wool_sleep/fade.png",
+      "dots": "parts/pattern/contoured/sheep/wool_sleep/dots.png",
+      "checker": "parts/pattern/contoured/sheep/wool_sleep/checker.png",
+      "hearts": "parts/pattern/contoured/sheep/wool_sleep/hearts.png",
+      "stars": "parts/pattern/contoured/sheep/wool_sleep/stars.png",
+      "swirl": "parts/pattern/contoured/sheep/wool_sleep/swirl.png",
+      "flower": "parts/pattern/contoured/sheep/wool_sleep/flower.png",
+      "zigzag": "parts/pattern/contoured/sheep/wool_sleep/zigzag.png",
+      "galaxy": "parts/pattern/contoured/sheep/wool_sleep/galaxy.png"
+    },
+    "repeat": false,
+    "backgroundSize": "100% 100%",
+    "blend": "same screen accent + multiply wool + opacity .85 as existing renderer"
+  },
+  "sheep/short_wool_full.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "maps": {
+      "spots": "parts/pattern/contoured/sheep/short_wool_full/spots.png",
+      "stripes": "parts/pattern/contoured/sheep/short_wool_full/stripes.png",
+      "patch": "parts/pattern/contoured/sheep/short_wool_full/patch.png",
+      "fade": "parts/pattern/contoured/sheep/short_wool_full/fade.png",
+      "dots": "parts/pattern/contoured/sheep/short_wool_full/dots.png",
+      "checker": "parts/pattern/contoured/sheep/short_wool_full/checker.png",
+      "hearts": "parts/pattern/contoured/sheep/short_wool_full/hearts.png",
+      "stars": "parts/pattern/contoured/sheep/short_wool_full/stars.png",
+      "swirl": "parts/pattern/contoured/sheep/short_wool_full/swirl.png",
+      "flower": "parts/pattern/contoured/sheep/short_wool_full/flower.png",
+      "zigzag": "parts/pattern/contoured/sheep/short_wool_full/zigzag.png",
+      "galaxy": "parts/pattern/contoured/sheep/short_wool_full/galaxy.png"
+    },
+    "repeat": false,
+    "backgroundSize": "100% 100%",
+    "blend": "same screen accent + multiply wool + opacity .85 as existing renderer"
+  },
+  "sheep/baby_wool.png": {
+    "pixels": [
+      192,
+      192
+    ],
+    "maps": {
+      "spots": "parts/pattern/contoured/sheep/baby_wool/spots.png",
+      "stripes": "parts/pattern/contoured/sheep/baby_wool/stripes.png",
+      "patch": "parts/pattern/contoured/sheep/baby_wool/patch.png",
+      "fade": "parts/pattern/contoured/sheep/baby_wool/fade.png",
+      "dots": "parts/pattern/contoured/sheep/baby_wool/dots.png",
+      "checker": "parts/pattern/contoured/sheep/baby_wool/checker.png",
+      "hearts": "parts/pattern/contoured/sheep/baby_wool/hearts.png",
+      "stars": "parts/pattern/contoured/sheep/baby_wool/stars.png",
+      "swirl": "parts/pattern/contoured/sheep/baby_wool/swirl.png",
+      "flower": "parts/pattern/contoured/sheep/baby_wool/flower.png",
+      "zigzag": "parts/pattern/contoured/sheep/baby_wool/zigzag.png",
+      "galaxy": "parts/pattern/contoured/sheep/baby_wool/galaxy.png"
+    },
+    "repeat": false,
+    "backgroundSize": "100% 100%",
+    "blend": "same screen accent + multiply wool + opacity .85 as existing renderer"
+  },
+  "alpaca/wool_full.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "maps": {
+      "spots": "parts/pattern/contoured/alpaca/wool_full/spots.png",
+      "stripes": "parts/pattern/contoured/alpaca/wool_full/stripes.png",
+      "patch": "parts/pattern/contoured/alpaca/wool_full/patch.png",
+      "fade": "parts/pattern/contoured/alpaca/wool_full/fade.png",
+      "dots": "parts/pattern/contoured/alpaca/wool_full/dots.png",
+      "checker": "parts/pattern/contoured/alpaca/wool_full/checker.png",
+      "hearts": "parts/pattern/contoured/alpaca/wool_full/hearts.png",
+      "stars": "parts/pattern/contoured/alpaca/wool_full/stars.png",
+      "swirl": "parts/pattern/contoured/alpaca/wool_full/swirl.png",
+      "flower": "parts/pattern/contoured/alpaca/wool_full/flower.png",
+      "zigzag": "parts/pattern/contoured/alpaca/wool_full/zigzag.png",
+      "galaxy": "parts/pattern/contoured/alpaca/wool_full/galaxy.png"
+    },
+    "repeat": false,
+    "backgroundSize": "100% 100%",
+    "blend": "same screen accent + multiply wool + opacity .85 as existing renderer"
+  },
+  "alpaca/wool_eat.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "maps": {
+      "spots": "parts/pattern/contoured/alpaca/wool_eat/spots.png",
+      "stripes": "parts/pattern/contoured/alpaca/wool_eat/stripes.png",
+      "patch": "parts/pattern/contoured/alpaca/wool_eat/patch.png",
+      "fade": "parts/pattern/contoured/alpaca/wool_eat/fade.png",
+      "dots": "parts/pattern/contoured/alpaca/wool_eat/dots.png",
+      "checker": "parts/pattern/contoured/alpaca/wool_eat/checker.png",
+      "hearts": "parts/pattern/contoured/alpaca/wool_eat/hearts.png",
+      "stars": "parts/pattern/contoured/alpaca/wool_eat/stars.png",
+      "swirl": "parts/pattern/contoured/alpaca/wool_eat/swirl.png",
+      "flower": "parts/pattern/contoured/alpaca/wool_eat/flower.png",
+      "zigzag": "parts/pattern/contoured/alpaca/wool_eat/zigzag.png",
+      "galaxy": "parts/pattern/contoured/alpaca/wool_eat/galaxy.png"
+    },
+    "repeat": false,
+    "backgroundSize": "100% 100%",
+    "blend": "same screen accent + multiply wool + opacity .85 as existing renderer"
+  },
+  "alpaca/wool_half.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "maps": {
+      "spots": "parts/pattern/contoured/alpaca/wool_half/spots.png",
+      "stripes": "parts/pattern/contoured/alpaca/wool_half/stripes.png",
+      "patch": "parts/pattern/contoured/alpaca/wool_half/patch.png",
+      "fade": "parts/pattern/contoured/alpaca/wool_half/fade.png",
+      "dots": "parts/pattern/contoured/alpaca/wool_half/dots.png",
+      "checker": "parts/pattern/contoured/alpaca/wool_half/checker.png",
+      "hearts": "parts/pattern/contoured/alpaca/wool_half/hearts.png",
+      "stars": "parts/pattern/contoured/alpaca/wool_half/stars.png",
+      "swirl": "parts/pattern/contoured/alpaca/wool_half/swirl.png",
+      "flower": "parts/pattern/contoured/alpaca/wool_half/flower.png",
+      "zigzag": "parts/pattern/contoured/alpaca/wool_half/zigzag.png",
+      "galaxy": "parts/pattern/contoured/alpaca/wool_half/galaxy.png"
+    },
+    "repeat": false,
+    "backgroundSize": "100% 100%",
+    "blend": "same screen accent + multiply wool + opacity .85 as existing renderer"
+  },
+  "alpaca/wool_sheared.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "maps": {
+      "spots": "parts/pattern/contoured/alpaca/wool_sheared/spots.png",
+      "stripes": "parts/pattern/contoured/alpaca/wool_sheared/stripes.png",
+      "patch": "parts/pattern/contoured/alpaca/wool_sheared/patch.png",
+      "fade": "parts/pattern/contoured/alpaca/wool_sheared/fade.png",
+      "dots": "parts/pattern/contoured/alpaca/wool_sheared/dots.png",
+      "checker": "parts/pattern/contoured/alpaca/wool_sheared/checker.png",
+      "hearts": "parts/pattern/contoured/alpaca/wool_sheared/hearts.png",
+      "stars": "parts/pattern/contoured/alpaca/wool_sheared/stars.png",
+      "swirl": "parts/pattern/contoured/alpaca/wool_sheared/swirl.png",
+      "flower": "parts/pattern/contoured/alpaca/wool_sheared/flower.png",
+      "zigzag": "parts/pattern/contoured/alpaca/wool_sheared/zigzag.png",
+      "galaxy": "parts/pattern/contoured/alpaca/wool_sheared/galaxy.png"
+    },
+    "repeat": false,
+    "backgroundSize": "100% 100%",
+    "blend": "same screen accent + multiply wool + opacity .85 as existing renderer"
+  },
+  "alpaca/wool_sleep.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "maps": {
+      "spots": "parts/pattern/contoured/alpaca/wool_sleep/spots.png",
+      "stripes": "parts/pattern/contoured/alpaca/wool_sleep/stripes.png",
+      "patch": "parts/pattern/contoured/alpaca/wool_sleep/patch.png",
+      "fade": "parts/pattern/contoured/alpaca/wool_sleep/fade.png",
+      "dots": "parts/pattern/contoured/alpaca/wool_sleep/dots.png",
+      "checker": "parts/pattern/contoured/alpaca/wool_sleep/checker.png",
+      "hearts": "parts/pattern/contoured/alpaca/wool_sleep/hearts.png",
+      "stars": "parts/pattern/contoured/alpaca/wool_sleep/stars.png",
+      "swirl": "parts/pattern/contoured/alpaca/wool_sleep/swirl.png",
+      "flower": "parts/pattern/contoured/alpaca/wool_sleep/flower.png",
+      "zigzag": "parts/pattern/contoured/alpaca/wool_sleep/zigzag.png",
+      "galaxy": "parts/pattern/contoured/alpaca/wool_sleep/galaxy.png"
+    },
+    "repeat": false,
+    "backgroundSize": "100% 100%",
+    "blend": "same screen accent + multiply wool + opacity .85 as existing renderer"
+  },
+  "alpaca/suri_wool_full.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "maps": {
+      "spots": "parts/pattern/contoured/alpaca/suri_wool_full/spots.png",
+      "stripes": "parts/pattern/contoured/alpaca/suri_wool_full/stripes.png",
+      "patch": "parts/pattern/contoured/alpaca/suri_wool_full/patch.png",
+      "fade": "parts/pattern/contoured/alpaca/suri_wool_full/fade.png",
+      "dots": "parts/pattern/contoured/alpaca/suri_wool_full/dots.png",
+      "checker": "parts/pattern/contoured/alpaca/suri_wool_full/checker.png",
+      "hearts": "parts/pattern/contoured/alpaca/suri_wool_full/hearts.png",
+      "stars": "parts/pattern/contoured/alpaca/suri_wool_full/stars.png",
+      "swirl": "parts/pattern/contoured/alpaca/suri_wool_full/swirl.png",
+      "flower": "parts/pattern/contoured/alpaca/suri_wool_full/flower.png",
+      "zigzag": "parts/pattern/contoured/alpaca/suri_wool_full/zigzag.png",
+      "galaxy": "parts/pattern/contoured/alpaca/suri_wool_full/galaxy.png"
+    },
+    "repeat": false,
+    "backgroundSize": "100% 100%",
+    "blend": "same screen accent + multiply wool + opacity .85 as existing renderer"
+  },
+  "alpaca/baby_wool.png": {
+    "pixels": [
+      192,
+      240
+    ],
+    "maps": {
+      "spots": "parts/pattern/contoured/alpaca/baby_wool/spots.png",
+      "stripes": "parts/pattern/contoured/alpaca/baby_wool/stripes.png",
+      "patch": "parts/pattern/contoured/alpaca/baby_wool/patch.png",
+      "fade": "parts/pattern/contoured/alpaca/baby_wool/fade.png",
+      "dots": "parts/pattern/contoured/alpaca/baby_wool/dots.png",
+      "checker": "parts/pattern/contoured/alpaca/baby_wool/checker.png",
+      "hearts": "parts/pattern/contoured/alpaca/baby_wool/hearts.png",
+      "stars": "parts/pattern/contoured/alpaca/baby_wool/stars.png",
+      "swirl": "parts/pattern/contoured/alpaca/baby_wool/swirl.png",
+      "flower": "parts/pattern/contoured/alpaca/baby_wool/flower.png",
+      "zigzag": "parts/pattern/contoured/alpaca/baby_wool/zigzag.png",
+      "galaxy": "parts/pattern/contoured/alpaca/baby_wool/galaxy.png"
+    },
+    "repeat": false,
+    "backgroundSize": "100% 100%",
+    "blend": "same screen accent + multiply wool + opacity .85 as existing renderer"
+  },
+  "portrait/layered/sheep_wool.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "maps": {
+      "spots": "parts/pattern/contoured/portrait/layered/sheep_wool/spots.png",
+      "stripes": "parts/pattern/contoured/portrait/layered/sheep_wool/stripes.png",
+      "patch": "parts/pattern/contoured/portrait/layered/sheep_wool/patch.png",
+      "fade": "parts/pattern/contoured/portrait/layered/sheep_wool/fade.png",
+      "dots": "parts/pattern/contoured/portrait/layered/sheep_wool/dots.png",
+      "checker": "parts/pattern/contoured/portrait/layered/sheep_wool/checker.png",
+      "hearts": "parts/pattern/contoured/portrait/layered/sheep_wool/hearts.png",
+      "stars": "parts/pattern/contoured/portrait/layered/sheep_wool/stars.png",
+      "swirl": "parts/pattern/contoured/portrait/layered/sheep_wool/swirl.png",
+      "flower": "parts/pattern/contoured/portrait/layered/sheep_wool/flower.png",
+      "zigzag": "parts/pattern/contoured/portrait/layered/sheep_wool/zigzag.png",
+      "galaxy": "parts/pattern/contoured/portrait/layered/sheep_wool/galaxy.png"
+    },
+    "repeat": false,
+    "backgroundSize": "100% 100%",
+    "blend": "same screen accent + multiply wool + opacity .85 as existing renderer"
+  },
+  "portrait/layered/alpaca_wool.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "maps": {
+      "spots": "parts/pattern/contoured/portrait/layered/alpaca_wool/spots.png",
+      "stripes": "parts/pattern/contoured/portrait/layered/alpaca_wool/stripes.png",
+      "patch": "parts/pattern/contoured/portrait/layered/alpaca_wool/patch.png",
+      "fade": "parts/pattern/contoured/portrait/layered/alpaca_wool/fade.png",
+      "dots": "parts/pattern/contoured/portrait/layered/alpaca_wool/dots.png",
+      "checker": "parts/pattern/contoured/portrait/layered/alpaca_wool/checker.png",
+      "hearts": "parts/pattern/contoured/portrait/layered/alpaca_wool/hearts.png",
+      "stars": "parts/pattern/contoured/portrait/layered/alpaca_wool/stars.png",
+      "swirl": "parts/pattern/contoured/portrait/layered/alpaca_wool/swirl.png",
+      "flower": "parts/pattern/contoured/portrait/layered/alpaca_wool/flower.png",
+      "zigzag": "parts/pattern/contoured/portrait/layered/alpaca_wool/zigzag.png",
+      "galaxy": "parts/pattern/contoured/portrait/layered/alpaca_wool/galaxy.png"
+    },
+    "repeat": false,
+    "backgroundSize": "100% 100%",
+    "blend": "same screen accent + multiply wool + opacity .85 as existing renderer"
+  }
+}

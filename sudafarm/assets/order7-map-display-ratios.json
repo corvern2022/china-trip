@@ -1,0 +1,8 @@
+{
+  "plot_canvas_width_per_tile": 1,
+  "sheep_canvas_width_per_tile": 0.5512229705778092,
+  "tree_round_canvas_width_per_tile": 1.0637731833384005,
+  "tree_pine_canvas_width_per_tile": 0.7475961538461537,
+  "house_canvas_width_per_tile": 1.6,
+  "note": "Recommended game display multipliers. Keep plots exactly one tile. Claude applies these in src; art task does not change game code."
+}
