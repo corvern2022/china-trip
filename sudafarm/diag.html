@@ -1,0 +1,8 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>멈춤 기록</title></head>
+<body style="font:15px sans-serif;padding:16px;line-height:1.5">
+<h2>멈춤 기록</h2>
+<p>① <a href="./index.html?diag">게임 열기 (기록 켜짐)</a> → 멈추면 이 페이지로 돌아와 ② 새로고침하세요.</p>
+<pre id="o" style="white-space:pre-wrap;background:#f4f4f4;padding:8px;border-radius:8px">아직 기록 없음</pre>
+<script>
+try { const l = JSON.parse(localStorage.getItem('sudafarm-diag') || '[]'); if (l.length) document.getElementById('o').textContent = l.join('\n') } catch (e) { document.getElementById('o').textContent = '읽기 실패 ' + e }
+</script></body></html>
