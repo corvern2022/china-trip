@@ -1,19 +1,7 @@
-// 수다목장 오프라인 캐시: 그림·코드는 한 번 받으면 기기에 저장 (화면 HTML은 항상 새로 받아 업데이트 반영)
-const CACHE = 'sudafarm-v1'
+// 오프라인 캐시는 껐다 (아이폰 사파리에서 페이지가 반복해서 멈추는 원인으로 의심, 2026-10-25).
+// 예전에 설치된 기기에서도 스스로 지우고 손을 뗀다 — 요청은 가로채지 않는다.
 self.addEventListener('install', () => self.skipWaiting())
-self.addEventListener('activate', (e) => e.waitUntil(self.clients.claim()))
-self.addEventListener('fetch', (e) => {
-  const req = e.request
-  if (req.method !== 'GET' || new URL(req.url).origin !== location.origin) return
-  if (req.mode === 'navigate') {
-    e.respondWith(fetch(req).catch(() => caches.match(req)))
-    return
-  }
-  e.respondWith(caches.open(CACHE).then(async (c) => {
-    const hit = await c.match(req)
-    if (hit) return hit
-    const res = await fetch(req)
-    if (res.ok) c.put(req, res.clone())
-    return res
-  }))
-})
+self.addEventListener('activate', (e) => e.waitUntil((async () => {
+  for (const k of await caches.keys()) await caches.delete(k)
+  await self.registration.unregister()
+})()))
