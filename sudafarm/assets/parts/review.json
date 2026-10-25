@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "counts": {
+    "parts/pattern": 12,
+    "sheep/faceless": 9,
+    "alpaca/faceless": 9,
+    "parts/eyes": 24,
+    "parts/mouth": 10,
+    "parts/cheek": 4,
+    "parts/brow": 5,
+    "parts/acc": 28,
+    "ui/reveal": 8,
+    "fx/reveal": 5
+  },
+  "total": 114,
+  "nine_slice_corners": "exact at 3 aspect ratios",
+  "overlap_cases": 32,
+  "pose_accessory_composites": 108,
+  "expression_composites": 108
+}

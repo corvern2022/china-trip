@@ -1,0 +1,254 @@
+{
+  "body_idle.png": {
+    "eyes": [
+      201,
+      106
+    ],
+    "mouth": [
+      211,
+      124
+    ],
+    "brow": [
+      201,
+      95
+    ],
+    "cheek": [
+      199,
+      118
+    ],
+    "head_top": [
+      197,
+      48
+    ],
+    "neck": [
+      187,
+      126
+    ],
+    "scale": 0.75,
+    "wool": "wool_full.png"
+  },
+  "body_eat.png": {
+    "eyes": [
+      221,
+      286
+    ],
+    "mouth": [
+      226,
+      299
+    ],
+    "brow": [
+      221,
+      277
+    ],
+    "cheek": [
+      220,
+      295
+    ],
+    "head_top": [
+      212,
+      231
+    ],
+    "neck": [
+      206,
+      307
+    ],
+    "scale": 0.6,
+    "wool": "wool_eat.png"
+  },
+  "body_half.png": {
+    "eyes": [
+      203,
+      97
+    ],
+    "mouth": [
+      214,
+      116
+    ],
+    "brow": [
+      203,
+      87
+    ],
+    "cheek": [
+      201,
+      109
+    ],
+    "head_top": [
+      200,
+      51
+    ],
+    "neck": [
+      190,
+      119
+    ],
+    "scale": 0.75,
+    "wool": "wool_half.png"
+  },
+  "body_sheared.png": {
+    "eyes": [
+      202,
+      94
+    ],
+    "mouth": [
+      213,
+      113
+    ],
+    "brow": [
+      202,
+      83
+    ],
+    "cheek": [
+      201,
+      106
+    ],
+    "head_top": [
+      199,
+      50
+    ],
+    "neck": [
+      189,
+      115
+    ],
+    "scale": 0.75,
+    "wool": "wool_sheared.png"
+  },
+  "body_sleep.png": {
+    "eyes": [
+      201,
+      276
+    ],
+    "mouth": [
+      209,
+      293
+    ],
+    "brow": [
+      201,
+      269
+    ],
+    "cheek": [
+      200,
+      285
+    ],
+    "head_top": [
+      197,
+      206
+    ],
+    "neck": [
+      188,
+      300
+    ],
+    "scale": 0.55,
+    "wool": "wool_sleep.png"
+  },
+  "body_walk_a.png": {
+    "eyes": [
+      201,
+      106
+    ],
+    "mouth": [
+      211,
+      124
+    ],
+    "brow": [
+      201,
+      95
+    ],
+    "cheek": [
+      199,
+      118
+    ],
+    "head_top": [
+      197,
+      48
+    ],
+    "neck": [
+      187,
+      126
+    ],
+    "scale": 0.75,
+    "wool": "wool_full.png"
+  },
+  "body_walk_b.png": {
+    "eyes": [
+      201,
+      106
+    ],
+    "mouth": [
+      211,
+      124
+    ],
+    "brow": [
+      201,
+      95
+    ],
+    "cheek": [
+      199,
+      118
+    ],
+    "head_top": [
+      197,
+      48
+    ],
+    "neck": [
+      187,
+      126
+    ],
+    "scale": 0.75,
+    "wool": "wool_full.png"
+  },
+  "body_suri.png": {
+    "eyes": [
+      222,
+      118
+    ],
+    "mouth": [
+      237,
+      133
+    ],
+    "brow": [
+      222,
+      108
+    ],
+    "cheek": [
+      220,
+      130
+    ],
+    "head_top": [
+      219,
+      70
+    ],
+    "neck": [
+      210,
+      140
+    ],
+    "scale": 0.75,
+    "wool": "suri_wool_full.png"
+  },
+  "baby_body.png": {
+    "eyes": [
+      159,
+      105
+    ],
+    "mouth": [
+      165,
+      119
+    ],
+    "brow": [
+      159,
+      95
+    ],
+    "cheek": [
+      158,
+      116
+    ],
+    "head_top": [
+      152,
+      54
+    ],
+    "neck": [
+      144,
+      124
+    ],
+    "scale": 0.7,
+    "wool": "baby_wool.png"
+  }
+}

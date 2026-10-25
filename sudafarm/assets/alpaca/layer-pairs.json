@@ -1,0 +1,92 @@
+{
+  "idle": {
+    "wool": "wool_full.png",
+    "body": "body_idle.png",
+    "reference": "_reference_idle.png",
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "blink": {
+    "wool": "wool_blink.png",
+    "body": "body_blink.png",
+    "reference": "_reference_blink.png",
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "eat": {
+    "wool": "wool_eat.png",
+    "body": "body_eat.png",
+    "reference": "_reference_eat.png",
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "sleep": {
+    "wool": "wool_sleep.png",
+    "body": "body_sleep.png",
+    "reference": "_reference_sleep.png",
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "sheared": {
+    "wool": "wool_sheared.png",
+    "body": "body_sheared.png",
+    "reference": "_reference_sheared.png",
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "half": {
+    "wool": "wool_half.png",
+    "body": "body_half.png",
+    "reference": "_reference_half.png",
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "baby": {
+    "wool": "baby_wool.png",
+    "body": "baby_body.png",
+    "reference": "_reference_baby.png",
+    "anchor_pixels": [
+      96,
+      234
+    ]
+  },
+  "suri": {
+    "wool": "suri_wool_full.png",
+    "body": "body_suri.png",
+    "reference": "_reference_suri.png",
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "walk_a": {
+    "wool": "wool_full.png",
+    "body": "body_walk_a.png",
+    "reference": "_reference_walk_a.png",
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "walk_b": {
+    "wool": "wool_full.png",
+    "body": "body_walk_b.png",
+    "reference": "_reference_walk_b.png",
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  }
+}

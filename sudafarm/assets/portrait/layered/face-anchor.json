@@ -1,0 +1,60 @@
+{
+  "sheep_body.png": {
+    "eyes": [
+      511,
+      390
+    ],
+    "mouth": [
+      542,
+      464
+    ],
+    "cheek": [
+      511,
+      430
+    ],
+    "brow": [
+      511,
+      355
+    ],
+    "head_top": [
+      452,
+      115
+    ],
+    "neck": [
+      450,
+      565
+    ],
+    "scale": 1.18,
+    "wool": "sheep_wool.png",
+    "skin": "sheep_skin.png"
+  },
+  "alpaca_body.png": {
+    "eyes": [
+      472,
+      384
+    ],
+    "mouth": [
+      515,
+      457
+    ],
+    "cheek": [
+      472,
+      422
+    ],
+    "brow": [
+      472,
+      351
+    ],
+    "head_top": [
+      459,
+      150
+    ],
+    "neck": [
+      452,
+      551
+    ],
+    "scale": 1.05,
+    "wool": "alpaca_wool.png",
+    "skin": "alpaca_skin.png"
+  }
+}

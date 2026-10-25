@@ -1,0 +1,32 @@
+{
+  "idle": [
+    "wool_full.png",
+    "body_idle.png",
+    "_reference_idle.png"
+  ],
+  "sleep": [
+    "wool_sleep.png",
+    "body_sleep.png",
+    "_reference_sleep.png"
+  ],
+  "baby": [
+    "baby_wool.png",
+    "baby_body.png",
+    "_reference_baby.png"
+  ],
+  "sheared": [
+    "wool_sheared.png",
+    "body_sheared.png",
+    "_reference_sheared.png"
+  ],
+  "half": [
+    "wool_half.png",
+    "body_half.png",
+    "_reference_half.png"
+  ],
+  "short": [
+    "short_wool_full.png",
+    "body_short.png",
+    "_reference_short.png"
+  ]
+}

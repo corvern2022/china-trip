@@ -1,0 +1,34 @@
+{
+  "draw_order": [
+    "body",
+    "pattern",
+    "cheek",
+    "eyes",
+    "brow",
+    "mouth",
+    "acc:neck",
+    "acc:eyes",
+    "acc:mouth",
+    "acc:head_top"
+  ],
+  "eye_accessories": [
+    "acc_boss.png",
+    "acc_chuuni.png",
+    "acc_philosopher.png",
+    "acc_shy.png"
+  ],
+  "eye_replacement": {
+    "monocle": "round",
+    "fire": "round"
+  },
+  "preserve_blink_state": true,
+  "preserve_accessory_on_expression_change": true,
+  "brow": "explicit body brow anchor equals eyes plus a posture-specific upward offset",
+  "pattern_fade": "stretch once; never repeat",
+  "none": [
+    "cheek",
+    "brow",
+    "acc"
+  ],
+  "placement": "bodyAnchor - pivot * scale; apply same scale to part; allow hats beyond body canvas"
+}
