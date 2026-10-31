@@ -1,0 +1,143 @@
+{
+  "egg_1.png": {
+    "pixels": [
+      192,
+      192
+    ],
+    "pivot": [
+      96,
+      186
+    ],
+    "anchor_pixels": [
+      96,
+      186
+    ],
+    "order": 1,
+    "use": "egg → crack → open, then frame + badge",
+    "slot": "effect"
+  },
+  "egg_2.png": {
+    "pixels": [
+      192,
+      192
+    ],
+    "pivot": [
+      96,
+      186
+    ],
+    "anchor_pixels": [
+      96,
+      186
+    ],
+    "order": 2,
+    "use": "egg → crack → open, then frame + badge",
+    "slot": "effect"
+  },
+  "egg_3.png": {
+    "pixels": [
+      192,
+      192
+    ],
+    "pivot": [
+      96,
+      186
+    ],
+    "anchor_pixels": [
+      96,
+      186
+    ],
+    "order": 3,
+    "use": "egg → crack → open, then frame + badge",
+    "slot": "effect"
+  },
+  "sparkle_sr.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      192
+    ],
+    "anchor_pixels": [
+      192,
+      192
+    ],
+    "order": null,
+    "use": "behind the card, rotate slowly / additive",
+    "slot": "effect"
+  },
+  "sparkle_ur.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      192
+    ],
+    "anchor_pixels": [
+      192,
+      192
+    ],
+    "order": null,
+    "use": "behind the card, rotate slowly / additive",
+    "slot": "effect"
+  },
+  "egg_gold_1.png": {
+    "pixels": [
+      192,
+      192
+    ],
+    "pivot": [
+      96,
+      186
+    ],
+    "anchor_pixels": [
+      96,
+      186
+    ]
+  },
+  "egg_gold_2.png": {
+    "pixels": [
+      192,
+      192
+    ],
+    "pivot": [
+      96,
+      186
+    ],
+    "anchor_pixels": [
+      96,
+      186
+    ]
+  },
+  "egg_gold_3.png": {
+    "pixels": [
+      192,
+      192
+    ],
+    "pivot": [
+      96,
+      186
+    ],
+    "anchor_pixels": [
+      96,
+      186
+    ]
+  },
+  "sparkle_lr.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      192
+    ],
+    "anchor_pixels": [
+      192,
+      192
+    ]
+  }
+}

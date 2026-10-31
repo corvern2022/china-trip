@@ -1,0 +1,1207 @@
+{
+  "pattern": {
+    "ok": true,
+    "errors": [],
+    "details": {
+      "checker.png": {
+        "ink_coverage": 0.504,
+        "seam_x": 0.0,
+        "inner_x": 254.0,
+        "seam_y": 0.0,
+        "inner_y": 254.0
+      },
+      "dots.png": {
+        "ink_coverage": 0.073,
+        "seam_x": 0.0,
+        "inner_x": 16.82,
+        "seam_y": 0.0,
+        "inner_y": 15.91
+      },
+      "fade.png": {
+        "ink_coverage": 0.423,
+        "seam_x": 54.68,
+        "inner_x": 56.27,
+        "seam_y": 230.44,
+        "inner_y": 30.86
+      },
+      "flower.png": {
+        "ink_coverage": 0.146,
+        "seam_x": 0.0,
+        "inner_x": 13.86,
+        "seam_y": 0.0,
+        "inner_y": 19.98
+      },
+      "galaxy.png": {
+        "ink_coverage": 0.071,
+        "seam_x": 0.0,
+        "inner_x": 22.97,
+        "seam_y": 0.0,
+        "inner_y": 26.95
+      },
+      "hearts.png": {
+        "ink_coverage": 0.128,
+        "seam_x": 0.0,
+        "inner_x": 14.94,
+        "seam_y": 0.0,
+        "inner_y": 15.45
+      },
+      "patch.png": {
+        "ink_coverage": 0.437,
+        "seam_x": 0.0,
+        "inner_x": 18.01,
+        "seam_y": 0.0,
+        "inner_y": 20.69
+      },
+      "spots.png": {
+        "ink_coverage": 0.217,
+        "seam_x": 0.0,
+        "inner_x": 15.98,
+        "seam_y": 0.0,
+        "inner_y": 16.86
+      },
+      "stars.png": {
+        "ink_coverage": 0.121,
+        "seam_x": 0.0,
+        "inner_x": 13.59,
+        "seam_y": 0.0,
+        "inner_y": 33.98
+      },
+      "stripes.png": {
+        "ink_coverage": 0.408,
+        "seam_x": 0.0,
+        "inner_x": 10.54,
+        "seam_y": 0.0,
+        "inner_y": 11.5
+      },
+      "swirl.png": {
+        "ink_coverage": 0.217,
+        "seam_x": 0.0,
+        "inner_x": 18.57,
+        "seam_y": 0.0,
+        "inner_y": 26.28
+      },
+      "zigzag.png": {
+        "ink_coverage": 0.407,
+        "seam_x": 0.0,
+        "inner_x": 12.02,
+        "seam_y": 0.0,
+        "inner_y": 13.97
+      }
+    }
+  },
+  "faceless": {
+    "ok": true,
+    "errors": [],
+    "details": {
+      "sheep/baby_body.png": {
+        "changed_px": 843,
+        "whites_left": 0,
+        "outline_rgb": [
+          47,
+          14,
+          0
+        ],
+        "outline_dist": 89.0
+      },
+      "sheep/body_eat.png": {
+        "changed_px": 971,
+        "whites_left": 0,
+        "outline_rgb": [
+          52,
+          17,
+          1
+        ],
+        "outline_dist": 80.0
+      },
+      "sheep/body_half.png": {
+        "changed_px": 1106,
+        "whites_left": 0,
+        "outline_rgb": [
+          38,
+          9,
+          0
+        ],
+        "outline_dist": 103.0
+      },
+      "sheep/body_idle.png": {
+        "changed_px": 971,
+        "whites_left": 0,
+        "outline_rgb": [
+          52,
+          18,
+          1
+        ],
+        "outline_dist": 79.0
+      },
+      "sheep/body_sheared.png": {
+        "changed_px": 1135,
+        "whites_left": 0,
+        "outline_rgb": [
+          38,
+          9,
+          0
+        ],
+        "outline_dist": 103.0
+      },
+      "sheep/body_short.png": {
+        "changed_px": 1064,
+        "whites_left": 0,
+        "outline_rgb": [
+          39,
+          9,
+          0
+        ],
+        "outline_dist": 102.0
+      },
+      "sheep/body_sleep.png": {
+        "changed_px": 852,
+        "whites_left": 0,
+        "outline_rgb": [
+          47,
+          14,
+          0
+        ],
+        "outline_dist": 89.0
+      },
+      "sheep/body_walk_a.png": {
+        "changed_px": 971,
+        "whites_left": 0,
+        "outline_rgb": [
+          52,
+          18,
+          1
+        ],
+        "outline_dist": 79.0
+      },
+      "sheep/body_walk_b.png": {
+        "changed_px": 971,
+        "whites_left": 0,
+        "outline_rgb": [
+          52,
+          18,
+          1
+        ],
+        "outline_dist": 79.0
+      },
+      "alpaca/baby_body.png": {
+        "changed_px": 298,
+        "whites_left": 1,
+        "outline_rgb": [
+          24,
+          0,
+          0
+        ],
+        "outline_dist": 126.0
+      },
+      "alpaca/body_eat.png": {
+        "changed_px": 188,
+        "whites_left": 0,
+        "outline_rgb": [
+          32,
+          5,
+          0
+        ],
+        "outline_dist": 113.0
+      },
+      "alpaca/body_half.png": {
+        "changed_px": 477,
+        "whites_left": 0,
+        "outline_rgb": [
+          25,
+          1,
+          0
+        ],
+        "outline_dist": 124.0
+      },
+      "alpaca/body_idle.png": {
+        "changed_px": 472,
+        "whites_left": 0,
+        "outline_rgb": [
+          33,
+          5,
+          0
+        ],
+        "outline_dist": 112.0
+      },
+      "alpaca/body_sheared.png": {
+        "changed_px": 474,
+        "whites_left": 0,
+        "outline_rgb": [
+          24,
+          0,
+          0
+        ],
+        "outline_dist": 126.0
+      },
+      "alpaca/body_sleep.png": {
+        "changed_px": 139,
+        "whites_left": 0,
+        "outline_rgb": [
+          31,
+          5,
+          0
+        ],
+        "outline_dist": 114.0
+      },
+      "alpaca/body_suri.png": {
+        "changed_px": 486,
+        "whites_left": 0,
+        "outline_rgb": [
+          23,
+          0,
+          0
+        ],
+        "outline_dist": 127.0
+      },
+      "alpaca/body_walk_a.png": {
+        "changed_px": 472,
+        "whites_left": 0,
+        "outline_rgb": [
+          33,
+          5,
+          0
+        ],
+        "outline_dist": 112.0
+      },
+      "alpaca/body_walk_b.png": {
+        "changed_px": 472,
+        "whites_left": 0,
+        "outline_rgb": [
+          33,
+          5,
+          0
+        ],
+        "outline_dist": 112.0
+      }
+    }
+  },
+  "face": {
+    "ok": true,
+    "errors": [],
+    "details": {
+      "eyes": {
+        "alien_closed.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "alien_open.png": {
+          "outline_rgb": [
+            38,
+            29,
+            37
+          ],
+          "outline_dist": 62.0
+        },
+        "dot_closed.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "dot_open.png": {
+          "outline_rgb": [
+            40,
+            22,
+            16
+          ],
+          "outline_dist": 72.0
+        },
+        "fire_closed.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "fire_open.png": {
+          "outline_rgb": [
+            40,
+            22,
+            16
+          ],
+          "outline_dist": 72.0
+        },
+        "heart_closed.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "heart_open.png": {
+          "outline_rgb": [
+            74,
+            47,
+            29
+          ],
+          "outline_dist": 0.0
+        },
+        "monocle_closed.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "monocle_open.png": {
+          "outline_rgb": [
+            40,
+            22,
+            16
+          ],
+          "outline_dist": 72.0
+        },
+        "round_closed.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "round_open.png": {
+          "outline_rgb": [
+            40,
+            22,
+            16
+          ],
+          "outline_dist": 72.0
+        },
+        "sharp_closed.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "sharp_open.png": {
+          "outline_rgb": [
+            40,
+            22,
+            16
+          ],
+          "outline_dist": 72.0
+        },
+        "sleepy_closed.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "sleepy_open.png": {
+          "outline_rgb": [
+            40,
+            22,
+            16
+          ],
+          "outline_dist": 72.0
+        },
+        "smug_closed.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "smug_open.png": {
+          "outline_rgb": [
+            40,
+            22,
+            16
+          ],
+          "outline_dist": 72.0
+        },
+        "sparkle_closed.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "sparkle_open.png": {
+          "outline_rgb": [
+            40,
+            22,
+            16
+          ],
+          "outline_dist": 72.0
+        },
+        "swirl_closed.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "swirl_open.png": {
+          "outline_rgb": [
+            40,
+            22,
+            16
+          ],
+          "outline_dist": 72.0
+        },
+        "teary_closed.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "teary_open.png": {
+          "outline_rgb": [
+            40,
+            22,
+            16
+          ],
+          "outline_dist": 72.0
+        }
+      },
+      "mouth": {
+        "cat.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "grin.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "munch.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "o.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "open.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "pout.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "smile.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "smirk.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "tongue.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "wavy.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        }
+      },
+      "cheek": {
+        "blush.png": {
+          "outline_rgb": [
+            199,
+            199,
+            199
+          ],
+          "outline_dist": 447.0,
+          "neutral": true,
+          "min_gray": 199
+        },
+        "freckle.png": {
+          "outline_rgb": [
+            202,
+            202,
+            202
+          ],
+          "outline_dist": 457.5,
+          "neutral": true,
+          "min_gray": 196
+        },
+        "sparkle.png": {
+          "outline_rgb": [
+            205,
+            205,
+            205
+          ],
+          "outline_dist": 465.0,
+          "neutral": true,
+          "min_gray": 196
+        },
+        "swirl.png": {
+          "outline_rgb": [
+            214,
+            214,
+            214
+          ],
+          "outline_dist": 492.0,
+          "neutral": true,
+          "min_gray": 196
+        }
+      },
+      "brow": {
+        "down.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "fancy.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "thick.png": {
+          "outline_rgb": [
+            38,
+            19,
+            11
+          ],
+          "outline_dist": 82.0
+        },
+        "up.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        },
+        "worried.png": {
+          "outline_rgb": [
+            52,
+            27,
+            15
+          ],
+          "outline_dist": 56.0
+        }
+      }
+    }
+  },
+  "acc_type": {
+    "ok": true,
+    "errors": [],
+    "details": {
+      "acc_alien.png": {
+        "outline_rgb": [
+          31,
+          5,
+          0
+        ],
+        "outline_dist": 114.0
+      },
+      "acc_boss.png": {
+        "outline_rgb": [
+          28,
+          15,
+          11
+        ],
+        "outline_dist": 95.5
+      },
+      "acc_chuuni.png": {
+        "outline_rgb": [
+          31,
+          0,
+          0
+        ],
+        "outline_dist": 119.0
+      },
+      "acc_detective.png": {
+        "outline_rgb": [
+          42,
+          11,
+          0
+        ],
+        "outline_dist": 96.5
+      },
+      "acc_glutton.png": {
+        "outline_rgb": [
+          41,
+          6,
+          0
+        ],
+        "outline_dist": 102.5
+      },
+      "acc_grandma.png": {
+        "outline_rgb": [
+          36,
+          6,
+          0
+        ],
+        "outline_dist": 108.0
+      },
+      "acc_idol.png": {
+        "outline_rgb": [
+          35,
+          7,
+          0
+        ],
+        "outline_dist": 108.0
+      },
+      "acc_klutz.png": {
+        "outline_rgb": [
+          44,
+          10,
+          0
+        ],
+        "outline_dist": 96.0
+      },
+      "acc_noble.png": {
+        "outline_rgb": [
+          31,
+          3,
+          0
+        ],
+        "outline_dist": 116.0
+      },
+      "acc_philosopher.png": {
+        "outline_rgb": [
+          39,
+          8,
+          0
+        ],
+        "outline_dist": 103.0
+      },
+      "acc_poet.png": {
+        "outline_rgb": [
+          40,
+          8,
+          0
+        ],
+        "outline_dist": 102.0
+      },
+      "acc_princess.png": {
+        "outline_rgb": [
+          41,
+          9,
+          0
+        ],
+        "outline_dist": 100.0
+      },
+      "acc_showoff.png": {
+        "outline_rgb": [
+          35,
+          3,
+          0
+        ],
+        "outline_dist": 111.5
+      },
+      "acc_shy.png": {
+        "outline_rgb": [
+          48,
+          9,
+          0
+        ],
+        "outline_dist": 92.5
+      },
+      "acc_sleepy.png": {
+        "outline_rgb": [
+          39,
+          5,
+          0
+        ],
+        "outline_dist": 106.0
+      },
+      "acc_tsundere.png": {
+        "outline_rgb": [
+          56,
+          0,
+          0
+        ],
+        "outline_dist": 94.0
+      }
+    }
+  },
+  "acc_common": {
+    "ok": true,
+    "errors": [],
+    "details": {
+      "bandana.png": {
+        "outline_rgb": [
+          104,
+          104,
+          104
+        ],
+        "outline_dist": 162.0,
+        "neutral": true,
+        "min_gray": 104
+      },
+      "beanie.png": {
+        "outline_rgb": [
+          74,
+          47,
+          29
+        ],
+        "outline_dist": 0.0
+      },
+      "bell.png": {
+        "outline_rgb": [
+          104,
+          104,
+          104
+        ],
+        "outline_dist": 162.0,
+        "neutral": true,
+        "min_gray": 104
+      },
+      "bow.png": {
+        "outline_rgb": [
+          104,
+          104,
+          104
+        ],
+        "outline_dist": 162.0,
+        "neutral": true,
+        "min_gray": 104
+      },
+      "ear_tag.png": {
+        "outline_rgb": [
+          74,
+          47,
+          29
+        ],
+        "outline_dist": 0.0
+      },
+      "flower_crown.png": {
+        "outline_rgb": [
+          74,
+          47,
+          29
+        ],
+        "outline_dist": 0.0
+      },
+      "halo.png": {
+        "outline_rgb": [
+          74,
+          47,
+          29
+        ],
+        "outline_dist": 0.0
+      },
+      "horns_curl.png": {
+        "outline_rgb": [
+          74,
+          47,
+          29
+        ],
+        "outline_dist": 0.0
+      },
+      "horns_small.png": {
+        "outline_rgb": [
+          74,
+          47,
+          29
+        ],
+        "outline_dist": 0.0
+      },
+      "leaf.png": {
+        "outline_rgb": [
+          74,
+          47,
+          29
+        ],
+        "outline_dist": 0.0
+      },
+      "party_hat.png": {
+        "outline_rgb": [
+          74,
+          47,
+          29
+        ],
+        "outline_dist": 0.0
+      },
+      "scarf.png": {
+        "outline_rgb": [
+          104,
+          104,
+          104
+        ],
+        "outline_dist": 162.0,
+        "neutral": true,
+        "min_gray": 104
+      }
+    }
+  },
+  "reveal": {
+    "ok": true,
+    "errors": [],
+    "details": {
+      "ui/reveal/frame_N.png": {
+        "size": [
+          208,
+          256
+        ],
+        "pixels": [
+          208,
+          256
+        ],
+        "pivot": [
+          0,
+          0
+        ],
+        "anchor_pixels": [
+          0,
+          0
+        ],
+        "slice_trbl": [
+          28,
+          28,
+          28,
+          28
+        ],
+        "min_pixels": [
+          57,
+          57
+        ],
+        "stretch": "edges-and-center",
+        "grade": "N",
+        "slot": "ui"
+      },
+      "ui/reveal/frame_R.png": {
+        "size": [
+          208,
+          256
+        ],
+        "pixels": [
+          208,
+          256
+        ],
+        "pivot": [
+          0,
+          0
+        ],
+        "anchor_pixels": [
+          0,
+          0
+        ],
+        "slice_trbl": [
+          28,
+          28,
+          28,
+          28
+        ],
+        "min_pixels": [
+          57,
+          57
+        ],
+        "stretch": "edges-and-center",
+        "grade": "R",
+        "slot": "ui"
+      },
+      "ui/reveal/frame_SR.png": {
+        "size": [
+          208,
+          256
+        ],
+        "pixels": [
+          208,
+          256
+        ],
+        "pivot": [
+          0,
+          0
+        ],
+        "anchor_pixels": [
+          0,
+          0
+        ],
+        "slice_trbl": [
+          28,
+          28,
+          28,
+          28
+        ],
+        "min_pixels": [
+          57,
+          57
+        ],
+        "stretch": "edges-and-center",
+        "grade": "SR",
+        "slot": "ui"
+      },
+      "ui/reveal/frame_UR.png": {
+        "size": [
+          208,
+          256
+        ],
+        "pixels": [
+          208,
+          256
+        ],
+        "pivot": [
+          0,
+          0
+        ],
+        "anchor_pixels": [
+          0,
+          0
+        ],
+        "slice_trbl": [
+          28,
+          28,
+          28,
+          28
+        ],
+        "min_pixels": [
+          57,
+          57
+        ],
+        "stretch": "edges-and-center",
+        "grade": "UR",
+        "slot": "ui"
+      },
+      "ui/reveal/badge_N.png": {
+        "size": [
+          160,
+          56
+        ],
+        "pixels": [
+          160,
+          56
+        ],
+        "pivot": [
+          80,
+          28
+        ],
+        "anchor_pixels": [
+          80,
+          28
+        ],
+        "grade": "N",
+        "note": "no text; game draws the grade label, stars = grade",
+        "slot": "ui"
+      },
+      "ui/reveal/badge_R.png": {
+        "size": [
+          160,
+          56
+        ],
+        "pixels": [
+          160,
+          56
+        ],
+        "pivot": [
+          80,
+          28
+        ],
+        "anchor_pixels": [
+          80,
+          28
+        ],
+        "grade": "R",
+        "note": "no text; game draws the grade label, stars = grade",
+        "slot": "ui"
+      },
+      "ui/reveal/badge_SR.png": {
+        "size": [
+          160,
+          56
+        ],
+        "pixels": [
+          160,
+          56
+        ],
+        "pivot": [
+          80,
+          28
+        ],
+        "anchor_pixels": [
+          80,
+          28
+        ],
+        "grade": "SR",
+        "note": "no text; game draws the grade label, stars = grade",
+        "slot": "ui"
+      },
+      "ui/reveal/badge_UR.png": {
+        "size": [
+          160,
+          56
+        ],
+        "pixels": [
+          160,
+          56
+        ],
+        "pivot": [
+          80,
+          28
+        ],
+        "anchor_pixels": [
+          80,
+          28
+        ],
+        "grade": "UR",
+        "note": "no text; game draws the grade label, stars = grade",
+        "slot": "ui"
+      },
+      "fx/reveal/egg_1.png": {
+        "size": [
+          192,
+          192
+        ],
+        "pixels": [
+          192,
+          192
+        ],
+        "pivot": [
+          96,
+          186
+        ],
+        "anchor_pixels": [
+          96,
+          186
+        ],
+        "order": 1,
+        "use": "egg → crack → open, then frame + badge",
+        "slot": "effect"
+      },
+      "fx/reveal/egg_2.png": {
+        "size": [
+          192,
+          192
+        ],
+        "pixels": [
+          192,
+          192
+        ],
+        "pivot": [
+          96,
+          186
+        ],
+        "anchor_pixels": [
+          96,
+          186
+        ],
+        "order": 2,
+        "use": "egg → crack → open, then frame + badge",
+        "slot": "effect"
+      },
+      "fx/reveal/egg_3.png": {
+        "size": [
+          192,
+          192
+        ],
+        "pixels": [
+          192,
+          192
+        ],
+        "pivot": [
+          96,
+          186
+        ],
+        "anchor_pixels": [
+          96,
+          186
+        ],
+        "order": 3,
+        "use": "egg → crack → open, then frame + badge",
+        "slot": "effect"
+      },
+      "fx/reveal/sparkle_sr.png": {
+        "size": [
+          384,
+          384
+        ],
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          192
+        ],
+        "anchor_pixels": [
+          192,
+          192
+        ],
+        "order": null,
+        "use": "behind the card, rotate slowly / additive",
+        "slot": "effect"
+      },
+      "fx/reveal/sparkle_ur.png": {
+        "size": [
+          384,
+          384
+        ],
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          192
+        ],
+        "anchor_pixels": [
+          192,
+          192
+        ],
+        "order": null,
+        "use": "behind the card, rotate slowly / additive",
+        "slot": "effect"
+      }
+    }
+  }
+}

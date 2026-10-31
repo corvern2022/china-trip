@@ -1,0 +1,398 @@
+{
+  "house_1.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ]
+  },
+  "house_2.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ]
+  },
+  "house_3.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ]
+  },
+  "mailbox.png": {
+    "pixels": [
+      160,
+      224
+    ],
+    "pivot": [
+      80,
+      218
+    ],
+    "anchor_pixels": [
+      80,
+      218
+    ]
+  },
+  "shop_stall.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ]
+  },
+  "feed_mill.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "animation_base": "feed_mill.png",
+    "animated_regions": []
+  },
+  "feed_mill_work_1.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "animation_base": "feed_mill.png",
+    "animated_regions": [
+      [
+        100,
+        28,
+        377,
+        252
+      ],
+      [
+        55,
+        0,
+        230,
+        120
+      ]
+    ]
+  },
+  "feed_mill_work_2.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "animation_base": "feed_mill.png",
+    "animated_regions": [
+      [
+        100,
+        28,
+        377,
+        252
+      ],
+      [
+        55,
+        0,
+        230,
+        120
+      ]
+    ]
+  },
+  "snack_kitchen.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "animation_base": "snack_kitchen.png",
+    "animated_regions": []
+  },
+  "snack_kitchen_work_1.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "animation_base": "snack_kitchen.png",
+    "animated_regions": [
+      [
+        65,
+        0,
+        190,
+        115
+      ]
+    ]
+  },
+  "snack_kitchen_work_2.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "animation_base": "snack_kitchen.png",
+    "animated_regions": [
+      [
+        65,
+        0,
+        190,
+        115
+      ]
+    ]
+  },
+  "grooming_stand.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "animation_base": "grooming_stand.png",
+    "animated_regions": []
+  },
+  "grooming_stand_work_1.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "animation_base": "grooming_stand.png",
+    "animated_regions": [
+      [
+        266,
+        125,
+        383,
+        289
+      ]
+    ]
+  },
+  "grooming_stand_work_2.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "animation_base": "grooming_stand.png",
+    "animated_regions": [
+      [
+        266,
+        125,
+        383,
+        289
+      ]
+    ]
+  },
+  "storage_1.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ]
+  },
+  "storage_2.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ]
+  },
+  "order_board.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "pivot": [
+      128,
+      314
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "bathhouse.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "animation_base": "bathhouse.png",
+    "animated_regions": [
+      [
+        220,
+        0,
+        600,
+        250
+      ],
+      [
+        650,
+        742,
+        970,
+        946
+      ]
+    ],
+    "region_coordinate_space": "source normalized 1280x1280"
+  },
+  "bathhouse_work_1.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "animation_base": "bathhouse.png",
+    "animated_regions": [
+      [
+        220,
+        0,
+        600,
+        250
+      ],
+      [
+        650,
+        742,
+        970,
+        946
+      ]
+    ],
+    "region_coordinate_space": "source normalized 1280x1280"
+  },
+  "bathhouse_work_2.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "animation_base": "bathhouse.png",
+    "animated_regions": [
+      [
+        220,
+        0,
+        600,
+        250
+      ],
+      [
+        650,
+        742,
+        970,
+        946
+      ]
+    ],
+    "region_coordinate_space": "source normalized 1280x1280"
+  }
+}

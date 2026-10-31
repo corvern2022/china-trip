@@ -1,0 +1,1135 @@
+{
+  "gold.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "heart.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "candy.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "xp.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "sheep_count.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "house_count.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tool_shovel.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tool_cursor.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tool_gift.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tool_shop.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tool_manager.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tool_fullscreen.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tool_settings.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tool_book.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tool_letter.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tab_new.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tab_seed.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tab_house.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tab_deco.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tab_potion.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tab_land.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tab_breed.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "land_expand.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "act_shear.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "act_pet.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "act_wash.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "act_chat.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "act_instant.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "wool_ball.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "potion_grow.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "potion_love.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "potion_clean.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "crop_carrot.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "crop_strawberry.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "crop_cotton.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "emo_hungry.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "emo_angry.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "emo_love.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "emo_zzz.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "emo_jealous.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "emo_question.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "gift_box.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tool_auto.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon",
+    "source": "next/icons.png"
+  },
+  "ai_brain.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon",
+    "source": "next/icons.png"
+  },
+  "tool_news.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon",
+    "source": "next/icons.png"
+  },
+  "tool_quest.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon",
+    "source": "next/icons.png"
+  },
+  "egg.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon",
+    "source": "next/icons.png"
+  },
+  "adopt.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon",
+    "source": "next/icons.png"
+  },
+  "personality.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon",
+    "source": "next/icons.png"
+  },
+  "thought.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon",
+    "source": "next/icons.png"
+  },
+  "act_fight.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon",
+    "source": "next/icons.png"
+  },
+  "memory.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon",
+    "source": "next/icons.png"
+  },
+  "partner.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon",
+    "source": "next/icons.png"
+  },
+  "hand_point.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon",
+    "source": "next/icons.png"
+  },
+  "visit.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "legend.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "stat_food.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "stat_mood.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "stat_wool.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "stat_grow.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "act_feed.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "crop_grass.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "good_feed.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "good_feed_premium.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "good_feed_alpaca.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "good_cookie.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "good_wool.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "good_woolball.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "crop_potato.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "crop_corn.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "crop_watermelon.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "crop_lavender.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "crop_sunflower.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "crop_rainbow_berry.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "storage.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "order.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "sold.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "tool_stall.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "tool_care.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "farm_mood.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "skip.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "wool_golden.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "season_spring.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "season_autumn.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "season_winter.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "good_shampoo.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "tintable": false
+  },
+  "good_punch.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "tintable": false
+  },
+  "good_yarn.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "tintable": true
+  }
+}

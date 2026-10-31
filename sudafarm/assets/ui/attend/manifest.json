@@ -1,0 +1,96 @@
+{
+  "board.png": {
+    "pixels": [
+      640,
+      480
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      48,
+      48,
+      48,
+      48
+    ],
+    "min_pixels": [
+      97,
+      97
+    ]
+  },
+  "slot.png": {
+    "pixels": [
+      96,
+      96
+    ],
+    "pivot": [
+      48,
+      90
+    ],
+    "anchor_pixels": [
+      48,
+      90
+    ]
+  },
+  "slot_today.png": {
+    "pixels": [
+      96,
+      96
+    ],
+    "pivot": [
+      48,
+      90
+    ],
+    "anchor_pixels": [
+      48,
+      90
+    ]
+  },
+  "slot_done.png": {
+    "pixels": [
+      96,
+      96
+    ],
+    "pivot": [
+      48,
+      90
+    ],
+    "anchor_pixels": [
+      48,
+      90
+    ]
+  },
+  "stamp.png": {
+    "pixels": [
+      96,
+      96
+    ],
+    "pivot": [
+      48,
+      90
+    ],
+    "anchor_pixels": [
+      48,
+      90
+    ]
+  },
+  "reward_box_7.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      122
+    ],
+    "anchor_pixels": [
+      64,
+      122
+    ]
+  }
+}

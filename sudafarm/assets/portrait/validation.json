@@ -1,0 +1,15 @@
+{
+  "expression_portraits": 12,
+  "npc_portraits": 4,
+  "default_aliases": 3,
+  "matching_face_icons": 19,
+  "bust_pixels": [
+    768,
+    768
+  ],
+  "face_pixels": [
+    160,
+    160
+  ],
+  "bottom_baseline": 756
+}

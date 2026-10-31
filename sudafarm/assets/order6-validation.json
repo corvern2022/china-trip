@@ -1,0 +1,111 @@
+{
+  "files": {
+    "building/bathhouse.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        9,
+        6,
+        374,
+        378
+      ],
+      "sRGB": true
+    },
+    "building/bathhouse_work_1.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        9,
+        10,
+        374,
+        378
+      ],
+      "sRGB": true
+    },
+    "building/bathhouse_work_2.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        9,
+        24,
+        374,
+        378
+      ],
+      "sRGB": true
+    },
+    "icon/good_shampoo.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        20,
+        10,
+        115,
+        119
+      ],
+      "sRGB": true
+    },
+    "icon/good_punch.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        9,
+        15,
+        121,
+        113
+      ],
+      "sRGB": true
+    },
+    "icon/good_yarn.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        25,
+        13,
+        121,
+        120
+      ],
+      "sRGB": true,
+      "strict_grayscale": true
+    }
+  },
+  "visual_review": "Reviewed building comparison and icon contact sheet; no text, consistent upper-left lighting.",
+  "animation": "Shared transform; stationary pixels identical outside steam and foam masks.",
+  "tool": "built-in image_gen",
+  "pivot_fix": "2026-10-25: crop ignores alpha<16 specks; bathhouse bottom now 377 like the other buildings (pivot 192,378)"
+}

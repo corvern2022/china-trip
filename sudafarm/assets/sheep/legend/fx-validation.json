@@ -1,0 +1,14 @@
+{
+  "assets": 7,
+  "nine_slice_corner_preservation": true,
+  "egg_pivot": [
+    96,
+    186
+  ],
+  "frame_insets_trbl": [
+    28,
+    28,
+    28,
+    28
+  ]
+}

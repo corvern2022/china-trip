@@ -1,0 +1,7 @@
+{
+  "layers": 26,
+  "paired_poses": 6,
+  "neutral_fleece": true,
+  "recomposition_pixel_exact": true,
+  "shared_canvas_and_anchor": true
+}

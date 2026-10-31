@@ -1,0 +1,1290 @@
+{
+  "count": 115,
+  "groups": {
+    "1": 24,
+    "2": 20,
+    "3": 30,
+    "4": 7,
+    "5": 12,
+    "6": 11,
+    "7": 11
+  },
+  "files": {
+    "ui/btn_light.png": {
+      "pixels": [
+        240,
+        80
+      ],
+      "pivot": [
+        120,
+        40
+      ],
+      "sha256": "1844cd657ec6b16ed9eac67c0a2a194e5e921c466266417b03558de1b22b99ca"
+    },
+    "ui/btn_pill.png": {
+      "pixels": [
+        160,
+        56
+      ],
+      "pivot": [
+        80,
+        28
+      ],
+      "sha256": "b6f931d7ebcf1b6704df24c4366298abf2ee657d0db7c91cecd869940d4e483e"
+    },
+    "ui/btn_pill_on.png": {
+      "pixels": [
+        160,
+        56
+      ],
+      "pivot": [
+        80,
+        28
+      ],
+      "sha256": "86fa7203635a4f27f0ecc2c026fd74b379b7e2d6946d0ab5a825f56b4203861c"
+    },
+    "ui/chip.png": {
+      "pixels": [
+        192,
+        64
+      ],
+      "pivot": [
+        96,
+        32
+      ],
+      "sha256": "b8e8dbac4e2f462018c4f30e9d1f22a7ae0451972426585b606cbdd05a2f66c2"
+    },
+    "ui/btn_arrow_left.png": {
+      "pixels": [
+        96,
+        96
+      ],
+      "pivot": [
+        48,
+        48
+      ],
+      "sha256": "8ca44b750ecb4703e60eeb5284f42b095f04cabead432f54baa56be5dd5c7973"
+    },
+    "ui/btn_arrow_right.png": {
+      "pixels": [
+        96,
+        96
+      ],
+      "pivot": [
+        48,
+        48
+      ],
+      "sha256": "384339100ad18bda6a52a04645f2f83312bf634057e97b8d2dac1a16b5aba5b7"
+    },
+    "ui/heart_on.png": {
+      "pixels": [
+        48,
+        48
+      ],
+      "pivot": [
+        24,
+        24
+      ],
+      "sha256": "28e3e1447523bf848bb6a00144f480a41f5dbcee87d519d49bcda4c993e975d5"
+    },
+    "ui/heart_off.png": {
+      "pixels": [
+        48,
+        48
+      ],
+      "pivot": [
+        24,
+        24
+      ],
+      "sha256": "a8739772fc7b7b829dc96d9826307bc5acb9bf851a42189950fa6f816c09e01c"
+    },
+    "ui/badge_rarity_n.png": {
+      "pixels": [
+        120,
+        48
+      ],
+      "pivot": [
+        60,
+        24
+      ],
+      "sha256": "be06971b5920765aca249048e4593befb0f517543ad27ec600a58f27b3663830"
+    },
+    "ui/badge_rarity_r.png": {
+      "pixels": [
+        120,
+        48
+      ],
+      "pivot": [
+        60,
+        24
+      ],
+      "sha256": "c1094fe3b77c9681365db85ca274357ba9d8f4246b99615363312008b0d7a4f8"
+    },
+    "ui/badge_rarity_sr.png": {
+      "pixels": [
+        120,
+        48
+      ],
+      "pivot": [
+        60,
+        24
+      ],
+      "sha256": "e2653652d6eafc1eb0ade9b717248f1b264f8520df8ecc2205b9edad53e64eb3"
+    },
+    "ui/badge_rarity_ur.png": {
+      "pixels": [
+        120,
+        48
+      ],
+      "pivot": [
+        60,
+        24
+      ],
+      "sha256": "bab89d361620e3782944994875329d37d9ea5bc14fd21220ec990e276a812044"
+    },
+    "ui/badge_rarity_legend.png": {
+      "pixels": [
+        120,
+        48
+      ],
+      "pivot": [
+        60,
+        24
+      ],
+      "sha256": "24f190badeefd74407b4ad452d2d51bb9f59095ce37ed456f5a75e996f49c6fb"
+    },
+    "ui/sheet_panel.png": {
+      "pixels": [
+        512,
+        512
+      ],
+      "pivot": [
+        256,
+        256
+      ],
+      "sha256": "f248ac08554267f50157fb44cf557b4402b9322205b4ce8d56123d4a14fc0e34"
+    },
+    "ui/stat_bar.png": {
+      "pixels": [
+        160,
+        20
+      ],
+      "pivot": [
+        80,
+        10
+      ],
+      "sha256": "738415e226d235192d9f1069e1babbfaac6b373a73bd3ffbee44ec3636bfefcf"
+    },
+    "ui/stat_bar_fill_food.png": {
+      "pixels": [
+        160,
+        20
+      ],
+      "pivot": [
+        80,
+        10
+      ],
+      "sha256": "d98141ce7cd1141d86acb06b8225a4cfe817d3148f63c60d81a867d9deb14877"
+    },
+    "ui/stat_bar_fill_mood.png": {
+      "pixels": [
+        160,
+        20
+      ],
+      "pivot": [
+        80,
+        10
+      ],
+      "sha256": "9a812c745dfd9de3fce08b3a98fc5ef16b735e8c158d9f3d12396ee3511ad999"
+    },
+    "ui/stat_bar_fill_wool.png": {
+      "pixels": [
+        160,
+        20
+      ],
+      "pivot": [
+        80,
+        10
+      ],
+      "sha256": "8e850c6ca40234fc8d829fdf8f728f8a171b63d7ca68bd3994a93a3fbaf07b1c"
+    },
+    "ui/stat_bar_fill_grow.png": {
+      "pixels": [
+        160,
+        20
+      ],
+      "pivot": [
+        80,
+        10
+      ],
+      "sha256": "bcd5cf64e57835172bb78bd2fad64d253eb3fde7ccc29f2c4b65fcd1c98e5024"
+    },
+    "icon/stat_food.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "459b43b5d4fcc6524c9e6c129a0d50feffc73ba5ce8285e25bb732baab9e27e5"
+    },
+    "icon/stat_mood.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "cb604524ac6ca03766e9fb351a2e6f7061b38dec18df1b8514966fa8bfd98f6c"
+    },
+    "icon/stat_wool.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "18988a7f2a05fcee2860070f27bd4b36cb3e1abc8905f14436c925b51991d494"
+    },
+    "icon/stat_grow.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "4d60d19d98f927ab400e1e571c66b479a50d73d74cc11d415f85d9d84578e4c6"
+    },
+    "icon/act_feed.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "c3108b3d667bce1d529cd4a6d0e2b016accc7f092d5435706ac75758c0e9f798"
+    },
+    "building/feed_mill.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "pivot": [
+        192,
+        378
+      ],
+      "sha256": "b5816b508b88ed972dd2995d1b2a84454578ab5668f79bca6673e36088f97dc7"
+    },
+    "building/feed_mill_work_1.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "pivot": [
+        192,
+        378
+      ],
+      "sha256": "92f3e8bf3cb6f325e9be8959f324e6eb3a6ff6ef1bc484cd81eb51ece8781fc0"
+    },
+    "building/feed_mill_work_2.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "pivot": [
+        192,
+        378
+      ],
+      "sha256": "79ab28239316bdcabeec6dcd2603f060862350d1d2aa6cefc6cae65334b6cf2e"
+    },
+    "building/snack_kitchen.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "pivot": [
+        192,
+        378
+      ],
+      "sha256": "220c0ab35f9fe6e232fdc1ed2a832f81d49d4daa3abc93ebe08f8895eae43180"
+    },
+    "building/snack_kitchen_work_1.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "pivot": [
+        192,
+        378
+      ],
+      "sha256": "23f9fa7151ea5300e5fe7e2d56c8e384d671d37ddf9d3bf2a0ccc568ffe1730c"
+    },
+    "building/snack_kitchen_work_2.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "pivot": [
+        192,
+        378
+      ],
+      "sha256": "df49a100d0c94dfd590e56395351e68ef6260cf9c631c103bc938e03e722f071"
+    },
+    "building/grooming_stand.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "pivot": [
+        192,
+        378
+      ],
+      "sha256": "2d65496bafd77e7ee3d2aad6b8e36dc12e05cd0895654698c0a38eca30144439"
+    },
+    "building/grooming_stand_work_1.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "pivot": [
+        192,
+        378
+      ],
+      "sha256": "5949d8bb3d542b5609dd19f1f489b226f53a2a7e8c7b62fc59029174418b85d7"
+    },
+    "building/grooming_stand_work_2.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "pivot": [
+        192,
+        378
+      ],
+      "sha256": "5fcff62273e0ed630dcd8ac82c4627c356c8742826c5fa4e2d12de60de2f3324"
+    },
+    "crops/grass_1sprout.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "f972c5c521858704df24e77a42c1c964b357e51c68cc248b4f91ef5f43e3f097"
+    },
+    "crops/grass_2grow.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "5403e4932f9b25786b04c3bdbac66482d10a80620e91622851ccd7a31caf77a7"
+    },
+    "crops/grass_3ripe.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "783fd4fb1704bb3b8cc9e8529dae4d07dca196946f7d905707971e5380fbef33"
+    },
+    "crops/grass_4dead.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "8db76927f7c5d46e0a43f4f3c55c22fb9a8aa9509702264c3e70525538aa7006"
+    },
+    "icon/crop_grass.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "d970591c4207da8ca22666402ff450f5df7d9128890bc1849b0fb47dee393a91"
+    },
+    "icon/good_feed.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "fb690cc42deef7fec2308751ba00547b369b30a998e6a5361403d8c6d0b50774"
+    },
+    "icon/good_feed_premium.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "b27736ec51394cc7fb97c206fd65fe43fa6b8e776175bc11c35a96b6eeba817c"
+    },
+    "icon/good_feed_alpaca.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "d48ab23050cce17803906d0d894245b1fbff71eb2538b812613a32386effb7d4"
+    },
+    "icon/good_cookie.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "d4744106f7ed85121db933c5623a088af6f12c8dee4c848c6466ea8802d3239c"
+    },
+    "icon/good_wool.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "cd90e23db76e3daed370e4f24a96cae36b88b60f84267bf01f8529496aeddc24"
+    },
+    "icon/good_woolball.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "6fe3d9bca93c522c3419551e582072b3e2efdaf2c1409a92b5029f8f3ee73c1a"
+    },
+    "crops/potato_1sprout.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "6017bd5c169a3d1b5a7cd2a585e3d780a79a9c174ed7e73ad6399c6ad4bf0ece"
+    },
+    "crops/potato_2grow.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "e818239b0e9af36af3db0ba6a55a94c2708a1244609c78f8d975415c45be48e0"
+    },
+    "crops/potato_3ripe.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "543e6b4c9f9b7a189a5a4480023128b7134b1e0b49e96182d7490287059cc6b9"
+    },
+    "crops/potato_4dead.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "99d277635b1b2190e0f4bb7378f9d7529e05f0e0e531046e1cae046a9c11f290"
+    },
+    "icon/crop_potato.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "507e5051b517709a80793b18b3d874c0af1edfd5cfb5f907983e9c3fe7db6e44"
+    },
+    "crops/corn_1sprout.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "496dcdb38f1b0b666c8995f9de4b862c975bbf0307994b23ab88791fee3514fc"
+    },
+    "crops/corn_2grow.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "636ae6e409989f222908b16de4d276d125537e8a0d64fa6fa94c52153e8762b4"
+    },
+    "crops/corn_3ripe.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "883da4a8dbf976f42d01dca2d60d4fa76cf93cd048fb2293e2261a21e47841af"
+    },
+    "crops/corn_4dead.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "07df358f46bf53a4aad1e8c21bbe752076cc500dfbcbcb6e082039bb6b2645c6"
+    },
+    "icon/crop_corn.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "d7b9eac87bab4c004751d90ef6f0f76b5f97d06e37ee0dfe2112b8eddf4b8873"
+    },
+    "crops/watermelon_1sprout.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "ea3a7be4741d9dd82d60ffad938990647a82a604a8d8e7884909f2d1a4d1e90c"
+    },
+    "crops/watermelon_2grow.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "63ffec3339afb2cf0ed018fb877abee04ae024e46b995f76b976023bdd6a8fdf"
+    },
+    "crops/watermelon_3ripe.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "dfab24324a7838f54dfc57a302c0ebcb7cbcfa893510384ff0d4949539bd9363"
+    },
+    "crops/watermelon_4dead.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "0c00197f30cf3167c40e5902df3fad717d542f37000c31184e057868f526fa80"
+    },
+    "icon/crop_watermelon.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "24d28d7a0e3353730efdd73e4df82bebffb97d4618d74e4405f76e765fb2ae1a"
+    },
+    "crops/lavender_1sprout.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "3d0a2b2904287ac76fa8412d91a7fe763d10e8ea36d6e6f3bd9864eb3c4d14d5"
+    },
+    "crops/lavender_2grow.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "4fa32271728d927f1bcc8c5bd8f322b5cc7af6b45c6560183d459a347e93c3d9"
+    },
+    "crops/lavender_3ripe.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "fbe9b0919b292a8270c5b59bf1fa727016e61c4867e9bab5338fdea3cc9cd824"
+    },
+    "crops/lavender_4dead.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "0311783131b5d326ed7b109de97124b284288a5523f1c1a447a40d98d0af6ece"
+    },
+    "icon/crop_lavender.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "4ac3cb039fb65d367cb1c1836ef0235cc33a13e88b3fdeece828edf97d152543"
+    },
+    "crops/sunflower_1sprout.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "1b0c5b0084dcf0594072fee16bd09e7e6800608b2d243f54f83166c274dfcad8"
+    },
+    "crops/sunflower_2grow.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "281d967029199cdc1704c974e6edc8b093e0dc42216477b7333b86deaf0ac830"
+    },
+    "crops/sunflower_3ripe.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "d1d65a9cbc9246bf9fd7352fa1dce3da6adf63339ad02514a3127a98eae8a6bc"
+    },
+    "crops/sunflower_4dead.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "6b723ca9c28488f27b23217d3d7eee3dfb0a8df388e11ff48c11ec50cd5fad41"
+    },
+    "icon/crop_sunflower.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "650e97d4194e66b629929f1e487e39159b8c2003c26cdf2a98df10d05911c362"
+    },
+    "crops/rainbow_berry_1sprout.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "f5e2fb683adf3262fe4b61efbc7f7514126311ffd0ad74a576abf318b3d92362"
+    },
+    "crops/rainbow_berry_2grow.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "49b948440ccd77665929d601f6ed2985fb2b33ae6086e6e841abd593a5fb899c"
+    },
+    "crops/rainbow_berry_3ripe.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "8e175ea7e54cc5307b4765fa7af596fe161bb58c43fa6642836c5600c92e242a"
+    },
+    "crops/rainbow_berry_4dead.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        250
+      ],
+      "sha256": "ee539accf20b1590f1aca85e7ffeccd7f5b47fcc5e323a166892ec6e3b22c361"
+    },
+    "icon/crop_rainbow_berry.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "550dfacc64422573a0ac6618c865f51c76c9cb10919bb9419fb2144174fae87c"
+    },
+    "building/storage_1.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "pivot": [
+        192,
+        378
+      ],
+      "sha256": "6a3e838f1258933fcb2116f567bacbf1d7e23c2f1bb860caaf06a24857fc5fdd"
+    },
+    "building/storage_2.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "pivot": [
+        192,
+        378
+      ],
+      "sha256": "926d76f708495689626659daf6bd571ba605f3ef66f6b4ddb450f1afb2fad23f"
+    },
+    "icon/storage.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "3d0b29fd34e9be36d353e43accaa23bb95d4ec938abe0ee64e1df7ed8dcf73c3"
+    },
+    "ui/grade_normal.png": {
+      "pixels": [
+        96,
+        48
+      ],
+      "pivot": [
+        48,
+        24
+      ],
+      "sha256": "23ad0c2cfc3811370d4c9def77f940fc0df2650ca26f9f23bac7a093669cb107"
+    },
+    "ui/grade_good.png": {
+      "pixels": [
+        96,
+        48
+      ],
+      "pivot": [
+        48,
+        24
+      ],
+      "sha256": "6a3255f9d71e25d39555337bc7056b0ce5cb48709b462e54c5cf4392cd95eb92"
+    },
+    "ui/grade_best.png": {
+      "pixels": [
+        96,
+        48
+      ],
+      "pivot": [
+        48,
+        24
+      ],
+      "sha256": "a0052387de4d219d84e43cbb7bef04cdbece3e90aed2f459e6aca28061443998"
+    },
+    "ui/storage_full.png": {
+      "pixels": [
+        96,
+        48
+      ],
+      "pivot": [
+        48,
+        24
+      ],
+      "sha256": "73c0f820325def0867684b056978e4b55716c78a74d61a1deff42d4bfc6ae1f9"
+    },
+    "building/order_board.png": {
+      "pixels": [
+        256,
+        320
+      ],
+      "pivot": [
+        128,
+        314
+      ],
+      "sha256": "2bd5d8a272cc1e7bfd42a45ec79d7236baf0717ca444a4c4aaa2895724060431"
+    },
+    "ui/order_note.png": {
+      "pixels": [
+        240,
+        280
+      ],
+      "pivot": [
+        120,
+        140
+      ],
+      "sha256": "d3b11dc229c740685e879bb706f6a3021a0fc332253d0635b9abf3e0dd70ab9d"
+    },
+    "ui/stall_slot.png": {
+      "pixels": [
+        128,
+        144
+      ],
+      "pivot": [
+        64,
+        72
+      ],
+      "sha256": "434e879a57ad38df0de1062dcacc5068506296df9d8e5b3b540220bdeb5d1879"
+    },
+    "ui/away_card.png": {
+      "pixels": [
+        720,
+        960
+      ],
+      "pivot": [
+        360,
+        480
+      ],
+      "sha256": "b649a9db41dd4c1a9cc87f3fefc0d486ada0f56921447395bd7c7eeda2ef4d90"
+    },
+    "ui/share_frame.png": {
+      "pixels": [
+        1080,
+        1350
+      ],
+      "pivot": [
+        540,
+        675
+      ],
+      "sha256": "c0000aa269d3b23e8e3c2d871bc7cd7f2fd0b6808b1d867cdb41cad401ee6a37"
+    },
+    "icon/order.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "56caa2c2251487e6fc7e2af63084641a26be31dd9c80ffb17216f24e34ff05f4"
+    },
+    "icon/sold.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "a8cf24f63e0f8a5ad37829553abebd6a72be1e0e92e4ce0395d4c43c4c3e04c2"
+    },
+    "icon/tool_stall.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "e1cff2f4b24bad8ca90e624854f7e9eabfe06f0ea8c7da78ce095487497bc49b"
+    },
+    "icon/tool_care.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "1e49319b9d49fe76072c3c011e6888243269d2071510622fe9b4e95b432675a5"
+    },
+    "icon/farm_mood.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "88baadfb54c83f3551d0ddb17c983d46849c7e50469b4e467e5c8b01a0a19b39"
+    },
+    "icon/skip.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "c336745f4e47a979d759a56c3274ff552aaa9f785a30becbd52104c86e7e6c29"
+    },
+    "fx/swipe_trail.png": {
+      "pixels": [
+        1536,
+        256
+      ],
+      "pivot": [
+        128,
+        128
+      ],
+      "sha256": "de39894627eee76f50e4a4139ea1ee3b8b3e26ea66108938c449f6ded82296a1"
+    },
+    "portrait/npc_neighbor_1.png": {
+      "pixels": [
+        768,
+        768
+      ],
+      "pivot": [
+        384,
+        760
+      ],
+      "sha256": "d67a465448f98b1dd1ee8a34925636250091782ecca9f6e9b246fb291975d268"
+    },
+    "portrait/face_npc_neighbor_1.png": {
+      "pixels": [
+        160,
+        160
+      ],
+      "pivot": [
+        80,
+        80
+      ],
+      "sha256": "daa4305c63ca0d8bbcd2070fd74d2f3535e1fa395e8f278c5555f0f820e3a201"
+    },
+    "portrait/npc_neighbor_2.png": {
+      "pixels": [
+        768,
+        768
+      ],
+      "pivot": [
+        384,
+        760
+      ],
+      "sha256": "b85ab04458f20ccd34286de465a6ef241c3dcbb9bf009b4ea46724c51e905c07"
+    },
+    "portrait/face_npc_neighbor_2.png": {
+      "pixels": [
+        160,
+        160
+      ],
+      "pivot": [
+        80,
+        80
+      ],
+      "sha256": "9f13200d52510349adb78919dec5537d56b2d2fa55b35d8acf5db543eb17bd97"
+    },
+    "portrait/npc_neighbor_3.png": {
+      "pixels": [
+        768,
+        768
+      ],
+      "pivot": [
+        384,
+        760
+      ],
+      "sha256": "1a1cbf8e4a7928c6ff04d47517b4ad1d9ff39892ecd48b561a8fdd89edbae8fa"
+    },
+    "portrait/face_npc_neighbor_3.png": {
+      "pixels": [
+        160,
+        160
+      ],
+      "pivot": [
+        80,
+        80
+      ],
+      "sha256": "5eb8679a60881eb15d04efa0d7d50cbca1fa8a13bc10b39a97a238d28e96d701"
+    },
+    "portrait/npc_neighbor_4.png": {
+      "pixels": [
+        768,
+        768
+      ],
+      "pivot": [
+        384,
+        760
+      ],
+      "sha256": "7301979b2ae4c06173209ba8492356017bf43e6eaac3695e62b6ae8a9d6fbfdf"
+    },
+    "portrait/face_npc_neighbor_4.png": {
+      "pixels": [
+        160,
+        160
+      ],
+      "pivot": [
+        80,
+        80
+      ],
+      "sha256": "715242eb4db448c5521c8c6325d45515f0e12e645e52783a0acdfd7084828d57"
+    },
+    "deco/neighbor_gate.png": {
+      "pixels": [
+        256,
+        320
+      ],
+      "pivot": [
+        128,
+        314
+      ],
+      "sha256": "e3d83057fd94b9bede282c3e0e39add8e6e395d2c74efc2aa788f23a200ba22b"
+    },
+    "deco/visit_mailbox.png": {
+      "pixels": [
+        160,
+        192
+      ],
+      "pivot": [
+        80,
+        186
+      ],
+      "sha256": "1035f4e9736ebf1e9583ee92028e5f09be4a2dab38f98d54af68ddcc640825a0"
+    },
+    "icon/wool_golden.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "65223ab6ec3bcbae6ded60a692cf385d6715c9499c945528bb0f9f9c03ca53de"
+    },
+    "deco/tree_round_spring.png": {
+      "pixels": [
+        256,
+        384
+      ],
+      "pivot": [
+        128,
+        378
+      ],
+      "sha256": "2de4f00b10ca4cb6b0ff49e284f032d71e8c3d608010805946b17ea6557d55b8"
+    },
+    "deco/tree_round_autumn.png": {
+      "pixels": [
+        256,
+        384
+      ],
+      "pivot": [
+        128,
+        378
+      ],
+      "sha256": "21db6b495a920c9714d57ee7be51574caf6207499f3c354252e40b42f0994ba1"
+    },
+    "deco/tree_round_winter.png": {
+      "pixels": [
+        256,
+        384
+      ],
+      "pivot": [
+        128,
+        378
+      ],
+      "sha256": "b5c3eae87eb88f45179ec6f972a1ce5f945f8d5d6fa3a7d171543a9790f85f1c"
+    },
+    "deco/tree_pine_winter.png": {
+      "pixels": [
+        256,
+        448
+      ],
+      "pivot": [
+        128,
+        442
+      ],
+      "sha256": "93fc487e3abc57e8bc8cb45ade0c5d46b7ceed68fdfff8873ac66f0f60c95133"
+    },
+    "fx/raindrop.png": {
+      "pixels": [
+        64,
+        64
+      ],
+      "pivot": [
+        32,
+        32
+      ],
+      "sha256": "03bd39259bfc7987b1e263f1d91f5c75f71b9a2c2891ecd74fe60f43dfc7f3bb"
+    },
+    "fx/snowflake.png": {
+      "pixels": [
+        64,
+        64
+      ],
+      "pivot": [
+        32,
+        32
+      ],
+      "sha256": "41137ad6ac03f9fd73d6a782b60d0707cf5e85dc3f37aa0a8fc5e4a9e27fabde"
+    },
+    "fx/petal.png": {
+      "pixels": [
+        64,
+        64
+      ],
+      "pivot": [
+        32,
+        32
+      ],
+      "sha256": "c943eb6d59cabfee0489fcd3dd63e5125f1eb9303102537ef2f21bcf30c50738"
+    },
+    "fx/leaf.png": {
+      "pixels": [
+        64,
+        64
+      ],
+      "pivot": [
+        32,
+        32
+      ],
+      "sha256": "79428d233858ee6c764341ba63172b68740170c91f9a7e690d78a60bafbfa591"
+    },
+    "icon/season_spring.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "d8488ffd4c75ade07ae0935119724197e6a7a4729df9537c984a36b9774dda2c"
+    },
+    "icon/season_autumn.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "0089d27437f62d9cc9c1026cdbb611b0d2ce4939640197598cbe1791badabc3a"
+    },
+    "icon/season_winter.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "pivot": [
+        64,
+        64
+      ],
+      "sha256": "90c25425e8542a6672f43ab46fb33eb4c4dfd4842fb4db1f88505aaf3816e2cb"
+    }
+  },
+  "checks": [
+    "explicit 115-file inventory",
+    "RGBA, sRGB profile, transparency, pixels and pivots",
+    "9-slice preserved corners",
+    "fixed animation regions identical, work frames distinct",
+    "wool RGB neutrality",
+    "crop height 0.8–1.3x carrot",
+    "transparent share window",
+    "six nonempty swipe frames",
+    "round face masks"
+  ]
+}

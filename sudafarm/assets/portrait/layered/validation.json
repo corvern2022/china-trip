@@ -1,0 +1,26 @@
+{
+  "assets": 77,
+  "expression_combinations": 180,
+  "accessory_combinations": 56,
+  "canvas": [
+    768,
+    768
+  ],
+  "base_pivot": [
+    384,
+    760
+  ],
+  "order": [
+    "wool",
+    "pattern (masked to wool)",
+    "body",
+    "skin",
+    "cheek",
+    "eyes",
+    "brow",
+    "mouth",
+    "acc"
+  ],
+  "placement": "face-anchor[slot] - part.pivot * face-anchor.scale",
+  "preview_padding": 160
+}

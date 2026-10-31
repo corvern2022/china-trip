@@ -1,0 +1,222 @@
+{
+  "frame_N.png": {
+    "pixels": [
+      208,
+      256
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      28,
+      28,
+      28,
+      28
+    ],
+    "min_pixels": [
+      57,
+      57
+    ],
+    "stretch": "edges-and-center",
+    "grade": "N",
+    "slot": "ui"
+  },
+  "frame_R.png": {
+    "pixels": [
+      208,
+      256
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      28,
+      28,
+      28,
+      28
+    ],
+    "min_pixels": [
+      57,
+      57
+    ],
+    "stretch": "edges-and-center",
+    "grade": "R",
+    "slot": "ui"
+  },
+  "frame_SR.png": {
+    "pixels": [
+      208,
+      256
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      28,
+      28,
+      28,
+      28
+    ],
+    "min_pixels": [
+      57,
+      57
+    ],
+    "stretch": "edges-and-center",
+    "grade": "SR",
+    "slot": "ui"
+  },
+  "frame_UR.png": {
+    "pixels": [
+      208,
+      256
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      28,
+      28,
+      28,
+      28
+    ],
+    "min_pixels": [
+      57,
+      57
+    ],
+    "stretch": "edges-and-center",
+    "grade": "UR",
+    "slot": "ui"
+  },
+  "badge_N.png": {
+    "pixels": [
+      160,
+      56
+    ],
+    "pivot": [
+      80,
+      28
+    ],
+    "anchor_pixels": [
+      80,
+      28
+    ],
+    "grade": "N",
+    "note": "no text; game draws the grade label, stars = grade",
+    "slot": "ui"
+  },
+  "badge_R.png": {
+    "pixels": [
+      160,
+      56
+    ],
+    "pivot": [
+      80,
+      28
+    ],
+    "anchor_pixels": [
+      80,
+      28
+    ],
+    "grade": "R",
+    "note": "no text; game draws the grade label, stars = grade",
+    "slot": "ui"
+  },
+  "badge_SR.png": {
+    "pixels": [
+      160,
+      56
+    ],
+    "pivot": [
+      80,
+      28
+    ],
+    "anchor_pixels": [
+      80,
+      28
+    ],
+    "grade": "SR",
+    "note": "no text; game draws the grade label, stars = grade",
+    "slot": "ui"
+  },
+  "badge_UR.png": {
+    "pixels": [
+      160,
+      56
+    ],
+    "pivot": [
+      80,
+      28
+    ],
+    "anchor_pixels": [
+      80,
+      28
+    ],
+    "grade": "UR",
+    "note": "no text; game draws the grade label, stars = grade",
+    "slot": "ui"
+  },
+  "frame_LR.png": {
+    "pixels": [
+      208,
+      256
+    ],
+    "pivot": [
+      104,
+      128
+    ],
+    "anchor_pixels": [
+      104,
+      128
+    ],
+    "nine_slice": [
+      28,
+      28,
+      28,
+      28
+    ],
+    "slice_trbl": [
+      28,
+      28,
+      28,
+      28
+    ],
+    "min_pixels": [
+      57,
+      57
+    ]
+  },
+  "badge_LR.png": {
+    "pixels": [
+      160,
+      56
+    ],
+    "pivot": [
+      80,
+      28
+    ],
+    "anchor_pixels": [
+      80,
+      28
+    ]
+  }
+}

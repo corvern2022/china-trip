@@ -1,0 +1,162 @@
+{
+  "smile.png": {
+    "pixels": [
+      40,
+      28
+    ],
+    "pivot": [
+      20,
+      14
+    ],
+    "anchor_pixels": [
+      20,
+      14
+    ],
+    "slot": "mouth",
+    "paint": "original"
+  },
+  "grin.png": {
+    "pixels": [
+      40,
+      28
+    ],
+    "pivot": [
+      20,
+      14
+    ],
+    "anchor_pixels": [
+      20,
+      14
+    ],
+    "slot": "mouth",
+    "paint": "original"
+  },
+  "open.png": {
+    "pixels": [
+      40,
+      28
+    ],
+    "pivot": [
+      20,
+      14
+    ],
+    "anchor_pixels": [
+      20,
+      14
+    ],
+    "slot": "mouth",
+    "paint": "original"
+  },
+  "pout.png": {
+    "pixels": [
+      40,
+      28
+    ],
+    "pivot": [
+      20,
+      14
+    ],
+    "anchor_pixels": [
+      20,
+      14
+    ],
+    "slot": "mouth",
+    "paint": "original"
+  },
+  "cat.png": {
+    "pixels": [
+      40,
+      28
+    ],
+    "pivot": [
+      20,
+      14
+    ],
+    "anchor_pixels": [
+      20,
+      14
+    ],
+    "slot": "mouth",
+    "paint": "original"
+  },
+  "tongue.png": {
+    "pixels": [
+      40,
+      28
+    ],
+    "pivot": [
+      20,
+      14
+    ],
+    "anchor_pixels": [
+      20,
+      14
+    ],
+    "slot": "mouth",
+    "paint": "original"
+  },
+  "wavy.png": {
+    "pixels": [
+      40,
+      28
+    ],
+    "pivot": [
+      20,
+      14
+    ],
+    "anchor_pixels": [
+      20,
+      14
+    ],
+    "slot": "mouth",
+    "paint": "original"
+  },
+  "o.png": {
+    "pixels": [
+      40,
+      28
+    ],
+    "pivot": [
+      20,
+      14
+    ],
+    "anchor_pixels": [
+      20,
+      14
+    ],
+    "slot": "mouth",
+    "paint": "original"
+  },
+  "smirk.png": {
+    "pixels": [
+      40,
+      28
+    ],
+    "pivot": [
+      20,
+      14
+    ],
+    "anchor_pixels": [
+      20,
+      14
+    ],
+    "slot": "mouth",
+    "paint": "original"
+  },
+  "munch.png": {
+    "pixels": [
+      40,
+      28
+    ],
+    "pivot": [
+      20,
+      14
+    ],
+    "anchor_pixels": [
+      20,
+      14
+    ],
+    "slot": "mouth",
+    "paint": "original"
+  }
+}

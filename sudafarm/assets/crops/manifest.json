@@ -1,0 +1,586 @@
+{
+  "carrot_1sprout.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "carrot_2grow.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "carrot_3ripe.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "carrot_4dead.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "strawberry_1sprout.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "strawberry_2grow.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "strawberry_3ripe.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "strawberry_4dead.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "cotton_1sprout.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "cotton_2grow.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "cotton_3ripe.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "cotton_4dead.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "plot_empty.png": {
+    "pixels": [
+      512,
+      320
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "top_pixels": [
+      512,
+      256
+    ]
+  },
+  "plot_tilled.png": {
+    "pixels": [
+      512,
+      320
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "top_pixels": [
+      512,
+      256
+    ]
+  },
+  "plot_withered.png": {
+    "pixels": [
+      512,
+      320
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "top_pixels": [
+      512,
+      256
+    ]
+  },
+  "fence_x.png": {
+    "pixels": [
+      256,
+      192
+    ],
+    "anchor_pixels": [
+      128,
+      186
+    ]
+  },
+  "fence_y.png": {
+    "pixels": [
+      256,
+      192
+    ],
+    "anchor_pixels": [
+      128,
+      186
+    ]
+  },
+  "fence_post.png": {
+    "pixels": [
+      256,
+      192
+    ],
+    "anchor_pixels": [
+      128,
+      186
+    ]
+  },
+  "grass_1sprout.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "grass_2grow.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "grass_3ripe.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "grass_4dead.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "potato_1sprout.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "potato_2grow.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "potato_3ripe.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "potato_4dead.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "corn_1sprout.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "corn_2grow.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "corn_3ripe.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "corn_4dead.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "watermelon_1sprout.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "watermelon_2grow.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "watermelon_3ripe.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "watermelon_4dead.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "lavender_1sprout.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "lavender_2grow.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "lavender_3ripe.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "lavender_4dead.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "sunflower_1sprout.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "sunflower_2grow.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "sunflower_3ripe.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "sunflower_4dead.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "rainbow_berry_1sprout.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "rainbow_berry_2grow.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "rainbow_berry_3ripe.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "rainbow_berry_4dead.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  }
+}

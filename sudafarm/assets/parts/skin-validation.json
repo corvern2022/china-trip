@@ -1,0 +1,74 @@
+{
+  "sheep/body_idle.png": {
+    "skin_pixels": 6565,
+    "brown_mean_rgb_error": 3.82
+  },
+  "sheep/body_eat.png": {
+    "skin_pixels": 6852,
+    "brown_mean_rgb_error": 3.96
+  },
+  "sheep/body_half.png": {
+    "skin_pixels": 7944,
+    "brown_mean_rgb_error": 3.87
+  },
+  "sheep/body_sheared.png": {
+    "skin_pixels": 8707,
+    "brown_mean_rgb_error": 3.88
+  },
+  "sheep/body_sleep.png": {
+    "skin_pixels": 4395,
+    "brown_mean_rgb_error": 6.97
+  },
+  "sheep/body_walk_a.png": {
+    "skin_pixels": 6584,
+    "brown_mean_rgb_error": 3.81
+  },
+  "sheep/body_walk_b.png": {
+    "skin_pixels": 6544,
+    "brown_mean_rgb_error": 3.82
+  },
+  "sheep/body_short.png": {
+    "skin_pixels": 7626,
+    "brown_mean_rgb_error": 3.87
+  },
+  "sheep/baby_body.png": {
+    "skin_pixels": 5085,
+    "brown_mean_rgb_error": 6.75
+  },
+  "alpaca/body_idle.png": {
+    "skin_pixels": 4014,
+    "brown_mean_rgb_error": 6.77
+  },
+  "alpaca/body_eat.png": {
+    "skin_pixels": 2967,
+    "brown_mean_rgb_error": 7.36
+  },
+  "alpaca/body_half.png": {
+    "skin_pixels": 4214,
+    "brown_mean_rgb_error": 9.53
+  },
+  "alpaca/body_sheared.png": {
+    "skin_pixels": 4365,
+    "brown_mean_rgb_error": 9.51
+  },
+  "alpaca/body_sleep.png": {
+    "skin_pixels": 3136,
+    "brown_mean_rgb_error": 7.05
+  },
+  "alpaca/body_walk_a.png": {
+    "skin_pixels": 4032,
+    "brown_mean_rgb_error": 6.76
+  },
+  "alpaca/body_walk_b.png": {
+    "skin_pixels": 3996,
+    "brown_mean_rgb_error": 6.78
+  },
+  "alpaca/body_suri.png": {
+    "skin_pixels": 2968,
+    "brown_mean_rgb_error": 9.63
+  },
+  "alpaca/baby_body.png": {
+    "skin_pixels": 2591,
+    "brown_mean_rgb_error": 9.83
+  }
+}

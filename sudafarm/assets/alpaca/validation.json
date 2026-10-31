@@ -1,0 +1,7 @@
+{
+  "layers": 18,
+  "paired_frames": 10,
+  "neutral_fleece": true,
+  "pixel_exact_recomposition": true,
+  "matched_canvas_and_anchor": true
+}

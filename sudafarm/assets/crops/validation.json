@@ -1,0 +1,9 @@
+{
+  "assets": 18,
+  "plot_top_pixels": [
+    512,
+    256
+  ],
+  "plot_top_matches_grass_mask": true,
+  "preview_tile_width": 112
+}

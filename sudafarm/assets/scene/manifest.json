@@ -1,0 +1,62 @@
+{
+  "breed_1_awkward.png": {
+    "pixels": [
+      1280,
+      720
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "opaque": true
+  },
+  "breed_2_heart.png": {
+    "pixels": [
+      1280,
+      720
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "opaque": true
+  },
+  "breed_3_baby.png": {
+    "pixels": [
+      1280,
+      720
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "opaque": true
+  },
+  "unlock_bg.png": {
+    "pixels": [
+      1280,
+      720
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "opaque": true
+  }
+}

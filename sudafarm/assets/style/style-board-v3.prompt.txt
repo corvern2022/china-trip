@@ -1,0 +1,22 @@
+Tool: built-in image_gen
+Status: approval board only; production assets unchanged.
+
+References (style only):
+/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm/docs/reverse/township-frames/022-상점-6분류.png
+/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm/docs/reverse/township-frames/034-레벨업3-보상-해금NEW.png
+/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm/docs/reverse/township-frames/041-튜토리얼끝-전체HUD.png
+/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm/docs/reverse/township-frames/042-과제창-NPC전신-이동버튼.png
+/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm/docs/reverse/township-frames/053-사료분쇄기창-대기열3칸-4번째200.png
+/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm/docs/reverse/township-frames/010-먹은소-일어나서건초.png
+These six screenshots were combined without content alteration into scripts/art/sources/order7/township-style-references.jpg to fit tool reference limits.
+Original designs: public/assets/style/style-board-v2.png; public/assets/building/house_1.png
+
+Prompt:
+Create ONE landscape 2:1 art direction approval board, target 2048x1024, opaque warm pale neutral background, NO TEXT or numbers anywhere, no watermark.
+Reference inputs 1-6 are Township screenshots for rendering style, colors, and UI shape language ONLY. Reference 7 is our existing v2 board for our own original sheep/tree/tile designs and relative proportions. Reference 8 is our own small house design.
+match the rendering style, colors and UI shapes of the reference; do not copy any specific character, building or icon design.
+Two equal halves with clean spacing and a subtle divider:
+LEFT HALF: original Suda Farm map specimen, keeping v2 relative sizes and identities: a large rounded leafy tree at upper left, one small smug half-lidded brown-faced sheep beside it, two isometric grass blocks, one tilled farm plot with small growing carrots, and our small red roof wooden sheep house. Arrange clearly so all six specimen groups fit the left half without overlapping, retain tree taller than house, sheep small relative to tree. Two grass blocks form a small floating island with warm brown earth sides. Isometric 2:1 view, 30 degrees down. Preserve our sheep's half-closed chic eyes, brown face, white cloud fleece; convert to plump smooth 3D toy rendering. House identity from reference 8, NOT buildings from screenshots.
+RIGHT HALF: front view mobile game UI specimen, no characters or object icons. At top a translucent dark navy pill HUD with bright cyan fill and an overlapping plump glossy blue five-point level star with white border, blank center. Below a substantial cream window with thick softly rounded peach-orange rim, title strip left blank, two empty lighter cream inset cards. Red circular close button with white X at top-right. Below the cards three glossy pill buttons green, cyan-blue and yellow with pale top highlight and dark bottom thickness, blank faces. Beneath window two thick cream rounded square bottom toolbar tiles and small red circular notification with white rim. Include a blue folded ribbon sample with blank center. Match screenshot UI cream/peach colors, dimensional rounded borders and glossy button shapes closely, no wood grain on UI.
+OVERALL rendering: polished casual mobile farm game, soft 3D rendered rounded chunky glossy toy miniature forms, smooth gradients, small specular highlights, bright saturated clear greens near #7cc44a, turquoise water accents only if needed, vivid red roof. Light top-left, soft attached contact shadows. NO thick black/brown outlines, no ink strokes, no flat cel shading. Keep map and UI coherent, crisp clean readable shapes. No text, no captions, no logos, no screenshot frame or copied specific character/building/icon.
+

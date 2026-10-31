@@ -1,0 +1,3090 @@
+{
+  "total": 254,
+  "counts": {
+    "1": 12,
+    "2": 18,
+    "3": 8,
+    "4": 9,
+    "5": 5,
+    "6": 8,
+    "8": 20,
+    "7": 77,
+    "9": 97
+  },
+  "checks": [
+    "RGBA",
+    "sRGB",
+    "dimensions",
+    "alpha",
+    "pivot metadata",
+    "neutral tint layers"
+  ],
+  "groups": {
+    "1": [
+      {
+        "file": "icon/tool_auto.png",
+        "pixels": [
+          128,
+          128
+        ],
+        "pivot": [
+          64,
+          64
+        ],
+        "sha256": "228c64bf2d6dc4e3a5c65f7526b910ed5f3b173a9883d3a028858f30346d48d6"
+      },
+      {
+        "file": "icon/ai_brain.png",
+        "pixels": [
+          128,
+          128
+        ],
+        "pivot": [
+          64,
+          64
+        ],
+        "sha256": "c4a52304c04c67d373fc5d026971e1ad82270dc820131b968f396780a90e5228"
+      },
+      {
+        "file": "icon/tool_news.png",
+        "pixels": [
+          128,
+          128
+        ],
+        "pivot": [
+          64,
+          64
+        ],
+        "sha256": "7aa7c01d7b502b732f566cd0c7f3f4f3b849e9c87defb8d7b60f998ff73ff6e7"
+      },
+      {
+        "file": "icon/tool_quest.png",
+        "pixels": [
+          128,
+          128
+        ],
+        "pivot": [
+          64,
+          64
+        ],
+        "sha256": "faca845547a90859fe850fcca8e5c28c996b46b026f55691374f410f6ba055c9"
+      },
+      {
+        "file": "icon/egg.png",
+        "pixels": [
+          128,
+          128
+        ],
+        "pivot": [
+          64,
+          64
+        ],
+        "sha256": "3de944bb5fd7642d2916b6df7542446f7f34e847f0360df0ea88d376e74d19b0"
+      },
+      {
+        "file": "icon/adopt.png",
+        "pixels": [
+          128,
+          128
+        ],
+        "pivot": [
+          64,
+          64
+        ],
+        "sha256": "7de9b50c3335ce0c0464e0311af4127095330f04f39fd14c21c7b4eba6d228c1"
+      },
+      {
+        "file": "icon/personality.png",
+        "pixels": [
+          128,
+          128
+        ],
+        "pivot": [
+          64,
+          64
+        ],
+        "sha256": "c06f50f96f440c3cc68bd983352c31aae9594cc3ea783877277c4dc1743a5a69"
+      },
+      {
+        "file": "icon/thought.png",
+        "pixels": [
+          128,
+          128
+        ],
+        "pivot": [
+          64,
+          64
+        ],
+        "sha256": "5b67499188bdc9f66ad3560d0ec0684f6a58cd7b2263af1b41144cb0131a8069"
+      },
+      {
+        "file": "icon/act_fight.png",
+        "pixels": [
+          128,
+          128
+        ],
+        "pivot": [
+          64,
+          64
+        ],
+        "sha256": "60f3e7343cffb0eb6ebb1ac9656d3eeb8a24662a1e7a01d54e2b7a007a43ba5d"
+      },
+      {
+        "file": "icon/memory.png",
+        "pixels": [
+          128,
+          128
+        ],
+        "pivot": [
+          64,
+          64
+        ],
+        "sha256": "88e2a5e36c0cc5f6d15e2de27a7789bb0766835319ae50076d372e79a1f47145"
+      },
+      {
+        "file": "icon/partner.png",
+        "pixels": [
+          128,
+          128
+        ],
+        "pivot": [
+          64,
+          64
+        ],
+        "sha256": "623add52987ede7e519ececb6f657d4a68b78adb32da8d256776abdf874838db"
+      },
+      {
+        "file": "icon/hand_point.png",
+        "pixels": [
+          128,
+          128
+        ],
+        "pivot": [
+          64,
+          64
+        ],
+        "sha256": "2e57f02cfd8701abbb97cbd134da20c8fe194f7e0abd26a31fe7d5a9de286633"
+      }
+    ],
+    "2": [
+      {
+        "file": "building/house_2.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          378
+        ],
+        "sha256": "c887be4e1410fa2f77ed740158837ba408f2cd2468823dea497ed924a904212f"
+      },
+      {
+        "file": "building/house_3.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          378
+        ],
+        "sha256": "c84d9457e6cf9aa6dbfe137f13093658e366fb1daefb5575a95520ea692f236f"
+      },
+      {
+        "file": "building/shop_stall.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          378
+        ],
+        "sha256": "ac86b2a15f4d5f77b0386a72d19683563d0ab1599c426c1a24e8e3f49b7b0f85"
+      },
+      {
+        "file": "building/mailbox.png",
+        "pixels": [
+          160,
+          224
+        ],
+        "pivot": [
+          80,
+          218
+        ],
+        "sha256": "c8bad76b84c03801fdf9a426ed5a3b0d67fc2abab9d63038f00754be3e35d2a5"
+      },
+      {
+        "file": "deco/deco_bench.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "697cd83e1bf00d30cee1e4ca9126fa5670e2b18aa749451b0ca44ac91e9d9e12"
+      },
+      {
+        "file": "deco/deco_lamp.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "9730f19996943b00d84bd97c6d84d4cfcb92d3a86cc10062e41a26cd908eda27"
+      },
+      {
+        "file": "deco/deco_windmill.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "7f8a0ed8c99539633288b22009ca6cc0d5c0a7d734e20533c590cf26c766d88a"
+      },
+      {
+        "file": "deco/deco_haystack.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "1aff175a39a3a473243b45d20afefa5ed858478f1084759ec9bc801e9ce1fea1"
+      },
+      {
+        "file": "deco/deco_flowerpot.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "35e9ddf80a6ea443c6c2346c199702e00f608822acd3175e5c854bb6c9b29e25"
+      },
+      {
+        "file": "deco/deco_mailbox.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "f9049a9bba0afa62ff9f45d66f7723df79e31a9c84c100a8c43842daf15dd9af"
+      },
+      {
+        "file": "deco/deco_swing.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "85013cb5f8c815354730362b61438640f9dfb47b844bd36764a3148c5301ff42"
+      },
+      {
+        "file": "deco/deco_well.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "42886f91d95f96301976b26077734f04c1c9788691a8e9b8514f8e911243c71f"
+      },
+      {
+        "file": "deco/deco_scarecrow.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "deb06e21319efd56f168b2a9de32b1e36c347b4a44bdc6f8cd864efdd94b99f4"
+      },
+      {
+        "file": "deco/deco_picnic.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "2122ff6827df75ffc62449a0ad2c2a0635f5f843089ad99e670f6b59cd1cdede"
+      },
+      {
+        "file": "deco/deco_lantern_string.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "f40440d01cf680454f7f176be17593a2457df9124b6fcffd61aacbc23798ccd1"
+      },
+      {
+        "file": "deco/deco_signpost.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "c0dcca43c30f3109256daff1f952f52f5207896a97d9eeee2621ea194dd4f26f"
+      },
+      {
+        "file": "terrain/land_locked.png",
+        "pixels": [
+          512,
+          256
+        ],
+        "pivot": [
+          256,
+          128
+        ],
+        "sha256": "06181dfe329ee7791cf3a2065f929c61fe7feb8aeca6cd569d979938b4d8d06e"
+      },
+      {
+        "file": "terrain/land_sale_sign.png",
+        "pixels": [
+          160,
+          192
+        ],
+        "pivot": [
+          80,
+          186
+        ],
+        "sha256": "37298ed3cdea8e9c3df47d08fa098b9fef4b416700f79a98c67e709f13fc725b"
+      }
+    ],
+    "3": [
+      {
+        "file": "deco/bush.png",
+        "pixels": [
+          192,
+          160
+        ],
+        "pivot": [
+          96,
+          154
+        ],
+        "sha256": "ec7cdf783b119f15ee69a06cdd4aa164c8c450b90d288134293b3c378d18ddca"
+      },
+      {
+        "file": "deco/flower_patch_pink.png",
+        "pixels": [
+          128,
+          96
+        ],
+        "pivot": [
+          64,
+          90
+        ],
+        "sha256": "31e4a92cc856613f809fcc15c3c871af2cdcdc79d97f48723f39389f00faafa0"
+      },
+      {
+        "file": "deco/flower_patch_yellow.png",
+        "pixels": [
+          128,
+          96
+        ],
+        "pivot": [
+          64,
+          90
+        ],
+        "sha256": "99d62513fd7b5d49112a71b9da2c62a509bcf9a377e3dcc87a04a3e1418ac42c"
+      },
+      {
+        "file": "deco/flower_patch_blue.png",
+        "pixels": [
+          128,
+          96
+        ],
+        "pivot": [
+          64,
+          90
+        ],
+        "sha256": "f073edcf5bd46bed574254662b799fd673c0d499c00e1e137fda4f4799e71144"
+      },
+      {
+        "file": "deco/mushroom.png",
+        "pixels": [
+          96,
+          96
+        ],
+        "pivot": [
+          48,
+          90
+        ],
+        "sha256": "98923a834213bb1f9aa19d135d3f564372afb3dc7456dff680a63055dab39a46"
+      },
+      {
+        "file": "deco/stump.png",
+        "pixels": [
+          160,
+          128
+        ],
+        "pivot": [
+          80,
+          122
+        ],
+        "sha256": "bc80ad6c8531d6919d00f8ced8996ab40fb5487fd9acf4cdbc078ce5146b508d"
+      },
+      {
+        "file": "deco/pond.png",
+        "pixels": [
+          512,
+          256
+        ],
+        "pivot": [
+          256,
+          250
+        ],
+        "sha256": "b4732bc4d30487c4ad1f97e3239814a90db4ff630b3f79ac7030086f9324792d"
+      },
+      {
+        "file": "deco/sign.png",
+        "pixels": [
+          160,
+          192
+        ],
+        "pivot": [
+          80,
+          186
+        ],
+        "sha256": "8361983177cc758971d89c9090d3910ddd93eba4d2053fe730c87383424dfbdb"
+      }
+    ],
+    "4": [
+      {
+        "file": "ui/attend/board.png",
+        "pixels": [
+          640,
+          480
+        ],
+        "pivot": [
+          0,
+          0
+        ],
+        "sha256": "b207f12cfa510f0e3b3c0c3b48311361cbd91f0bc22b00ac9798b1b74d0c6a85"
+      },
+      {
+        "file": "ui/attend/slot.png",
+        "pixels": [
+          96,
+          96
+        ],
+        "pivot": [
+          48,
+          90
+        ],
+        "sha256": "c60181b544ed51095f5ef0e93643f6704cecb473e05922791c85c5d599360486"
+      },
+      {
+        "file": "ui/attend/slot_today.png",
+        "pixels": [
+          96,
+          96
+        ],
+        "pivot": [
+          48,
+          90
+        ],
+        "sha256": "5bbe6044fb2c1e6dc91fa84758ee0840632f7482eccfb7e9f491f9b567a55a73"
+      },
+      {
+        "file": "ui/attend/slot_done.png",
+        "pixels": [
+          96,
+          96
+        ],
+        "pivot": [
+          48,
+          90
+        ],
+        "sha256": "c94bd747774dbface952feb7a785f445da3c39cf87b7af5ced635027016c9094"
+      },
+      {
+        "file": "ui/attend/stamp.png",
+        "pixels": [
+          96,
+          96
+        ],
+        "pivot": [
+          48,
+          90
+        ],
+        "sha256": "9f2d6298cb93b8a1c79c0f301a64509c3cdc0fd69357a3592e386158aa526df7"
+      },
+      {
+        "file": "ui/attend/reward_box_7.png",
+        "pixels": [
+          128,
+          128
+        ],
+        "pivot": [
+          64,
+          122
+        ],
+        "sha256": "0c300435e21104a762c8e16718a9949a045b074795b1480a3ca4208177b8d957"
+      },
+      {
+        "file": "ui/name_tag.png",
+        "pixels": [
+          320,
+          96
+        ],
+        "pivot": [
+          0,
+          0
+        ],
+        "sha256": "b3d21fa0a99c00d23615b3cfa3d329ca30987f24f61de60d6042be218c799603"
+      },
+      {
+        "file": "ui/visit_banner.png",
+        "pixels": [
+          960,
+          96
+        ],
+        "pivot": [
+          0,
+          0
+        ],
+        "sha256": "85e5d6f349a444f8c6903dce337c2e046a6ab408230cc542274189b63c869ff8"
+      },
+      {
+        "file": "icon/visit.png",
+        "pixels": [
+          128,
+          128
+        ],
+        "pivot": [
+          64,
+          64
+        ],
+        "sha256": "97c0db136dfc7dea9fa374ab40fd8e2efb5aa696e485836b1d7cb1acf6f7e336"
+      }
+    ],
+    "5": [
+      {
+        "file": "brand/logo.png",
+        "pixels": [
+          1024,
+          512
+        ],
+        "pivot": [
+          512,
+          256
+        ],
+        "sha256": "214aa3afbfd6536cd3c1c401d907d7d296d3162202a90c32556cd3f87dcbbd7e"
+      },
+      {
+        "file": "brand/app_icon.png",
+        "pixels": [
+          1024,
+          1024
+        ],
+        "pivot": [
+          512,
+          512
+        ],
+        "sha256": "2f2338fc1b151ab32caf530c2640900d94594799ce499652041522711a8ff454"
+      },
+      {
+        "file": "brand/favicon.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          128
+        ],
+        "sha256": "4be66c708121446b5f8bc501af40c8c08728af37a3685e20a0b5f2b845f3f0cd"
+      },
+      {
+        "file": "brand/loading_bg_portrait.png",
+        "pixels": [
+          1080,
+          1920
+        ],
+        "pivot": [
+          0,
+          0
+        ],
+        "sha256": "bf6824d3ba15ec8fcd5088a14393f404eb82fab7522fbde359d50edbf7a7389a"
+      },
+      {
+        "file": "brand/loading_bg_landscape.png",
+        "pixels": [
+          1920,
+          1080
+        ],
+        "pivot": [
+          0,
+          0
+        ],
+        "sha256": "0aa0b4a39d3e35cdcd58bd83451d1ccdef331d1f5c79d3d45aaf87106bb5c26e"
+      }
+    ],
+    "6": [
+      {
+        "file": "portrait/alpaca.png",
+        "pixels": [
+          768,
+          768
+        ],
+        "pivot": [
+          384,
+          756
+        ],
+        "sha256": "ca239c5a8bec249ce6b24831f66b1ab6bba7a609ea0ecee5a22fc9a0b3c6dea8"
+      },
+      {
+        "file": "portrait/alpaca_happy.png",
+        "pixels": [
+          768,
+          768
+        ],
+        "pivot": [
+          384,
+          756
+        ],
+        "sha256": "1dd2f8b2744e41b77e080da1afd4ec3d0b5ae100809906f9a3998ae0407f7ff9"
+      },
+      {
+        "file": "portrait/face_alpaca.png",
+        "pixels": [
+          160,
+          160
+        ],
+        "pivot": [
+          80,
+          80
+        ],
+        "sha256": "fa9af19c6fdffb7b8b5424635f0523fe1d462bf96b6f1e11ba3e0bb0c78c3bf2"
+      },
+      {
+        "file": "portrait/face_alpaca_happy.png",
+        "pixels": [
+          160,
+          160
+        ],
+        "pivot": [
+          80,
+          80
+        ],
+        "sha256": "8868a76704bbc87fa40ee367cb8aa60cf32bfc6304e3b731af1dfa891655d6d3"
+      },
+      {
+        "file": "scene/breed_1_awkward.png",
+        "pixels": [
+          1280,
+          720
+        ],
+        "pivot": [
+          0,
+          0
+        ],
+        "sha256": "9b20a805439d7b86ce86ab8e59d7c0775020ebb8e5b1fa15fa2839bb9b0b2513"
+      },
+      {
+        "file": "scene/breed_2_heart.png",
+        "pixels": [
+          1280,
+          720
+        ],
+        "pivot": [
+          0,
+          0
+        ],
+        "sha256": "428ba4112bae88688f98a9a90ec0fad112f8aa79bde7478ab815d461bb080843"
+      },
+      {
+        "file": "scene/breed_3_baby.png",
+        "pixels": [
+          1280,
+          720
+        ],
+        "pivot": [
+          0,
+          0
+        ],
+        "sha256": "fd11964ca087d7b5a747eeb2261bbfc06e2b54460c53e76e80197747f7ad3ed4"
+      },
+      {
+        "file": "scene/unlock_bg.png",
+        "pixels": [
+          1280,
+          720
+        ],
+        "pivot": [
+          0,
+          0
+        ],
+        "sha256": "b1316435bdc08f4a750d11752f3bb303c17475436539dc07213a8ba2f3802290"
+      }
+    ],
+    "8": [
+      {
+        "file": "sheep/faceless/skin/body_idle.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "6f082823f55692dcf4d35bab2465e0716314e247f943d39b2a061f3ad9f631da"
+      },
+      {
+        "file": "sheep/faceless/skin/body_eat.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "2d31213091e0a439670b5817d2248ec664ae123970c4a2b07c45b2d0c9b7e43f"
+      },
+      {
+        "file": "sheep/faceless/skin/body_half.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "cf020e38d368a26df81d397a31cbd4a17cfa4e76f3faf5181d27b524f8044f32"
+      },
+      {
+        "file": "sheep/faceless/skin/body_sheared.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "da7585b202e44641f64ee7ddadce35d368ce005ccff202bd5c01a8374d33ff68"
+      },
+      {
+        "file": "sheep/faceless/skin/body_sleep.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "153b4c1bfa70f5339e3b82459fbd51f2a32c0d175a45d2b9185addcc3cc84c1b"
+      },
+      {
+        "file": "sheep/faceless/skin/body_walk_a.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "798d2bd1bc700feed3b3475da908277923f0efb8f74d7517be5631b785cfb3a6"
+      },
+      {
+        "file": "sheep/faceless/skin/body_walk_b.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "f603b7d683fd75f5fb52a21f57f57b5262e77be243e2b7b1149a81490c626b4a"
+      },
+      {
+        "file": "sheep/faceless/skin/body_short.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "5469da50178477d8a9d68e77008a1b95aa5017885f18b649fda712ea29283fb6"
+      },
+      {
+        "file": "sheep/faceless/skin/baby_body.png",
+        "pixels": [
+          192,
+          192
+        ],
+        "pivot": [
+          96,
+          186
+        ],
+        "sha256": "0de682434fd124961ab5152696af14825a02e6af507e51dfb98428f71505861d"
+      },
+      {
+        "file": "alpaca/faceless/skin/body_idle.png",
+        "pixels": [
+          256,
+          320
+        ],
+        "pivot": [
+          128,
+          314
+        ],
+        "sha256": "d5b0f320b8eb4db8c70570e24e8517925e44d7dc7c7f2dbbc85ebd4c020cdddd"
+      },
+      {
+        "file": "alpaca/faceless/skin/body_eat.png",
+        "pixels": [
+          256,
+          320
+        ],
+        "pivot": [
+          128,
+          314
+        ],
+        "sha256": "e31a0826ab5426de73a92c7288e18d23d34cef80e6b17f7aae768a37c7ee4f09"
+      },
+      {
+        "file": "alpaca/faceless/skin/body_half.png",
+        "pixels": [
+          256,
+          320
+        ],
+        "pivot": [
+          128,
+          314
+        ],
+        "sha256": "46bf12b90914022ea046beb21c2e234febe2e1f79ce8289216e995a010c02b38"
+      },
+      {
+        "file": "alpaca/faceless/skin/body_sheared.png",
+        "pixels": [
+          256,
+          320
+        ],
+        "pivot": [
+          128,
+          314
+        ],
+        "sha256": "9e8df9795f60c8256ea610299426984e0a9243bb0fc2c4fb18a3acbd122c8554"
+      },
+      {
+        "file": "alpaca/faceless/skin/body_sleep.png",
+        "pixels": [
+          256,
+          320
+        ],
+        "pivot": [
+          128,
+          314
+        ],
+        "sha256": "bfc12006a4a2c37cf6f2d94ab15c76b34c2a17eb40f4c1f9c7f57c01e95ec7e5"
+      },
+      {
+        "file": "alpaca/faceless/skin/body_walk_a.png",
+        "pixels": [
+          256,
+          320
+        ],
+        "pivot": [
+          128,
+          314
+        ],
+        "sha256": "62c513c00066838cbb169238a75d6cc226c483cffa732c31212fd8a5ed575409"
+      },
+      {
+        "file": "alpaca/faceless/skin/body_walk_b.png",
+        "pixels": [
+          256,
+          320
+        ],
+        "pivot": [
+          128,
+          314
+        ],
+        "sha256": "46ea3c1053e4273f75a00ec9960d8a9d135ac44412bde28cc39a0658a318f12f"
+      },
+      {
+        "file": "alpaca/faceless/skin/body_suri.png",
+        "pixels": [
+          256,
+          320
+        ],
+        "pivot": [
+          128,
+          314
+        ],
+        "sha256": "cdb39631df8cdd5aa380a7dd73bfc92c47f20653e7f7edc3399f5c761f2016b7"
+      },
+      {
+        "file": "alpaca/faceless/skin/baby_body.png",
+        "pixels": [
+          192,
+          240
+        ],
+        "pivot": [
+          96,
+          234
+        ],
+        "sha256": "547a9dd56aab7347cd8658557c20afd658b8b61d0b299d4715fd0b635cfa9967"
+      },
+      {
+        "file": "parts/eyes/sleepy_open.png",
+        "pixels": [
+          64,
+          40
+        ],
+        "pivot": [
+          32,
+          20
+        ],
+        "sha256": "5cfe86d54ae2e1c55ba62b924713f2862c334f1929c2fb72e0cb958097837dcc"
+      },
+      {
+        "file": "parts/eyes/smug_open.png",
+        "pixels": [
+          64,
+          40
+        ],
+        "pivot": [
+          32,
+          20
+        ],
+        "sha256": "c5afce33a11755baacac7d9ae4aa002e72695cff55aedfdbc0201c0de8a18c93"
+      }
+    ],
+    "7": [
+      {
+        "file": "portrait/layered/sheep_wool.png",
+        "pixels": [
+          768,
+          768
+        ],
+        "pivot": [
+          384,
+          760
+        ],
+        "sha256": "b7f9fd9c8077062479f3cd15907678b1273fa118d8705c1ece46206da8a83228"
+      },
+      {
+        "file": "portrait/layered/sheep_body.png",
+        "pixels": [
+          768,
+          768
+        ],
+        "pivot": [
+          384,
+          760
+        ],
+        "sha256": "e675261140256a2a317df97233d08b09d415516719fa9823d2ac6a8970c58a73"
+      },
+      {
+        "file": "portrait/layered/sheep_skin.png",
+        "pixels": [
+          768,
+          768
+        ],
+        "pivot": [
+          384,
+          760
+        ],
+        "sha256": "785f9f26aa40d1a4fd128d12ccb13699c4d09865c65b0ed2a4ed54c5fdc88da4"
+      },
+      {
+        "file": "portrait/layered/alpaca_wool.png",
+        "pixels": [
+          768,
+          768
+        ],
+        "pivot": [
+          384,
+          760
+        ],
+        "sha256": "2e4071bfa3efd59fe666dd45daabea2969c4126392e41f85c33464dddc780b35"
+      },
+      {
+        "file": "portrait/layered/alpaca_body.png",
+        "pixels": [
+          768,
+          768
+        ],
+        "pivot": [
+          384,
+          760
+        ],
+        "sha256": "0f12d53e108fd8a967943f9532ad861b3bd678c67fdbd976ada3a2a37d8eda06"
+      },
+      {
+        "file": "portrait/layered/alpaca_skin.png",
+        "pixels": [
+          768,
+          768
+        ],
+        "pivot": [
+          384,
+          760
+        ],
+        "sha256": "48a2b26cdc539734ec016e600fcf5c2b7c22454c0ee5137111da8224da31e6d4"
+      },
+      {
+        "file": "parts/portrait/eyes/alien_closed.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "7e0ce57e8b0b70540a956c444df97a9d26fcdffe1b0efd73f5d253f7fc52a090"
+      },
+      {
+        "file": "parts/portrait/eyes/alien_open.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "9e670063511e0e12382c7e4d8b2d1b0f575eab901ed25ec5940d0ee6b3969945"
+      },
+      {
+        "file": "parts/portrait/eyes/dot_closed.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "49736812fe9c6c6c46acf2fdab64b9c1d18e15171394caf2b3760fbc5103bd18"
+      },
+      {
+        "file": "parts/portrait/eyes/dot_open.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "da2561eb223de2e4bdf38c91425d1df1883653c94e0ac9a765886d1088a9e962"
+      },
+      {
+        "file": "parts/portrait/eyes/fire_closed.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "3624f99a2a802993b126daaf54be86bf9e886ccf23e80ba1d30ef72d08475346"
+      },
+      {
+        "file": "parts/portrait/eyes/fire_open.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "150db55f374be34238e3c6bad51569743dcc43fcf13e9246a2e2f65bad8c2d87"
+      },
+      {
+        "file": "parts/portrait/eyes/heart_closed.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "d7c115076de9410d69e63e847dacf8d4db6db67f38dd45a8bb6ca52fd4042d73"
+      },
+      {
+        "file": "parts/portrait/eyes/heart_open.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "fa01d961344d71f053ad14010f1cab96cadc1318fd393bb487979eaee5acfd48"
+      },
+      {
+        "file": "parts/portrait/eyes/monocle_closed.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "70a7531161b1925067789cd76ed45f5924087687cf18d94f35451de4bb14aea2"
+      },
+      {
+        "file": "parts/portrait/eyes/monocle_open.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "1dd7a950d45a016ba508c7bd94f47e5a5c941e6e7d363724ca4cbf2085d459da"
+      },
+      {
+        "file": "parts/portrait/eyes/round_closed.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "03649687b09842d5e4f9f062138c401a9ba783923f06895d330721937d130504"
+      },
+      {
+        "file": "parts/portrait/eyes/round_open.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "4079ff15cad8834b8c7a7aae6ff8251fa0cc1d1882dff1dcbf0be4ede35613f1"
+      },
+      {
+        "file": "parts/portrait/eyes/sharp_closed.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "d48f5af4b59b761194b50a4498333d0bbd55d2745bdd07dfe18c3a6b4e80d5b4"
+      },
+      {
+        "file": "parts/portrait/eyes/sharp_open.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "891729d5d480d5dfcd743d4b9c0c6609c31a7977c75aa243072bde747d0492b3"
+      },
+      {
+        "file": "parts/portrait/eyes/sleepy_closed.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "850e84bc0524a116adddbd7dadec94110d5265ae1470310782e8deff67dc65ef"
+      },
+      {
+        "file": "parts/portrait/eyes/sleepy_open.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "3f54a341fe28042abb9607e336be127e43abd6cc09ac73ddf5728be50e515712"
+      },
+      {
+        "file": "parts/portrait/eyes/smug_closed.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "254d21a91a6fd3965626848f8e556134e75c6afa8c84a241bd08466f8299337f"
+      },
+      {
+        "file": "parts/portrait/eyes/smug_open.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "02304283d9c83df2b634d2e69a4e0ff71fefc884a0643c4c269dd3790108d1b1"
+      },
+      {
+        "file": "parts/portrait/eyes/sparkle_closed.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "2f5abe2b1814265a375b8fcc858aed79bf83f845000fe28523e4f27a9bdda336"
+      },
+      {
+        "file": "parts/portrait/eyes/sparkle_open.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "be1f0724ea4a704b2db9f7a4bf25d8841db8e280b0b763d5f3bb3bd0aa8b824d"
+      },
+      {
+        "file": "parts/portrait/eyes/swirl_closed.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "5d016d042ffd06de5b3ea002f7d7e3afc81ea187b68c6d2307ebeb43c4d808d3"
+      },
+      {
+        "file": "parts/portrait/eyes/swirl_open.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "4e72c63ae1f0bc155fd1a88170966a4419321ac471624dee137e52cb76688bc8"
+      },
+      {
+        "file": "parts/portrait/eyes/teary_closed.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "b5eea8f39c3b23a92c4177bbd0c3c2d4445eb7cb26b6485e3bcc1eaf6d8d48f1"
+      },
+      {
+        "file": "parts/portrait/eyes/teary_open.png",
+        "pixels": [
+          192,
+          120
+        ],
+        "pivot": [
+          96,
+          60
+        ],
+        "sha256": "7bfc84da2ff8f68cb773b34b73612f038c113352e13da868b1fb7ce34741946a"
+      },
+      {
+        "file": "parts/portrait/mouth/cat.png",
+        "pixels": [
+          120,
+          84
+        ],
+        "pivot": [
+          60,
+          42
+        ],
+        "sha256": "0e7316fdbf6e493466ac12b905aaa638b1a380c11efbe03b9ba18309063a9b52"
+      },
+      {
+        "file": "parts/portrait/mouth/grin.png",
+        "pixels": [
+          120,
+          84
+        ],
+        "pivot": [
+          60,
+          42
+        ],
+        "sha256": "bd8e4066e50f33abc318c212249576b62d403f813c1bdc295411f20f8fd3621f"
+      },
+      {
+        "file": "parts/portrait/mouth/munch.png",
+        "pixels": [
+          120,
+          84
+        ],
+        "pivot": [
+          60,
+          42
+        ],
+        "sha256": "dce8f54284c621fa5bff51766a695603a914032e13ee640d21e0460d1c50733a"
+      },
+      {
+        "file": "parts/portrait/mouth/o.png",
+        "pixels": [
+          120,
+          84
+        ],
+        "pivot": [
+          60,
+          42
+        ],
+        "sha256": "7788500663063a1d17c35ef24791ffc77dfa80c9e017ee2120a3193fb84654a6"
+      },
+      {
+        "file": "parts/portrait/mouth/open.png",
+        "pixels": [
+          120,
+          84
+        ],
+        "pivot": [
+          60,
+          42
+        ],
+        "sha256": "40b564aa7a9571bdf692c4b3683913b471542e6a0441a1d366ba8977ed542309"
+      },
+      {
+        "file": "parts/portrait/mouth/pout.png",
+        "pixels": [
+          120,
+          84
+        ],
+        "pivot": [
+          60,
+          42
+        ],
+        "sha256": "8fa484ba58f366377c5022370c7a54ae3e0305ec11e18776feac8f724b47b1ed"
+      },
+      {
+        "file": "parts/portrait/mouth/smile.png",
+        "pixels": [
+          120,
+          84
+        ],
+        "pivot": [
+          60,
+          42
+        ],
+        "sha256": "1a33562afc69ce3c10be538fca71f5f01f9476c77a76df6d0afd636e315a03dc"
+      },
+      {
+        "file": "parts/portrait/mouth/smirk.png",
+        "pixels": [
+          120,
+          84
+        ],
+        "pivot": [
+          60,
+          42
+        ],
+        "sha256": "55b3f91e518576b2012bcbe8c3bf269d17a09ec2f1385e275865126ac4df8f7e"
+      },
+      {
+        "file": "parts/portrait/mouth/tongue.png",
+        "pixels": [
+          120,
+          84
+        ],
+        "pivot": [
+          60,
+          42
+        ],
+        "sha256": "777b2e2ca37efe46fde209e0301567513d643f78b8e9af8b84112fb9cb3be822"
+      },
+      {
+        "file": "parts/portrait/mouth/wavy.png",
+        "pixels": [
+          120,
+          84
+        ],
+        "pivot": [
+          60,
+          42
+        ],
+        "sha256": "c96d8765920b7bf32d4cdcc33656307d432aa50c54083ba85e6de78a93e2291e"
+      },
+      {
+        "file": "parts/portrait/cheek/blush.png",
+        "pixels": [
+          144,
+          60
+        ],
+        "pivot": [
+          72,
+          30
+        ],
+        "sha256": "eb3b01c5896b91b9616f485abb4ba0ac9a7125ad0b4094ef01fe0d12a56d9cb7"
+      },
+      {
+        "file": "parts/portrait/cheek/freckle.png",
+        "pixels": [
+          144,
+          60
+        ],
+        "pivot": [
+          72,
+          30
+        ],
+        "sha256": "733e8a1b4a6eaee64719d277454acf0a25835981fc8ac122a320c683493df760"
+      },
+      {
+        "file": "parts/portrait/cheek/sparkle.png",
+        "pixels": [
+          144,
+          60
+        ],
+        "pivot": [
+          72,
+          30
+        ],
+        "sha256": "79662574f912b90574ac30d92ebca08cae0f1897f4eda70eb6596aabe236b476"
+      },
+      {
+        "file": "parts/portrait/cheek/swirl.png",
+        "pixels": [
+          144,
+          60
+        ],
+        "pivot": [
+          72,
+          30
+        ],
+        "sha256": "4fa5c68c3ec31f5dad19ebe8e5dccccceb6acc2e92fc304084411de8b2d45ce4"
+      },
+      {
+        "file": "parts/portrait/brow/down.png",
+        "pixels": [
+          192,
+          60
+        ],
+        "pivot": [
+          96,
+          30
+        ],
+        "sha256": "8c8057aa744c7ea6abf661c724fc6a3a3218f872714fc406926daf70cb23ad87"
+      },
+      {
+        "file": "parts/portrait/brow/fancy.png",
+        "pixels": [
+          192,
+          60
+        ],
+        "pivot": [
+          96,
+          30
+        ],
+        "sha256": "be9ffdde610e065a1268e924203ee1e18a846aeddd82b4fb2d12f99bae880c67"
+      },
+      {
+        "file": "parts/portrait/brow/thick.png",
+        "pixels": [
+          192,
+          60
+        ],
+        "pivot": [
+          96,
+          30
+        ],
+        "sha256": "45ccb6fc6b6d814d8908c09b61df0217b175b99c058c01e2fbdff20e1eb1ab0f"
+      },
+      {
+        "file": "parts/portrait/brow/up.png",
+        "pixels": [
+          192,
+          60
+        ],
+        "pivot": [
+          96,
+          30
+        ],
+        "sha256": "889de4a872b3cc4f8dffb9bb61986d47215b8d88f8093f5dfc8c9fbdeb4f511f"
+      },
+      {
+        "file": "parts/portrait/brow/worried.png",
+        "pixels": [
+          192,
+          60
+        ],
+        "pivot": [
+          96,
+          30
+        ],
+        "sha256": "f5c7343ce41911f4750bc565eab261b645cbca5111c920747bca34912eb88798"
+      },
+      {
+        "file": "parts/portrait/acc/acc_alien.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          336
+        ],
+        "sha256": "4549e73e1606db266e30e2a0970bfca9231e3c66b6b01091baba5c7521f847a3"
+      },
+      {
+        "file": "parts/portrait/acc/acc_boss.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          192
+        ],
+        "sha256": "f724667db3e83817e93f914c295c3665be741d05fddd4e9b5dce07fb296738c0"
+      },
+      {
+        "file": "parts/portrait/acc/acc_chuuni.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          249,
+          192
+        ],
+        "sha256": "607ac08b885ea76735bac0ff25420f21bd99ec6e19c39852922667c79e5d0717"
+      },
+      {
+        "file": "parts/portrait/acc/acc_detective.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          336
+        ],
+        "sha256": "6a3a25a575611e96636a9838798a33288880ef055cd26e5b438ef198b21ae625"
+      },
+      {
+        "file": "parts/portrait/acc/acc_glutton.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          192
+        ],
+        "sha256": "11696826c0fee612d3ec98dcea28fb642715e1963ec32d6547f0380c012f1018"
+      },
+      {
+        "file": "parts/portrait/acc/acc_grandma.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          96
+        ],
+        "sha256": "82bba4b544f192ad4458429215d0d2dde613b24fb3618fd41e63b3b4f38e9d91"
+      },
+      {
+        "file": "parts/portrait/acc/acc_idol.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          108
+        ],
+        "sha256": "042809226d1aa3b5fe7d3f879e21eaf2fa16a9139372ed3c1529e0a311b83cdd"
+      },
+      {
+        "file": "parts/portrait/acc/acc_klutz.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          312
+        ],
+        "sha256": "9ed09ff1b9254f0bdf7f81e749aa7840c37e8d48bb3bc9f83534021e4a6f671f"
+      },
+      {
+        "file": "parts/portrait/acc/acc_noble.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          336
+        ],
+        "sha256": "b13308c6afb3c1b2ed45f5f5099a90cb1a7a56cc9896fdb94ef09eaa941e9739"
+      },
+      {
+        "file": "parts/portrait/acc/acc_philosopher.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          225,
+          264
+        ],
+        "sha256": "fee8f5ce9c822ba05f2cba43687f4099a6cb047e5dbc7eb100577e2b326f7014"
+      },
+      {
+        "file": "parts/portrait/acc/acc_poet.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          336
+        ],
+        "sha256": "a2f6c43d221be8445fff167a554ef121a11689747cb5258a1240c816c51c1cf3"
+      },
+      {
+        "file": "parts/portrait/acc/acc_princess.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          336
+        ],
+        "sha256": "465ed4b786e6d3942904fb5847850ac6e38251becec0ca3e360504bfa71db159"
+      },
+      {
+        "file": "parts/portrait/acc/acc_showoff.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          24
+        ],
+        "sha256": "a79e1abc3db707689a6b78cfc39eab05190d42bb81864ba36533b00620f06d94"
+      },
+      {
+        "file": "parts/portrait/acc/acc_shy.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          192
+        ],
+        "sha256": "0bd7dc22171ff7fbf3f54c747b72bf5242582272b5f8a24bf1f37d7722d9e407"
+      },
+      {
+        "file": "parts/portrait/acc/acc_sleepy.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          300
+        ],
+        "sha256": "831d0695f48e3eb6c6c43798dbc126c1cad29ee7a3e4859c95f6112cfea9b4e5"
+      },
+      {
+        "file": "parts/portrait/acc/acc_tsundere.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          126,
+          252
+        ],
+        "sha256": "851bb8d7f2e07fc41407acebd1a7df2d0c97495cdadcf42079b4ec7a67700b19"
+      },
+      {
+        "file": "parts/portrait/acc/bandana.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          114
+        ],
+        "sha256": "bfd6f03506561011ce8f35ae78eee5fe941bf784808c8cab9695cbbf938588e2"
+      },
+      {
+        "file": "parts/portrait/acc/beanie.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          216,
+          288
+        ],
+        "sha256": "dd852eec3af27a3b048a471c65cf05726271b6edf3b4f650dd193cd60987d7d9"
+      },
+      {
+        "file": "parts/portrait/acc/bell.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          120
+        ],
+        "sha256": "d6bedf84eb8343bee32a9012f4ac005c40083e71174ac1584f6a24c9fd86ed0f"
+      },
+      {
+        "file": "parts/portrait/acc/bow.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          120
+        ],
+        "sha256": "6a8c558c3d7384e1c399e6dd57230adc25914e9dab7ee476c808ffdc08c41724"
+      },
+      {
+        "file": "parts/portrait/acc/ear_tag.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          216,
+          150
+        ],
+        "sha256": "855dbf28b888bee2a1f63a46a2c6e6f851e8527196d6e47169e3bf4e2823c334"
+      },
+      {
+        "file": "parts/portrait/acc/flower_crown.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          216,
+          258
+        ],
+        "sha256": "ff5c1e752c3c8844402690e600a1cc7df417b1ec1314dda8ce03d63b445840a9"
+      },
+      {
+        "file": "parts/portrait/acc/halo.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          216,
+          270
+        ],
+        "sha256": "646979c3e5ca231160623827161be5ca20ef8be9a47afbd439bbfe3f9123ee76"
+      },
+      {
+        "file": "parts/portrait/acc/horns_curl.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          216,
+          288
+        ],
+        "sha256": "330a17cfd810df917e4753e62e3d10e884b6cd67af91c392bcb592496fd30817"
+      },
+      {
+        "file": "parts/portrait/acc/horns_small.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          216,
+          288
+        ],
+        "sha256": "5da29e803131d72f9850add1ca31344c4af96a1d4f3b0f9d43894e018edcf3b4"
+      },
+      {
+        "file": "parts/portrait/acc/leaf.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          216,
+          288
+        ],
+        "sha256": "0138e3244b6c235e3878282efe26b9d9fb52e393b5ebdbca754568ee709d7bb9"
+      },
+      {
+        "file": "parts/portrait/acc/party_hat.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          216,
+          288
+        ],
+        "sha256": "1015452c0baa8743be1cac25a949067fae8beaabc791fd5ef4cfb8aea8eaee98"
+      },
+      {
+        "file": "parts/portrait/acc/scarf.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          138
+        ],
+        "sha256": "924cdd5015b5891df74cd4fb9d2f7f95cd5fa0909cc42a271d4daa5d35dc4ef2"
+      }
+    ],
+    "9": [
+      {
+        "file": "sheep/legend/rainbow/idle.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "ac151f9afa0f2c64541ca81f6d901fe6f99ee64a385b9d2e0b3d74e44c5dbf73"
+      },
+      {
+        "file": "sheep/legend/rainbow/blink.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "9ac7f97ac3c7f06d29245ba0cac47dfdb67e0118d6d069f369bf36863862af61"
+      },
+      {
+        "file": "sheep/legend/rainbow/walk_a.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "98384daf275a2902b1c30c00d8adf58ab918ae27534d907f88ba3c26e5bf17d8"
+      },
+      {
+        "file": "sheep/legend/rainbow/walk_b.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "8fe869e283e8fba111ece8b7b3ab4672959cce0e75fc4e0d1df7ed3971b7bc39"
+      },
+      {
+        "file": "sheep/legend/rainbow/eat.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "78363d63857d008f75fa6558b9e35f326f1307ee9cd81a4f48b11454b6915979"
+      },
+      {
+        "file": "sheep/legend/rainbow/sleep.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "cdef9e64df4b253f69437ee658888b88b14675361baeb84699057116020eec63"
+      },
+      {
+        "file": "sheep/legend/rainbow/baby.png",
+        "pixels": [
+          192,
+          192
+        ],
+        "pivot": [
+          96,
+          186
+        ],
+        "sha256": "630bda6f47ebbde1a5f7aecdfa0f9896491f85a2dfb19e0ccb136ab716a5b92e"
+      },
+      {
+        "file": "sheep/legend/rainbow/portrait.png",
+        "pixels": [
+          768,
+          768
+        ],
+        "pivot": [
+          384,
+          760
+        ],
+        "sha256": "3a6f4a419e0e05a32c0fa3560165667ae4701a6a96e59c3c577a715ef73a4832"
+      },
+      {
+        "file": "sheep/legend/rainbow/face.png",
+        "pixels": [
+          160,
+          160
+        ],
+        "pivot": [
+          80,
+          80
+        ],
+        "sha256": "f30b77779b5f74382512e4511168b95782e041a7ebb83753022f715191abb718"
+      },
+      {
+        "file": "sheep/legend/golden/idle.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "e6e3b7a9e54b5fb2233d308b9a70b346515e8d8b670368e8d06cc2e7055f651e"
+      },
+      {
+        "file": "sheep/legend/golden/blink.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "84feb18389007858e427c223f79539937f3ce9a974a068c9c78b0c29c92c447f"
+      },
+      {
+        "file": "sheep/legend/golden/walk_a.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "a335c048a4a5876615f03abe6c0adce9462210c7a9e7f58c7333c292be9b2b3c"
+      },
+      {
+        "file": "sheep/legend/golden/walk_b.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "88567d0fec428eb3a63fda814d7a4eec802f0261957c8f3f0d29adac3eeaa395"
+      },
+      {
+        "file": "sheep/legend/golden/eat.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "505d05c6dfdd1db6fd5dbc5fd9f6b1b3cc3a29ad547b72e7bc9b4aa8b93bc015"
+      },
+      {
+        "file": "sheep/legend/golden/sleep.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "9ec91fd9f90b0d6519eece34b2f0e62b7d9112e4a3b0a9bf39541bb0962fa164"
+      },
+      {
+        "file": "sheep/legend/golden/baby.png",
+        "pixels": [
+          192,
+          192
+        ],
+        "pivot": [
+          96,
+          186
+        ],
+        "sha256": "3d8f1e2e58c4f4539de78a1e09c7c2019f5649815200f90b1fa59fb013a0b1ca"
+      },
+      {
+        "file": "sheep/legend/golden/portrait.png",
+        "pixels": [
+          768,
+          768
+        ],
+        "pivot": [
+          384,
+          760
+        ],
+        "sha256": "5a4dfff80f1dff15973428bec148b4e9ef40ad28003a233f2f7408cc01026d05"
+      },
+      {
+        "file": "sheep/legend/golden/face.png",
+        "pixels": [
+          160,
+          160
+        ],
+        "pivot": [
+          80,
+          80
+        ],
+        "sha256": "c0a2f834700c2ac0e18529801ac2f4d62111557db8e3d0e3bb35db62882cd3de"
+      },
+      {
+        "file": "sheep/legend/starry/idle.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "15a9d62592bd486810529dcd6293091046e93df5d24be12f3e2f29ee49c91fa6"
+      },
+      {
+        "file": "sheep/legend/starry/blink.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "0db64b512a07b54d4eac925f63823496656a1a0effab9f41587475d292457172"
+      },
+      {
+        "file": "sheep/legend/starry/walk_a.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "b1e51a1ffbc889400542052e8769c7ed08d0ae03da27e912ff6720cf136542f3"
+      },
+      {
+        "file": "sheep/legend/starry/walk_b.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "36233b4d0df124daedc025795951dc55e107bb98621c7ddce60b295d6ab0a694"
+      },
+      {
+        "file": "sheep/legend/starry/eat.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "20e4ad9667106322208e5e28dfb496468d3b7033a932267a5c038f9c75f0a70b"
+      },
+      {
+        "file": "sheep/legend/starry/sleep.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "9e1f3ea01ff80e0e778cf873244c4397395da307906713cb8adca06095f1378b"
+      },
+      {
+        "file": "sheep/legend/starry/baby.png",
+        "pixels": [
+          192,
+          192
+        ],
+        "pivot": [
+          96,
+          186
+        ],
+        "sha256": "42a60f4e708304455e838334d524ab171566c28453827f41ff68b47ba50bc088"
+      },
+      {
+        "file": "sheep/legend/starry/portrait.png",
+        "pixels": [
+          768,
+          768
+        ],
+        "pivot": [
+          384,
+          760
+        ],
+        "sha256": "db6ebb16e43e088170b8dd60b4e3fdd93623457f394579bcab9a0373071d86e5"
+      },
+      {
+        "file": "sheep/legend/starry/face.png",
+        "pixels": [
+          160,
+          160
+        ],
+        "pivot": [
+          80,
+          80
+        ],
+        "sha256": "903a29c855fcf8d64e3173a6d990adb6df45f1b98164729efa3ec79daf4e6822"
+      },
+      {
+        "file": "sheep/legend/cloud/idle.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "d480999cd8f098151e7ccc2fd65368b1455f1b3f536fe1b73b1e20b392656885"
+      },
+      {
+        "file": "sheep/legend/cloud/blink.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "01bfc10cdc8897ac02fc5f1483d090ea4b27ee12bfaf3a15353dae62a7b9a11b"
+      },
+      {
+        "file": "sheep/legend/cloud/walk_a.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "f1a7890798e20e2dfaac8a1403e5b60633625ee89daefb453d799b58273f866a"
+      },
+      {
+        "file": "sheep/legend/cloud/walk_b.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "987d8165b519c7881ab375b618fafd81c2677ec2bf0d2a5835cd54d48026d8e9"
+      },
+      {
+        "file": "sheep/legend/cloud/eat.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "8283276581efd4bb1d911a92c2a794e3d02273c107cdf438af74cbaa8818d4de"
+      },
+      {
+        "file": "sheep/legend/cloud/sleep.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "587dbf1c776e4941d70f9ebf497b2a3afd42e5d21873fe3558a04c7ba5ef100e"
+      },
+      {
+        "file": "sheep/legend/cloud/baby.png",
+        "pixels": [
+          192,
+          192
+        ],
+        "pivot": [
+          96,
+          186
+        ],
+        "sha256": "8ba3f5d77eb0936a3c2e35a73350702fdcc7e24802e82b0faf06c10fd7a2b8f3"
+      },
+      {
+        "file": "sheep/legend/cloud/portrait.png",
+        "pixels": [
+          768,
+          768
+        ],
+        "pivot": [
+          384,
+          760
+        ],
+        "sha256": "aee7be0298b8c9f64917f67917b06f04a93e6762f15da04e206c839ac43478c9"
+      },
+      {
+        "file": "sheep/legend/cloud/face.png",
+        "pixels": [
+          160,
+          160
+        ],
+        "pivot": [
+          80,
+          80
+        ],
+        "sha256": "6575bd7ccef1c6de92b5e40751327b86fb6170db842fa92abf9c8ec7c88d275d"
+      },
+      {
+        "file": "sheep/legend/cotton_candy/idle.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "2ede21ba8c87fd883f4b2c4ac90487c72a800c5b05419a05cfb0899f5203350d"
+      },
+      {
+        "file": "sheep/legend/cotton_candy/blink.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "ce82efc2f65eab14f7dba07a4596ae79a83272203fa6c3545419627fea28bef3"
+      },
+      {
+        "file": "sheep/legend/cotton_candy/walk_a.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "51d3176f8a4a14e76215716d83e580e54e5a816c1924883836be98eeadee4358"
+      },
+      {
+        "file": "sheep/legend/cotton_candy/walk_b.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "5032e3d2b7e2c801450866162cffd642979592f50153d571876eaa03d1b38348"
+      },
+      {
+        "file": "sheep/legend/cotton_candy/eat.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "082a3ac933261081ebef734846912deef2b5df8983c2a055775d905c3df7df04"
+      },
+      {
+        "file": "sheep/legend/cotton_candy/sleep.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "a744dc3fced380d73149ae339b5badbb69293173cd5f0ab51079cc0a800c310b"
+      },
+      {
+        "file": "sheep/legend/cotton_candy/baby.png",
+        "pixels": [
+          192,
+          192
+        ],
+        "pivot": [
+          96,
+          186
+        ],
+        "sha256": "aa2fe3c46a24958abb88e2976b3b47ab5f8811a787d3ac28f32fcaca92ea269b"
+      },
+      {
+        "file": "sheep/legend/cotton_candy/portrait.png",
+        "pixels": [
+          768,
+          768
+        ],
+        "pivot": [
+          384,
+          760
+        ],
+        "sha256": "e0f7a35df28fb437fe1aa7224a1b900e7b71257d8f63e6980cf2ae91e0d49ecd"
+      },
+      {
+        "file": "sheep/legend/cotton_candy/face.png",
+        "pixels": [
+          160,
+          160
+        ],
+        "pivot": [
+          80,
+          80
+        ],
+        "sha256": "bfe4a016aec5aecb9775d05806d12e4bb6144e2183b21d4659184253508951b9"
+      },
+      {
+        "file": "sheep/legend/ghost/idle.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "1d040cdc1fc270d934600ab41383482023d3321b2d12c2ee1305e300478729f8"
+      },
+      {
+        "file": "sheep/legend/ghost/blink.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "9aa4952d4e9e040de2432866ed8156e32d229759efab6874b5b1fcdb2d87dc07"
+      },
+      {
+        "file": "sheep/legend/ghost/walk_a.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "4b2b240780f220416c3d99da430cb2cf1545e90827fa4efcd4df034cb5dab838"
+      },
+      {
+        "file": "sheep/legend/ghost/walk_b.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "6dcd010efa5f4c0804cd14f843ccf8e48e78ce31b9945117d548ca1b073d0a3c"
+      },
+      {
+        "file": "sheep/legend/ghost/eat.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "0c0ff17fc7dc45757d46c7978362fa3805d7cdd23f8397788381d926bf00ba9c"
+      },
+      {
+        "file": "sheep/legend/ghost/sleep.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "f84eee685eb7eafbd91c58be0741ad574a04e5f6610fd51ff73130d4c810aec4"
+      },
+      {
+        "file": "sheep/legend/ghost/baby.png",
+        "pixels": [
+          192,
+          192
+        ],
+        "pivot": [
+          96,
+          186
+        ],
+        "sha256": "11fe0cc767e8e09c21c6443e8a06ce2493c5f33d6f3012e9b22d169b86a99085"
+      },
+      {
+        "file": "sheep/legend/ghost/portrait.png",
+        "pixels": [
+          768,
+          768
+        ],
+        "pivot": [
+          384,
+          760
+        ],
+        "sha256": "50e8399eed8876d13e282b918fdeb505a11892a97f044956201277a5c61498e0"
+      },
+      {
+        "file": "sheep/legend/ghost/face.png",
+        "pixels": [
+          160,
+          160
+        ],
+        "pivot": [
+          80,
+          80
+        ],
+        "sha256": "f3cf97d03af61cedb13c579de7f9f17faedcd43abeef39e1ab03d0f4f3e4d94f"
+      },
+      {
+        "file": "sheep/legend/flower/idle.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "1fd66185c58cffe385de60e4ee705e5f04de3b70e64f6bc0150cf128fede1183"
+      },
+      {
+        "file": "sheep/legend/flower/blink.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "cf9f6999014d95885dc27d53cdc02fab7b03c67c414ac7cc8217a7202ae55076"
+      },
+      {
+        "file": "sheep/legend/flower/walk_a.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "9684ce80c7789fb5a048fa274e28f5bc6990d4c11e88c7359fc316e2e809705b"
+      },
+      {
+        "file": "sheep/legend/flower/walk_b.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "a1e4604fb2317731b54f79d9d0115094dd18e027e3177e380dfe46ad07859789"
+      },
+      {
+        "file": "sheep/legend/flower/eat.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "a18f93f8059ecdf3e282e901e645081ca9cabcf8d53c2262e235dab326aa951c"
+      },
+      {
+        "file": "sheep/legend/flower/sleep.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "b3da8864d3e354a7e19e1a1a5b602f495a45ede828bf6ae2c35a3f5598a6f44e"
+      },
+      {
+        "file": "sheep/legend/flower/baby.png",
+        "pixels": [
+          192,
+          192
+        ],
+        "pivot": [
+          96,
+          186
+        ],
+        "sha256": "19738700d70bf6bf589ba539fa4dbe65f4a37f7ed4c8bb6b24c4a3f46b0911c8"
+      },
+      {
+        "file": "sheep/legend/flower/portrait.png",
+        "pixels": [
+          768,
+          768
+        ],
+        "pivot": [
+          384,
+          760
+        ],
+        "sha256": "d9388b9e6d5677fab516a388fcef31b6c523d450a5ce9cbfe364debef6ff4445"
+      },
+      {
+        "file": "sheep/legend/flower/face.png",
+        "pixels": [
+          160,
+          160
+        ],
+        "pivot": [
+          80,
+          80
+        ],
+        "sha256": "a6a2abe7ef7a4d1aba8ed22bb4fca13477c3f15cdd2844a48b53582c8f2f28b9"
+      },
+      {
+        "file": "sheep/legend/snow/idle.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "ba15907d3afb9cfff887380941a09d45b8399e8dd11198c880588ac94dbb0203"
+      },
+      {
+        "file": "sheep/legend/snow/blink.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "481f850626749d22d6dbe91aceb5171ce383a94af1afd7289eb7161f1a4e53ed"
+      },
+      {
+        "file": "sheep/legend/snow/walk_a.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "e4d9bd6d6dad033454989a24006b477bc161dcf7ae8f9c7734ec7fcd01e4115b"
+      },
+      {
+        "file": "sheep/legend/snow/walk_b.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "7525be920402aa7077b7f200be4a2c803dd32cb50f7f5302afa4e4d163ec6036"
+      },
+      {
+        "file": "sheep/legend/snow/eat.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "695e046e630c82499909161b5cd09b8b20d833895d24d53cac1f23a728802471"
+      },
+      {
+        "file": "sheep/legend/snow/sleep.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "c3dd6457d54876b6580bd54f7c1dcd4e0a7b8cf6f1ffc8b855d35fe9e15bb266"
+      },
+      {
+        "file": "sheep/legend/snow/baby.png",
+        "pixels": [
+          192,
+          192
+        ],
+        "pivot": [
+          96,
+          186
+        ],
+        "sha256": "65db2380e199003bc55d52d431cae242d9b4e09e23301343209a2aed54a2af1d"
+      },
+      {
+        "file": "sheep/legend/snow/portrait.png",
+        "pixels": [
+          768,
+          768
+        ],
+        "pivot": [
+          384,
+          760
+        ],
+        "sha256": "c3e660ae84a66f21160533d21c92d8fba3c041491103a8343370c7bc4a687915"
+      },
+      {
+        "file": "sheep/legend/snow/face.png",
+        "pixels": [
+          160,
+          160
+        ],
+        "pivot": [
+          80,
+          80
+        ],
+        "sha256": "b63be42703a21c834c4b57356f3bb01926bc29e12d84322729a629fa65c23359"
+      },
+      {
+        "file": "sheep/legend/dragon/idle.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "ff353c4ffca94694b2f96f0ecb65c55eb1a76a2f67a352b9499382cff6a34992"
+      },
+      {
+        "file": "sheep/legend/dragon/blink.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "cb67e0c76653eea7a01326ec41e9bffe634fd3c3fed71bc0252a5b5e79c648b8"
+      },
+      {
+        "file": "sheep/legend/dragon/walk_a.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "c8363b6fa43370ec14b72ccf1ddf49ab60ed66ccf1611c11db9d59ec154a1644"
+      },
+      {
+        "file": "sheep/legend/dragon/walk_b.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "48af3ae8b555772a859d04d2d1c7e4eea2bd97b58c1d37a06cdb2332a36df031"
+      },
+      {
+        "file": "sheep/legend/dragon/eat.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "404f310d734a2d244677d2f0d7f435140fad8ccf9cd68a7daf6af70ec762a92d"
+      },
+      {
+        "file": "sheep/legend/dragon/sleep.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "a223d18d659927f725adc5a26ec94d91a993f1597738d71f1a8d47c5d3851d4b"
+      },
+      {
+        "file": "sheep/legend/dragon/baby.png",
+        "pixels": [
+          192,
+          192
+        ],
+        "pivot": [
+          96,
+          186
+        ],
+        "sha256": "4690824b8839a5e4a9eadbfcbc9172ef257e77c9026583fff8427fc7183a12c1"
+      },
+      {
+        "file": "sheep/legend/dragon/portrait.png",
+        "pixels": [
+          768,
+          768
+        ],
+        "pivot": [
+          384,
+          760
+        ],
+        "sha256": "87ebe222673c2072cbcf5ef648aa3707030924a48e152fe101f2f9f45105333a"
+      },
+      {
+        "file": "sheep/legend/dragon/face.png",
+        "pixels": [
+          160,
+          160
+        ],
+        "pivot": [
+          80,
+          80
+        ],
+        "sha256": "dd6f5afcd8194c0b031e8f6a736f8215fd4cb8d7596225b408957fba607085e7"
+      },
+      {
+        "file": "sheep/legend/king/idle.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "1e6f22f2c1c08cc8c2ab4d731e78ba28af2ab854945c1ba63cd255173100b973"
+      },
+      {
+        "file": "sheep/legend/king/blink.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "4fb35044c397d1ecc691623fe8d1a76852f330a09e146b574a0d4e638d0e78be"
+      },
+      {
+        "file": "sheep/legend/king/walk_a.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "7cc5df4c5e59ab41c66e35add1c8e86ea8bf484bd9c536fd2a1a7180f0274417"
+      },
+      {
+        "file": "sheep/legend/king/walk_b.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "3df5799af3b9d2ef9ba1aaaadd80d067183bf0d9c82c710f0ccd7ebf5cef5e7e"
+      },
+      {
+        "file": "sheep/legend/king/eat.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "5aeda8a3f0d8af2e32989f09234742e6d6720a606cf49cc54cc8845d685a65de"
+      },
+      {
+        "file": "sheep/legend/king/sleep.png",
+        "pixels": [
+          256,
+          256
+        ],
+        "pivot": [
+          128,
+          250
+        ],
+        "sha256": "ba5266ccda9d28cf9e65ebb8b241d0224ffa24619688d43984bd28899f50e5fd"
+      },
+      {
+        "file": "sheep/legend/king/baby.png",
+        "pixels": [
+          192,
+          192
+        ],
+        "pivot": [
+          96,
+          186
+        ],
+        "sha256": "7cf137a05a96341a1680da01fd8a921d9f521d63012bea47017de3733702ef85"
+      },
+      {
+        "file": "sheep/legend/king/portrait.png",
+        "pixels": [
+          768,
+          768
+        ],
+        "pivot": [
+          384,
+          760
+        ],
+        "sha256": "68117d758095921d9688ee891bb5754956ebaeb72848afa9c4c954c1ea7aad78"
+      },
+      {
+        "file": "sheep/legend/king/face.png",
+        "pixels": [
+          160,
+          160
+        ],
+        "pivot": [
+          80,
+          80
+        ],
+        "sha256": "e2ec77c4cc476adb58aff76179fedaf7973c13378d66fba7a6d7e220a8f1096a"
+      },
+      {
+        "file": "ui/reveal/frame_LR.png",
+        "pixels": [
+          208,
+          256
+        ],
+        "pivot": [
+          104,
+          128
+        ],
+        "sha256": "b1958c53751a3fcf956ad98af1a970dc72e1008f798dc4cafd4601a72017de81"
+      },
+      {
+        "file": "ui/reveal/badge_LR.png",
+        "pixels": [
+          160,
+          56
+        ],
+        "pivot": [
+          80,
+          28
+        ],
+        "sha256": "59d12ceafac59507230642e2b2ee7bc0e1fa2d5018033fc82c963e2754571c5b"
+      },
+      {
+        "file": "fx/reveal/egg_gold_1.png",
+        "pixels": [
+          192,
+          192
+        ],
+        "pivot": [
+          96,
+          186
+        ],
+        "sha256": "fcca0f69aa67897d83e8993789ec437b7149edaa843caaa0d5c28ba4ca3dd75b"
+      },
+      {
+        "file": "fx/reveal/egg_gold_2.png",
+        "pixels": [
+          192,
+          192
+        ],
+        "pivot": [
+          96,
+          186
+        ],
+        "sha256": "d544f0cf96050ddc182006016651f72d7f9fb64a12f113af4d17d3ca1552b29d"
+      },
+      {
+        "file": "fx/reveal/egg_gold_3.png",
+        "pixels": [
+          192,
+          192
+        ],
+        "pivot": [
+          96,
+          186
+        ],
+        "sha256": "6d68b77d4fac3a5b08e83abce9574fd351f9ae05935692c8bb2befb77a405f93"
+      },
+      {
+        "file": "fx/reveal/sparkle_lr.png",
+        "pixels": [
+          384,
+          384
+        ],
+        "pivot": [
+          192,
+          192
+        ],
+        "sha256": "1649c58b3379c12d89d03c92cb0eee5113fe8c7dd2eaecfc54c7c18b43a7d2d0"
+      },
+      {
+        "file": "icon/legend.png",
+        "pixels": [
+          128,
+          128
+        ],
+        "pivot": [
+          64,
+          64
+        ],
+        "sha256": "01f05f69c67ed7b3f8f8fb922e4f9a26e5426f8fdd6474636683fed90ad11d2f"
+      }
+    ]
+  }
+}

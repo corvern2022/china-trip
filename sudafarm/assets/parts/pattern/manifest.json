@@ -1,0 +1,219 @@
+{
+  "spots.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "location": "wool",
+    "paint": "ink-black-on-white",
+    "tile": "xy",
+    "use": "luminance mask: black = pattern colour"
+  },
+  "stripes.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "location": "wool",
+    "paint": "ink-black-on-white",
+    "tile": "xy",
+    "use": "luminance mask: black = pattern colour"
+  },
+  "patch.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "location": "wool",
+    "paint": "ink-black-on-white",
+    "tile": "xy",
+    "use": "luminance mask: black = pattern colour"
+  },
+  "fade.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "location": "wool",
+    "paint": "ink-black-on-white",
+    "tile": "",
+    "use": "luminance mask: black = pattern colour",
+    "note": "darkens downward; never repeat; stretch once over the whole wool"
+  },
+  "dots.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "location": "wool",
+    "paint": "ink-black-on-white",
+    "tile": "xy",
+    "use": "luminance mask: black = pattern colour"
+  },
+  "checker.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "location": "wool",
+    "paint": "ink-black-on-white",
+    "tile": "xy",
+    "use": "luminance mask: black = pattern colour"
+  },
+  "hearts.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "location": "wool",
+    "paint": "ink-black-on-white",
+    "tile": "xy",
+    "use": "luminance mask: black = pattern colour"
+  },
+  "stars.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "location": "wool",
+    "paint": "ink-black-on-white",
+    "tile": "xy",
+    "use": "luminance mask: black = pattern colour"
+  },
+  "swirl.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "location": "wool",
+    "paint": "ink-black-on-white",
+    "tile": "xy",
+    "use": "luminance mask: black = pattern colour"
+  },
+  "flower.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "location": "wool",
+    "paint": "ink-black-on-white",
+    "tile": "xy",
+    "use": "luminance mask: black = pattern colour"
+  },
+  "zigzag.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "location": "wool",
+    "paint": "ink-black-on-white",
+    "tile": "xy",
+    "use": "luminance mask: black = pattern colour"
+  },
+  "galaxy.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "location": "wool",
+    "paint": "ink-black-on-white",
+    "tile": "xy",
+    "use": "luminance mask: black = pattern colour"
+  }
+}

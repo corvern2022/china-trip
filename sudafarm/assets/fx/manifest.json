@@ -1,0 +1,829 @@
+{
+  "wool_puff": {
+    "sheet": "wool_puff_sheet.png",
+    "frame_pixels": [
+      256,
+      256
+    ],
+    "frame_count": 6,
+    "anchor_pixels": [
+      128,
+      128
+    ],
+    "durations_ms": [
+      60,
+      70,
+      80,
+      90,
+      100,
+      100
+    ],
+    "loop": false,
+    "frames": [
+      {
+        "file": "wool_puff_0.png",
+        "rect": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "wool_puff_1.png",
+        "rect": [
+          256,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "wool_puff_2.png",
+        "rect": [
+          512,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "wool_puff_3.png",
+        "rect": [
+          768,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "wool_puff_4.png",
+        "rect": [
+          1024,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "wool_puff_5.png",
+        "rect": [
+          1280,
+          0,
+          256,
+          256
+        ]
+      }
+    ]
+  },
+  "sparkle": {
+    "sheet": "sparkle_sheet.png",
+    "frame_pixels": [
+      256,
+      256
+    ],
+    "frame_count": 6,
+    "anchor_pixels": [
+      128,
+      128
+    ],
+    "durations_ms": [
+      60,
+      70,
+      80,
+      90,
+      100,
+      100
+    ],
+    "loop": false,
+    "frames": [
+      {
+        "file": "sparkle_0.png",
+        "rect": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "sparkle_1.png",
+        "rect": [
+          256,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "sparkle_2.png",
+        "rect": [
+          512,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "sparkle_3.png",
+        "rect": [
+          768,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "sparkle_4.png",
+        "rect": [
+          1024,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "sparkle_5.png",
+        "rect": [
+          1280,
+          0,
+          256,
+          256
+        ]
+      }
+    ]
+  },
+  "dust": {
+    "sheet": "dust_sheet.png",
+    "frame_pixels": [
+      256,
+      256
+    ],
+    "frame_count": 6,
+    "anchor_pixels": [
+      128,
+      128
+    ],
+    "durations_ms": [
+      60,
+      70,
+      80,
+      90,
+      100,
+      100
+    ],
+    "loop": false,
+    "frames": [
+      {
+        "file": "dust_0.png",
+        "rect": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "dust_1.png",
+        "rect": [
+          256,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "dust_2.png",
+        "rect": [
+          512,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "dust_3.png",
+        "rect": [
+          768,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "dust_4.png",
+        "rect": [
+          1024,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "dust_5.png",
+        "rect": [
+          1280,
+          0,
+          256,
+          256
+        ]
+      }
+    ]
+  },
+  "bubbles": {
+    "sheet": "bubbles_sheet.png",
+    "frame_pixels": [
+      256,
+      256
+    ],
+    "frame_count": 6,
+    "anchor_pixels": [
+      128,
+      128
+    ],
+    "durations_ms": [
+      60,
+      70,
+      80,
+      90,
+      100,
+      100
+    ],
+    "loop": false,
+    "frames": [
+      {
+        "file": "bubbles_0.png",
+        "rect": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "bubbles_1.png",
+        "rect": [
+          256,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "bubbles_2.png",
+        "rect": [
+          512,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "bubbles_3.png",
+        "rect": [
+          768,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "bubbles_4.png",
+        "rect": [
+          1024,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "bubbles_5.png",
+        "rect": [
+          1280,
+          0,
+          256,
+          256
+        ]
+      }
+    ]
+  },
+  "levelup_burst": {
+    "sheet": "levelup_burst_sheet.png",
+    "frame_pixels": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "anchor_pixels": [
+      256,
+      256
+    ],
+    "durations_ms": [
+      60,
+      70,
+      80,
+      90,
+      100,
+      100
+    ],
+    "loop": false,
+    "frames": [
+      {
+        "file": "levelup_burst_0.png",
+        "rect": [
+          0,
+          0,
+          512,
+          512
+        ]
+      },
+      {
+        "file": "levelup_burst_1.png",
+        "rect": [
+          512,
+          0,
+          512,
+          512
+        ]
+      },
+      {
+        "file": "levelup_burst_2.png",
+        "rect": [
+          1024,
+          0,
+          512,
+          512
+        ]
+      },
+      {
+        "file": "levelup_burst_3.png",
+        "rect": [
+          1536,
+          0,
+          512,
+          512
+        ]
+      },
+      {
+        "file": "levelup_burst_4.png",
+        "rect": [
+          2048,
+          0,
+          512,
+          512
+        ]
+      },
+      {
+        "file": "levelup_burst_5.png",
+        "rect": [
+          2560,
+          0,
+          512,
+          512
+        ]
+      }
+    ]
+  },
+  "coin_pop": {
+    "sheet": "coin_pop_sheet.png",
+    "frame_pixels": [
+      256,
+      256
+    ],
+    "frame_count": 6,
+    "anchor_pixels": [
+      128,
+      128
+    ],
+    "durations_ms": [
+      60,
+      70,
+      80,
+      90,
+      100,
+      100
+    ],
+    "loop": false,
+    "frames": [
+      {
+        "file": "coin_pop_0.png",
+        "rect": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "coin_pop_1.png",
+        "rect": [
+          256,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "coin_pop_2.png",
+        "rect": [
+          512,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "coin_pop_3.png",
+        "rect": [
+          768,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "coin_pop_4.png",
+        "rect": [
+          1024,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "coin_pop_5.png",
+        "rect": [
+          1280,
+          0,
+          256,
+          256
+        ]
+      }
+    ]
+  },
+  "heart_pop": {
+    "sheet": "heart_pop_sheet.png",
+    "frame_pixels": [
+      256,
+      256
+    ],
+    "frame_count": 6,
+    "anchor_pixels": [
+      128,
+      128
+    ],
+    "durations_ms": [
+      60,
+      70,
+      80,
+      90,
+      100,
+      100
+    ],
+    "loop": false,
+    "frames": [
+      {
+        "file": "heart_pop_0.png",
+        "rect": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "heart_pop_1.png",
+        "rect": [
+          256,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "heart_pop_2.png",
+        "rect": [
+          512,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "heart_pop_3.png",
+        "rect": [
+          768,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "heart_pop_4.png",
+        "rect": [
+          1024,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "heart_pop_5.png",
+        "rect": [
+          1280,
+          0,
+          256,
+          256
+        ]
+      }
+    ]
+  },
+  "xp_star": {
+    "sheet": "xp_star_sheet.png",
+    "frame_pixels": [
+      256,
+      256
+    ],
+    "frame_count": 6,
+    "anchor_pixels": [
+      128,
+      128
+    ],
+    "durations_ms": [
+      60,
+      70,
+      80,
+      90,
+      100,
+      100
+    ],
+    "loop": false,
+    "frames": [
+      {
+        "file": "xp_star_0.png",
+        "rect": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "xp_star_1.png",
+        "rect": [
+          256,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "xp_star_2.png",
+        "rect": [
+          512,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "xp_star_3.png",
+        "rect": [
+          768,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "xp_star_4.png",
+        "rect": [
+          1024,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "xp_star_5.png",
+        "rect": [
+          1280,
+          0,
+          256,
+          256
+        ]
+      }
+    ]
+  },
+  "zzz": {
+    "sheet": "zzz_sheet.png",
+    "frame_pixels": [
+      256,
+      256
+    ],
+    "frame_count": 6,
+    "anchor_pixels": [
+      128,
+      128
+    ],
+    "durations_ms": [
+      60,
+      70,
+      80,
+      90,
+      100,
+      100
+    ],
+    "loop": true,
+    "frames": [
+      {
+        "file": "zzz_0.png",
+        "rect": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "zzz_1.png",
+        "rect": [
+          256,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "zzz_2.png",
+        "rect": [
+          512,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "zzz_3.png",
+        "rect": [
+          768,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "zzz_4.png",
+        "rect": [
+          1024,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "zzz_5.png",
+        "rect": [
+          1280,
+          0,
+          256,
+          256
+        ]
+      }
+    ]
+  },
+  "swipe_trail.png": {
+    "pixels": [
+      1536,
+      256
+    ],
+    "pivot": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      128,
+      128
+    ],
+    "frame_pixels": [
+      256,
+      256
+    ],
+    "frame_count": 6,
+    "durations_ms": [
+      50,
+      60,
+      65,
+      75,
+      90,
+      110
+    ],
+    "loop": false,
+    "frames": [
+      {
+        "rect": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "rect": [
+          256,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "rect": [
+          512,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "rect": [
+          768,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "rect": [
+          1024,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "rect": [
+          1280,
+          0,
+          256,
+          256
+        ]
+      }
+    ]
+  },
+  "raindrop.png": {
+    "pixels": [
+      64,
+      64
+    ],
+    "pivot": [
+      32,
+      32
+    ],
+    "anchor_pixels": [
+      32,
+      32
+    ]
+  },
+  "snowflake.png": {
+    "pixels": [
+      64,
+      64
+    ],
+    "pivot": [
+      32,
+      32
+    ],
+    "anchor_pixels": [
+      32,
+      32
+    ]
+  },
+  "petal.png": {
+    "pixels": [
+      64,
+      64
+    ],
+    "pivot": [
+      32,
+      32
+    ],
+    "anchor_pixels": [
+      32,
+      32
+    ]
+  },
+  "leaf.png": {
+    "pixels": [
+      64,
+      64
+    ],
+    "pivot": [
+      32,
+      32
+    ],
+    "anchor_pixels": [
+      32,
+      32
+    ]
+  }
+}

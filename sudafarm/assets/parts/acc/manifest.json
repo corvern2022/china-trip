@@ -1,0 +1,466 @@
+{
+  "acc_alien.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      112
+    ],
+    "anchor_pixels": [
+      64,
+      112
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "type": "외계양"
+  },
+  "acc_boss.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "type": "조폭"
+  },
+  "acc_chuuni.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      83,
+      64
+    ],
+    "anchor_pixels": [
+      83,
+      64
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "type": "중2병"
+  },
+  "acc_detective.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      112
+    ],
+    "anchor_pixels": [
+      64,
+      112
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "type": "탐정"
+  },
+  "acc_glutton.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "slot": "mouth",
+    "paint": "original",
+    "type": "먹보"
+  },
+  "acc_grandma.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      32
+    ],
+    "anchor_pixels": [
+      64,
+      32
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "type": "할매"
+  },
+  "acc_idol.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      36
+    ],
+    "pivot": [
+      64,
+      36
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "type": "아이돌"
+  },
+  "acc_klutz.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      104
+    ],
+    "anchor_pixels": [
+      64,
+      104
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "type": "허당"
+  },
+  "acc_noble.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      112
+    ],
+    "anchor_pixels": [
+      64,
+      112
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "type": "허세 귀족"
+  },
+  "acc_philosopher.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      75,
+      88
+    ],
+    "anchor_pixels": [
+      75,
+      88
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "type": "철학자"
+  },
+  "acc_poet.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      112
+    ],
+    "anchor_pixels": [
+      64,
+      112
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "type": "시인"
+  },
+  "acc_princess.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      112
+    ],
+    "anchor_pixels": [
+      64,
+      112
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "type": "공주병"
+  },
+  "acc_showoff.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      8
+    ],
+    "anchor_pixels": [
+      64,
+      8
+    ],
+    "slot": "neck",
+    "paint": "original",
+    "type": "잘난이"
+  },
+  "acc_shy.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      64
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "type": "소심이"
+  },
+  "acc_sleepy.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      100
+    ],
+    "anchor_pixels": [
+      64,
+      100
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "type": "잠꾸러기"
+  },
+  "acc_tsundere.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      42,
+      84
+    ],
+    "anchor_pixels": [
+      42,
+      84
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "type": "츤데레"
+  },
+  "bandana.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      38
+    ],
+    "anchor_pixels": [
+      64,
+      38
+    ],
+    "slot": "neck",
+    "paint": "white"
+  },
+  "beanie.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      72,
+      96
+    ],
+    "anchor_pixels": [
+      72,
+      96
+    ],
+    "slot": "head_top",
+    "paint": "original"
+  },
+  "bell.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      40
+    ],
+    "anchor_pixels": [
+      64,
+      40
+    ],
+    "slot": "neck",
+    "paint": "white"
+  },
+  "bow.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      40
+    ],
+    "anchor_pixels": [
+      64,
+      40
+    ],
+    "slot": "neck",
+    "paint": "white"
+  },
+  "ear_tag.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      72,
+      50
+    ],
+    "anchor_pixels": [
+      72,
+      50
+    ],
+    "slot": "head_top",
+    "paint": "original"
+  },
+  "flower_crown.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      72,
+      86
+    ],
+    "anchor_pixels": [
+      72,
+      86
+    ],
+    "slot": "head_top",
+    "paint": "original"
+  },
+  "halo.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      72,
+      90
+    ],
+    "anchor_pixels": [
+      72,
+      90
+    ],
+    "slot": "head_top",
+    "paint": "original"
+  },
+  "horns_curl.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      72,
+      96
+    ],
+    "anchor_pixels": [
+      72,
+      96
+    ],
+    "slot": "head_top",
+    "paint": "original"
+  },
+  "horns_small.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      72,
+      96
+    ],
+    "anchor_pixels": [
+      72,
+      96
+    ],
+    "slot": "head_top",
+    "paint": "original"
+  },
+  "leaf.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      72,
+      96
+    ],
+    "anchor_pixels": [
+      72,
+      96
+    ],
+    "slot": "head_top",
+    "paint": "original"
+  },
+  "party_hat.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      72,
+      96
+    ],
+    "anchor_pixels": [
+      72,
+      96
+    ],
+    "slot": "head_top",
+    "paint": "original"
+  },
+  "scarf.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "pivot": [
+      64,
+      46
+    ],
+    "anchor_pixels": [
+      64,
+      46
+    ],
+    "slot": "neck",
+    "paint": "white"
+  }
+}

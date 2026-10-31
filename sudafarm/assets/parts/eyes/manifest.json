@@ -1,0 +1,386 @@
+{
+  "round_open.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "round_closed.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "sparkle_open.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "sparkle_closed.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "sleepy_open.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "sleepy_closed.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "teary_open.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "teary_closed.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "smug_open.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "smug_closed.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "sharp_open.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "sharp_closed.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "dot_open.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "dot_closed.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "swirl_open.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "swirl_closed.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "monocle_open.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "monocle_closed.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "heart_open.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "heart_closed.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "alien_open.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "alien_closed.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "fire_open.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  },
+  "fire_closed.png": {
+    "pixels": [
+      64,
+      40
+    ],
+    "pivot": [
+      32,
+      20
+    ],
+    "anchor_pixels": [
+      32,
+      20
+    ],
+    "slot": "eyes",
+    "paint": "original"
+  }
+}

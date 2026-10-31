@@ -1,0 +1,182 @@
+{
+  "wool_full.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "body_idle.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "wool_blink.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "body_blink.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "wool_eat.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "body_eat.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "wool_sleep.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "body_sleep.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "wool_sheared.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "body_sheared.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "wool_half.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "body_half.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "baby_wool.png": {
+    "pixels": [
+      192,
+      240
+    ],
+    "anchor_pixels": [
+      96,
+      234
+    ]
+  },
+  "baby_body.png": {
+    "pixels": [
+      192,
+      240
+    ],
+    "anchor_pixels": [
+      96,
+      234
+    ]
+  },
+  "suri_wool_full.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "body_suri.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "body_walk_a.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "body_walk_b.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  }
+}
