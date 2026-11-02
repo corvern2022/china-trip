@@ -1,0 +1,169 @@
+{
+  "method": "built-in image_gen; sips only for required final pixel dimensions",
+  "items": [
+    {
+      "id": "dock_storage",
+      "prompt": "One production game sprite, no text, no labels, no surrounding button tile or scene. Transparent background with genuine alpha. Match the provided existing 10/22 수다목장 art: warm hand-painted casual sprite, firm dark chocolate-brown contour, simple gently shaded colors, rounded readable forms, matte rather than glossy 3D. Do not invent a new art style. Center subject with a little transparent padding, silhouette clear at 48px. Create a 256x256 lower navigation icon: one low open wooden produce crate filled with recognizable carrots, green leaves and a little grain. Strong rectangular crate silhouette, NO roof, NO house, NO barn, NO wheels. Reference1 sheep is style anchor only, reference2 existing stall is contour/shading reference. One coherent icon, not a pile of unrelated tiny details.",
+      "refs": [
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/sheep/_reference_idle.png",
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/icon/tool_shop.png"
+      ],
+      "source": "/Users/dolphin/.codex/generated_images/01a17025-82cc-7a41-adfe-9a69c54624a2/exec-73724ebc-3b8b-4525-a259-f93389243c9c.png",
+      "destination": "icon/dock_storage.png",
+      "size": 256
+    },
+    {
+      "id": "dock_shop",
+      "prompt": "One production game sprite, no text, no labels, no surrounding button tile or scene. Transparent background with genuine alpha. Match the provided existing 10/22 수다목장 art: warm hand-painted casual sprite, firm dark chocolate-brown contour, simple gently shaded colors, rounded readable forms, matte rather than glossy 3D. Do not invent a new art style. Center subject with a little transparent padding, silhouette clear at 48px. Edit the existing reference stall into a 256x256 larger, clearer shop navigation icon. Preserve its red-and-cream striped awning, wooden front counter, carrots and greens. Three broad awning stripes, simple large shapes, no extra roof/buildings, no redesign. Occupy 86% canvas width and 86% height, fully visible and balanced.",
+      "refs": [
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/icon/tool_shop.png",
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/sheep/_reference_idle.png"
+      ],
+      "source": "/Users/dolphin/.codex/generated_images/01a17025-82cc-7a41-adfe-9a69c54624a2/exec-0eafbc13-9d2f-46a0-be3d-3335ee4abe68.png",
+      "destination": "icon/dock_shop.png",
+      "size": 256
+    },
+    {
+      "id": "dock_sheep",
+      "prompt": "One production game sprite, no text, no labels, no surrounding button tile or scene. Transparent background with genuine alpha. Match the provided existing 10/22 수다목장 art: warm hand-painted casual sprite, firm dark chocolate-brown contour, simple gently shaded colors, rounded readable forms, matte rather than glossy 3D. Do not invent a new art style. Center subject with a little transparent padding, silhouette clear at 48px. Create a 256x256 navigation icon showing THREE of OUR sheep faces gathered together, larger face in front and two smaller partly behind. Preserve exactly reference1 half-lidded sly eyes, chocolate-brown face, pink inner ears and distinct curly white forelock with brown contour. No new facial design, no wide sparkling eyes. Heads only, not full bodies. Clearly reads as sheep herd. Do not change the reference sheep character identity.",
+      "refs": [
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/sheep/_reference_idle.png"
+      ],
+      "source": "/Users/dolphin/.codex/generated_images/01a17025-82cc-7a41-adfe-9a69c54624a2/exec-4828161e-eb36-4fc2-9678-15fd891e83e1.png",
+      "destination": "icon/dock_sheep.png",
+      "size": 256
+    },
+    {
+      "id": "dock_letter",
+      "prompt": "One production game sprite, no text, no labels, no surrounding button tile or scene. Transparent background with genuine alpha. Match the provided existing 10/22 수다목장 art: warm hand-painted casual sprite, firm dark chocolate-brown contour, simple gently shaded colors, rounded readable forms, matte rather than glossy 3D. Do not invent a new art style. Center subject with a little transparent padding, silhouette clear at 48px. Edit existing envelope into a 256x256 mail navigation icon. Preserve cream envelope folded structure and red wax seal, add two short rounded white feather wings, one on each side. Clear envelope as main shape, 3 broad feathers per wing. Wings must not look like extra ears or hands. Dark warm-brown outlines like reference, not black. No extra objects, no gift box.",
+      "refs": [
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/icon/tool_letter.png",
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/sheep/_reference_idle.png"
+      ],
+      "source": "/Users/dolphin/.codex/generated_images/01a17025-82cc-7a41-adfe-9a69c54624a2/exec-06d5adbb-060b-4ca0-8dbd-5a8a72dedfbf.png",
+      "destination": "icon/dock_letter.png",
+      "size": 256
+    },
+    {
+      "id": "tool_sickle",
+      "prompt": "Create ONE isolated 128x128 harvesting sickle icon on a genuinely transparent background. Match existing 10/22 수다목장 source sheep reference warm hand-painted cartoon contour, matte gentle shading, thick chocolate-brown contour. A simple recognizable curved gray metal blade attached to short honey-brown wood handle, sickle held diagonally upward. Clear crescent curved blade silhouette with empty transparent inner space. Not a scythe, no long pole, no sword. No hands, no crop, no lettering, no button tile, no sparkle. Center 86% canvas, fully inside with alpha margins. Readable at32px.",
+      "refs": [
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/sheep/_reference_idle.png",
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/icon/tool_shop.png"
+      ],
+      "source": "/Users/dolphin/.codex/generated_images/01a17025-82cc-7a41-adfe-9a69c54624a2/exec-b05e57dd-6ccb-4cd7-8c0b-6a52b47693d9.png",
+      "destination": "icon/tool_sickle.png",
+      "size": 128
+    },
+    {
+      "id": "sick_bubble",
+      "prompt": "Create ONE 128x128 game status bubble with genuine transparent background outside it, matching the warm hand-painted thick chocolate-brown outline of our sheep reference. Small cream rounded speech bubble with a short bottom tail. Inside show ONLY the recognizable chocolate face of OUR existing sheep, same droopy half-lidded eyes, pink inner ears, small curly pale forelock; mildly tired/unwell eyes, one pale blue sweat drop at temple, a slightly pale desaturated chocolate face, small downward mouth. Gentle and cute, no injury, no hospital accessories, NO syringe, NO pill, NO cross, NO text, no full body. The bubble is the icon; do not redesign game sheep assets. Bold readable silhouette at32px, center with 8% alpha margins, no backdrop, no outer glow.",
+      "refs": [
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/sheep/_reference_idle.png"
+      ],
+      "source": "/Users/dolphin/.codex/generated_images/01a17025-82cc-7a41-adfe-9a69c54624a2/exec-79a439b1-201d-4b26-94eb-18f68bf43871.png",
+      "destination": "fx/sick_bubble.png",
+      "size": 128
+    },
+    {
+      "id": "carrot_4wilt",
+      "prompt": "Use case: precise-object-edit. Edit the attached original carrot mature crop sprite to its WILTED stage for our existing game. Keep the SAME SPECIES, same camera, same illustration style, broad composition and scale; preserve the source's firm dark brown contour and simple warm painted shading. Keep the one short orange carrot crown and its leafy shape identity, but the leaf stems arch downward and limp yellow-ochre leaves hang to the sides. This is visibly a plant drooping from lack of care, NOT merely recolored healthy plant, but still cute and safe for a cozy farm. No new objects, no pot, no soil mound, no tile, no ground shadow, no text, no background. Genuinely transparent alpha. Output a single 256x256 sprite occupying similar area to source. Keep root attachment horizontally centered at (128,250) in the final256canvas, near97.7% height. Preserve 6px transparent padding below roots and a little clearance on all sides. No external glow, no glossy plastic rendering.",
+      "refs": [
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/crops/carrot_3ripe.png"
+      ],
+      "source": "/Users/dolphin/.codex/generated_images/01a17025-82cc-7a41-adfe-9a69c54624a2/exec-8e6b6406-07c3-493b-837b-0dd10058b83f.png",
+      "destination": "crops/carrot_4wilt.png",
+      "size": 256
+    },
+    {
+      "id": "grass_4wilt",
+      "prompt": "Use case: precise-object-edit. Edit the attached original grass mature crop sprite to its WILTED stage for our existing game. Keep the SAME SPECIES, same camera, same illustration style, broad composition and scale; preserve the source's firm dark brown contour and simple warm painted shading. Same rooted tuft of broad grass blades; blades bend over and droop, muted straw yellow and olive-brown tips, not a healthy green lawn. This is visibly a plant drooping from lack of care, NOT merely recolored healthy plant, but still cute and safe for a cozy farm. No new objects, no pot, no soil mound, no tile, no ground shadow, no text, no background. Genuinely transparent alpha. Output a single 256x256 sprite occupying similar area to source. Keep root attachment horizontally centered at (128,250) in the final256canvas, near97.7% height. Preserve 6px transparent padding below roots and a little clearance on all sides. No external glow, no glossy plastic rendering.",
+      "refs": [
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/crops/grass_3ripe.png"
+      ],
+      "source": "/Users/dolphin/.codex/generated_images/01a17025-82cc-7a41-adfe-9a69c54624a2/exec-ae13ef88-a8de-4906-a3e7-85c17e840cfd.png",
+      "destination": "crops/grass_4wilt.png",
+      "size": 256
+    },
+    {
+      "id": "strawberry_4wilt",
+      "prompt": "Use case: precise-object-edit. Edit the attached original strawberry mature crop sprite to its WILTED stage for our existing game. Keep the SAME SPECIES, same camera, same illustration style, broad composition and scale; preserve the source's firm dark brown contour and simple warm painted shading. Keep the same cluster of three strawberries and lobed leaves. Wilt the leaves and bend stalks downward; fruits remain identifiable, slightly dull red, no mold or rot. This is visibly a plant drooping from lack of care, NOT merely recolored healthy plant, but still cute and safe for a cozy farm. No new objects, no pot, no soil mound, no tile, no ground shadow, no text, no background. Genuinely transparent alpha. Output a single 256x256 sprite occupying similar area to source. Keep root attachment horizontally centered at (128,250) in the final256canvas, near97.7% height. Preserve 6px transparent padding below roots and a little clearance on all sides. No external glow, no glossy plastic rendering.",
+      "refs": [
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/crops/strawberry_3ripe.png"
+      ],
+      "source": "/Users/dolphin/.codex/generated_images/01a17025-82cc-7a41-adfe-9a69c54624a2/exec-109389ea-0bc1-4c4f-8d6c-4da1dbde9ac9.png",
+      "destination": "crops/strawberry_4wilt.png",
+      "size": 256
+    },
+    {
+      "id": "cotton_4wilt",
+      "prompt": "Use case: precise-object-edit. Edit the attached original cotton mature crop sprite to its WILTED stage for our existing game. Keep the SAME SPECIES, same camera, same illustration style, broad composition and scale; preserve the source's firm dark brown contour and simple warm painted shading. Keep exactly the source cotton plant with three fluffy white cotton bolls and brown branches. Leaves become muted yellow-brown and hang limply; cotton stays cream-white, not gray dirt. This is visibly a plant drooping from lack of care, NOT merely recolored healthy plant, but still cute and safe for a cozy farm. No new objects, no pot, no soil mound, no tile, no ground shadow, no text, no background. Genuinely transparent alpha. Output a single 256x256 sprite occupying similar area to source. Keep root attachment horizontally centered at (128,250) in the final256canvas, near97.7% height. Preserve 6px transparent padding below roots and a little clearance on all sides. No external glow, no glossy plastic rendering.",
+      "refs": [
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/crops/cotton_3ripe.png"
+      ],
+      "source": "/Users/dolphin/.codex/generated_images/01a17025-82cc-7a41-adfe-9a69c54624a2/exec-abd339a8-da42-4580-b7db-72b2d67a5c07.png",
+      "destination": "crops/cotton_4wilt.png",
+      "size": 256
+    },
+    {
+      "id": "corn_4wilt",
+      "prompt": "Use case: precise-object-edit. Edit the attached original corn mature crop sprite to its WILTED stage for our existing game. Keep the SAME SPECIES, same camera, same illustration style, broad composition and scale; preserve the source's firm dark brown contour and simple warm painted shading. Keep a single stalk with its recognizable two corn ears, roots at same position. Bow stalk slightly and let long ochre leaves fold down, muted yellow kernels, no healthy green fan. This is visibly a plant drooping from lack of care, NOT merely recolored healthy plant, but still cute and safe for a cozy farm. No new objects, no pot, no soil mound, no tile, no ground shadow, no text, no background. Genuinely transparent alpha. Output a single 256x256 sprite occupying similar area to source. Keep root attachment horizontally centered at (128,250) in the final256canvas, near97.7% height. Preserve 6px transparent padding below roots and a little clearance on all sides. No external glow, no glossy plastic rendering.",
+      "refs": [
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/crops/corn_3ripe.png"
+      ],
+      "source": "/Users/dolphin/.codex/generated_images/01a17025-82cc-7a41-adfe-9a69c54624a2/exec-6c588e46-bca2-4175-b6ab-f2db40c9d670.png",
+      "destination": "crops/corn_4wilt.png",
+      "size": 256
+    },
+    {
+      "id": "potato_4wilt",
+      "prompt": "Use case: precise-object-edit. Edit the attached original potato mature crop sprite to its WILTED stage for our existing game. Keep the SAME SPECIES, same camera, same illustration style, broad composition and scale; preserve the source's firm dark brown contour and simple warm painted shading. Keep the same three golden potatoes at the foot of the plant, same broad leaf identity. Make above-ground stems bow and broad leaves curl down, muted straw-yellow and olive-brown. This is visibly a plant drooping from lack of care, NOT merely recolored healthy plant, but still cute and safe for a cozy farm. No new objects, no pot, no soil mound, no tile, no ground shadow, no text, no background. Genuinely transparent alpha. Output a single 256x256 sprite occupying similar area to source. Keep root attachment horizontally centered at (128,250) in the final256canvas, near97.7% height. Preserve 6px transparent padding below roots and a little clearance on all sides. No external glow, no glossy plastic rendering.",
+      "refs": [
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/crops/potato_3ripe.png"
+      ],
+      "source": "/Users/dolphin/.codex/generated_images/01a17025-82cc-7a41-adfe-9a69c54624a2/exec-d99bdcfd-dd20-4a04-8ec9-4a05dff3c995.png",
+      "destination": "crops/potato_4wilt.png",
+      "size": 256
+    },
+    {
+      "id": "sunflower_4wilt",
+      "prompt": "Use case: precise-object-edit. Edit the attached original sunflower mature crop sprite to its WILTED stage for our existing game. Keep the SAME SPECIES, same camera, same illustration style, broad composition and scale; preserve the source's firm dark brown contour and simple warm painted shading. The same large sunflower and two broad leaves. Bend its stem so the large recognizable yellow sunflower head droops downward to the side; the yellow petals hang tiredly and the leaves are muted yellow-brown. No detached flower or extra blossoms. This is visibly a plant drooping from lack of care, NOT merely recolored healthy plant, but still cute and safe for a cozy farm. No new objects, no pot, no soil mound, no tile, no ground shadow, no text, no background. Genuinely transparent alpha. Output a single 256x256 sprite occupying similar area to source. Keep root attachment horizontally centered at (128,250) in the final256canvas, near97.7% height. Preserve 6px transparent padding below roots and a little clearance on all sides. No external glow, no glossy plastic rendering.",
+      "refs": [
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/crops/sunflower_3ripe.png"
+      ],
+      "source": "/Users/dolphin/.codex/generated_images/01a17025-82cc-7a41-adfe-9a69c54624a2/exec-5cb43daa-6d40-4839-ba7e-d2e7166b6649.png",
+      "destination": "crops/sunflower_4wilt.png",
+      "size": 256
+    },
+    {
+      "id": "lavender_4wilt",
+      "prompt": "Use case: precise-object-edit. Edit the attached original lavender mature crop sprite to its WILTED stage for our existing game. Keep the SAME SPECIES, same camera, same illustration style, broad composition and scale; preserve the source's firm dark brown contour and simple warm painted shading. The same rooted lavender clump and multiple narrow flower spikes. Bow the purple spikes outward and downward, faded muted mauve flowers and straw-olive limp narrow leaves. No upright healthy purple bouquet. This is visibly a plant drooping from lack of care, NOT merely recolored healthy plant, but still cute and safe for a cozy farm. No new objects, no pot, no soil mound, no tile, no ground shadow, no text, no background. Genuinely transparent alpha. Output a single 256x256 sprite occupying similar area to source. Keep root attachment horizontally centered at (128,250) in the final256canvas, near97.7% height. Preserve 6px transparent padding below roots and a little clearance on all sides. No external glow, no glossy plastic rendering.",
+      "refs": [
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/crops/lavender_3ripe.png"
+      ],
+      "source": "/Users/dolphin/.codex/generated_images/01a17025-82cc-7a41-adfe-9a69c54624a2/exec-ad61a25b-6ce5-4623-b0a9-59ee4c3ac9a4.png",
+      "destination": "crops/lavender_4wilt.png",
+      "size": 256
+    },
+    {
+      "id": "watermelon_4wilt",
+      "prompt": "Use case: precise-object-edit. Edit the attached original watermelon mature crop sprite to its WILTED stage for our existing game. Keep the SAME SPECIES, same camera, same illustration style, broad composition and scale; preserve the source's firm dark brown contour and simple warm painted shading. Keep the same one round green striped watermelon at ground level. Preserve recognizable stripes but dull them gently. The lobed vine leaves sag and curl downward yellow-ochre, tired tendrils. The fruit remains intact, no rotten or cut melon. This is visibly a plant drooping from lack of care, NOT merely recolored healthy plant, but still cute and safe for a cozy farm. No new objects, no pot, no soil mound, no tile, no ground shadow, no text, no background. Genuinely transparent alpha. Output a single 256x256 sprite occupying similar area to source. Keep root attachment horizontally centered at (128,250) in the final256canvas, near97.7% height. Preserve 6px transparent padding below roots and a little clearance on all sides. No external glow, no glossy plastic rendering.",
+      "refs": [
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/crops/watermelon_3ripe.png"
+      ],
+      "source": "/Users/dolphin/.codex/generated_images/01a17025-82cc-7a41-adfe-9a69c54624a2/exec-495daf7b-cefe-442e-aeaa-fa6d23e0557a.png",
+      "destination": "crops/watermelon_4wilt.png",
+      "size": 256
+    },
+    {
+      "id": "rainbow_berry_4wilt",
+      "prompt": "Use case: precise-object-edit. Edit the attached original rainbow_berry mature crop sprite to its WILTED stage for our existing game. Keep the SAME SPECIES, same camera, same illustration style, broad composition and scale; preserve the source's firm dark brown contour and simple warm painted shading. Preserve source fantasy berry plant identity: cluster of colorful little bumpy raspberry-like berries, including red, orange, yellow, green, blue, purple and pink fruits. Mute the fruits slightly but keep colors distinguishable. Bend the stems down and curl the yellow-ochre leaves limply. No new berry design, no grapes. This is visibly a plant drooping from lack of care, NOT merely recolored healthy plant, but still cute and safe for a cozy farm. No new objects, no pot, no soil mound, no tile, no ground shadow, no text, no background. Genuinely transparent alpha. Output a single 256x256 sprite occupying similar area to source. Keep root attachment horizontally centered at (128,250) in the final256canvas, near97.7% height. Preserve 6px transparent padding below roots and a little clearance on all sides. No external glow, no glossy plastic rendering.",
+      "refs": [
+        "/Users/dolphin/Documents/ChatGPT/수다목장/sudafarm-order9/public/assets/crops/rainbow_berry_3ripe.png"
+      ],
+      "source": "/Users/dolphin/.codex/generated_images/01a17025-82cc-7a41-adfe-9a69c54624a2/exec-db732bc7-d97f-4c9d-8ac9-c26c4bbdd986.png",
+      "destination": "crops/rainbow_berry_4wilt.png",
+      "size": 256
+    }
+  ]
+}

@@ -1131,5 +1131,60 @@
       64
     ],
     "tintable": true
+  },
+  "dock_storage.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      128
+    ],
+    "usage": "centered UI icon"
+  },
+  "dock_shop.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      128
+    ],
+    "usage": "centered UI icon"
+  },
+  "dock_sheep.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      128
+    ],
+    "usage": "centered UI icon"
+  },
+  "dock_letter.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      128
+    ],
+    "usage": "centered UI icon"
+  },
+  "tool_sickle.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
   }
 }

@@ -582,5 +582,115 @@
       128,
       250
     ]
+  },
+  "carrot_4wilt.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "usage": "wilted crop, same canvas as _3ripe; root anchor"
+  },
+  "grass_4wilt.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "usage": "wilted crop, same canvas as _3ripe; root anchor"
+  },
+  "strawberry_4wilt.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "usage": "wilted crop, same canvas as _3ripe; root anchor"
+  },
+  "cotton_4wilt.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "usage": "wilted crop, same canvas as _3ripe; root anchor"
+  },
+  "corn_4wilt.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "usage": "wilted crop, same canvas as _3ripe; root anchor"
+  },
+  "potato_4wilt.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "usage": "wilted crop, same canvas as _3ripe; root anchor"
+  },
+  "sunflower_4wilt.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "usage": "wilted crop, same canvas as _3ripe; root anchor"
+  },
+  "lavender_4wilt.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "usage": "wilted crop, same canvas as _3ripe; root anchor"
+  },
+  "watermelon_4wilt.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "usage": "wilted crop, same canvas as _3ripe; root anchor"
+  },
+  "rainbow_berry_4wilt.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "usage": "wilted crop, same canvas as _3ripe; root anchor"
   }
 }

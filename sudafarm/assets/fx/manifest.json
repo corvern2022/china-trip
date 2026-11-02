@@ -825,5 +825,17 @@
       32,
       32
     ]
+  },
+  "sick_bubble": {
+    "file": "sick_bubble.png",
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      116
+    ],
+    "usage": "non-animated illness status bubble; bottom tail above sheep"
   }
 }

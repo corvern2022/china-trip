@@ -1,0 +1,297 @@
+{
+  "order": "order-9-v1022",
+  "date": "2026-11-02",
+  "assets": 16,
+  "method": "built-in image_gen; referenced source PNGs, separate calls; sips sizing export only",
+  "checks": [
+    {
+      "file": "icon/dock_storage.png",
+      "pixels": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corners": true,
+      "border_alpha_max": 1,
+      "opaque_bbox": [
+        21,
+        44,
+        236,
+        216
+      ],
+      "sha256": "94146bff7c5bbdd49b095a74ccce2f1eef551d84a4e8fa9e51db95976d92bf4b"
+    },
+    {
+      "file": "icon/dock_shop.png",
+      "pixels": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corners": true,
+      "border_alpha_max": 1,
+      "opaque_bbox": [
+        14,
+        27,
+        241,
+        228
+      ],
+      "sha256": "7119c0fda631b03049691df2e96bac65fa9b09c88b755abd79da5470d2c1e404"
+    },
+    {
+      "file": "icon/dock_sheep.png",
+      "pixels": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corners": true,
+      "border_alpha_max": 1,
+      "opaque_bbox": [
+        5,
+        28,
+        255,
+        231
+      ],
+      "sha256": "c496f227f6e5a25104ca7651166c972e2356fee9be07f0bd54200db72030aa51"
+    },
+    {
+      "file": "icon/dock_letter.png",
+      "pixels": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corners": true,
+      "border_alpha_max": 0,
+      "opaque_bbox": [
+        7,
+        60,
+        250,
+        192
+      ],
+      "sha256": "eeccd53f5aa6c1fb714bb7597e1ee0f58a9f518226eb36defcbd33b4ba701570"
+    },
+    {
+      "file": "icon/tool_sickle.png",
+      "pixels": [
+        128,
+        128
+      ],
+      "rgba": true,
+      "transparent_corners": true,
+      "border_alpha_max": 0,
+      "opaque_bbox": [
+        12,
+        15,
+        118,
+        115
+      ],
+      "sha256": "28664045fe33fec0e04d732b2bbb21c3c7002fe7f847e77516455ac01d00afc7"
+    },
+    {
+      "file": "fx/sick_bubble.png",
+      "pixels": [
+        128,
+        128
+      ],
+      "rgba": true,
+      "transparent_corners": true,
+      "border_alpha_max": 0,
+      "opaque_bbox": [
+        12,
+        15,
+        116,
+        113
+      ],
+      "sha256": "8e9349e61ac9bc49c1dda3de71ab2c7119fb1c7f38025c2455ebfb2d04f913bc"
+    },
+    {
+      "file": "crops/carrot_4wilt.png",
+      "pixels": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corners": true,
+      "border_alpha_max": 0,
+      "opaque_bbox": [
+        12,
+        107,
+        246,
+        242
+      ],
+      "sha256": "83b28ce53f25fba175f0aad0054ad170926ff22b4b92205cb297e62ee8e83474"
+    },
+    {
+      "file": "crops/grass_4wilt.png",
+      "pixels": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corners": true,
+      "border_alpha_max": 0,
+      "opaque_bbox": [
+        24,
+        82,
+        233,
+        238
+      ],
+      "sha256": "4cd47b5cb8bb4dd4d7436fbb04100a7aae4a0aa67ff1088e770618a3f829a2e2"
+    },
+    {
+      "file": "crops/strawberry_4wilt.png",
+      "pixels": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corners": true,
+      "border_alpha_max": 1,
+      "opaque_bbox": [
+        9,
+        100,
+        247,
+        243
+      ],
+      "sha256": "884daeb48d4810de64accd333169687560aef33480d4fcce31fc83b6b9e0a2f8"
+    },
+    {
+      "file": "crops/cotton_4wilt.png",
+      "pixels": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corners": true,
+      "border_alpha_max": 1,
+      "opaque_bbox": [
+        15,
+        55,
+        242,
+        246
+      ],
+      "sha256": "3571daba67f5b13f41ed19d0fbacf225bf679b0b47c644c7539cb457075ef76e"
+    },
+    {
+      "file": "crops/corn_4wilt.png",
+      "pixels": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corners": true,
+      "border_alpha_max": 0,
+      "opaque_bbox": [
+        60,
+        17,
+        204,
+        243
+      ],
+      "sha256": "c02b17f7f9ed4fb46881962a4a1dbd3a4b92eed2c01400b67dc14f7b0355b277"
+    },
+    {
+      "file": "crops/potato_4wilt.png",
+      "pixels": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corners": true,
+      "border_alpha_max": 0,
+      "opaque_bbox": [
+        30,
+        74,
+        233,
+        239
+      ],
+      "sha256": "218ae74738230100b8ed67a5f551c4c37c1f5e28ee395cfcb38fc5e1524fc4e7"
+    },
+    {
+      "file": "crops/sunflower_4wilt.png",
+      "pixels": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corners": true,
+      "border_alpha_max": 1,
+      "opaque_bbox": [
+        24,
+        41,
+        241,
+        244
+      ],
+      "sha256": "bce78c31782df31441b6f154aafab61e45516c34fd652bfa8259f4ab06cd034e"
+    },
+    {
+      "file": "crops/lavender_4wilt.png",
+      "pixels": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corners": true,
+      "border_alpha_max": 0,
+      "opaque_bbox": [
+        24,
+        66,
+        241,
+        233
+      ],
+      "sha256": "5614ad67205d801bd346bb80fd4791669438d1dc21a6729fdbee6d8c5b4b40b6"
+    },
+    {
+      "file": "crops/watermelon_4wilt.png",
+      "pixels": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corners": true,
+      "border_alpha_max": 1,
+      "opaque_bbox": [
+        13,
+        74,
+        244,
+        244
+      ],
+      "sha256": "a3f657e2905e9c858f50bd145e0e30d21d329ecd91edc1840c4ef528d53ca7be"
+    },
+    {
+      "file": "crops/rainbow_berry_4wilt.png",
+      "pixels": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corners": true,
+      "border_alpha_max": 0,
+      "opaque_bbox": [
+        38,
+        55,
+        228,
+        244
+      ],
+      "sha256": "fc3919a750d3ee5005c3461f962354415a9c6bf16d088d1c2021de9525d518ec"
+    }
+  ],
+  "visual_review": {
+    "species_match_and_drooping": true,
+    "dock_storage_is_not_house": true,
+    "small_icons_32_48_64": true,
+    "existing_sheep_art_unchanged": true
+  },
+  "code_checks": {
+    "tests": 185,
+    "typescript": "passed",
+    "vite": "passed"
+  },
+  "integration": "not connected; Claude owns src/",
+  "reviews": [
+    "icon/_order9_dock_review.png",
+    "crops/_order9_wilt_review.png",
+    "_order9_map_review.png"
+  ]
+}
