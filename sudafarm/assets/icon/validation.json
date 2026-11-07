@@ -1,0 +1,13 @@
+{
+  "icons": 42,
+  "pixels": [
+    128,
+    128
+  ],
+  "centered": true,
+  "transparent_margin": true,
+  "small_preview_sizes": [
+    24,
+    32
+  ]
+}

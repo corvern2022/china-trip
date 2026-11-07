@@ -1,0 +1,87 @@
+{
+  "up.png": {
+    "pixels": [
+      64,
+      20
+    ],
+    "pivot": [
+      32,
+      10
+    ],
+    "anchor_pixels": [
+      32,
+      10
+    ],
+    "slot": "brow",
+    "paint": "original"
+  },
+  "down.png": {
+    "pixels": [
+      64,
+      20
+    ],
+    "pivot": [
+      32,
+      10
+    ],
+    "anchor_pixels": [
+      32,
+      10
+    ],
+    "slot": "brow",
+    "paint": "original"
+  },
+  "worried.png": {
+    "pixels": [
+      64,
+      20
+    ],
+    "pivot": [
+      32,
+      10
+    ],
+    "anchor_pixels": [
+      32,
+      10
+    ],
+    "slot": "brow",
+    "paint": "original"
+  },
+  "thick.png": {
+    "pixels": [
+      64,
+      20
+    ],
+    "pivot": [
+      32,
+      10
+    ],
+    "anchor_pixels": [
+      32,
+      10
+    ],
+    "slot": "brow",
+    "paint": "original"
+  },
+  "fancy.png": {
+    "pixels": [
+      64,
+      20
+    ],
+    "pivot": [
+      32,
+      10
+    ],
+    "anchor_pixels": [
+      32,
+      10
+    ],
+    "slot": "brow",
+    "paint": "original"
+  },
+  "none": {
+    "render": false,
+    "slot": "brow",
+    "note": "draw nothing; no PNG"
+  }
+}

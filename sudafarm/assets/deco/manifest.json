@@ -1,0 +1,476 @@
+{
+  "clover_1.png": {
+    "pixels": [
+      128,
+      96
+    ],
+    "anchor_pixels": [
+      64,
+      93
+    ]
+  },
+  "clover_2.png": {
+    "pixels": [
+      128,
+      96
+    ],
+    "anchor_pixels": [
+      64,
+      93
+    ]
+  },
+  "clover_3.png": {
+    "pixels": [
+      128,
+      96
+    ],
+    "anchor_pixels": [
+      64,
+      93
+    ]
+  },
+  "grass_tuft_1.png": {
+    "pixels": [
+      128,
+      96
+    ],
+    "anchor_pixels": [
+      64,
+      93
+    ]
+  },
+  "grass_tuft_2.png": {
+    "pixels": [
+      128,
+      96
+    ],
+    "anchor_pixels": [
+      64,
+      93
+    ]
+  },
+  "grass_tuft_3.png": {
+    "pixels": [
+      128,
+      96
+    ],
+    "anchor_pixels": [
+      64,
+      93
+    ]
+  },
+  "grass_tuft_4.png": {
+    "pixels": [
+      128,
+      96
+    ],
+    "anchor_pixels": [
+      64,
+      93
+    ]
+  },
+  "rock_big.png": {
+    "pixels": [
+      192,
+      160
+    ],
+    "anchor_pixels": [
+      96,
+      154
+    ]
+  },
+  "rock_small.png": {
+    "pixels": [
+      192,
+      160
+    ],
+    "anchor_pixels": [
+      96,
+      154
+    ]
+  },
+  "tree_pine.png": {
+    "pixels": [
+      256,
+      448
+    ],
+    "anchor_pixels": [
+      128,
+      442
+    ]
+  },
+  "tree_round.png": {
+    "pixels": [
+      256,
+      384
+    ],
+    "anchor_pixels": [
+      128,
+      378
+    ]
+  },
+  "deco_bench.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco_lamp.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco_windmill.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco_haystack.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco_flowerpot.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco_mailbox.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco_swing.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco_well.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco_scarecrow.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco_picnic.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco_lantern_string.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco_signpost.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "bush.png": {
+    "pixels": [
+      192,
+      160
+    ],
+    "pivot": [
+      96,
+      154
+    ],
+    "anchor_pixels": [
+      96,
+      154
+    ]
+  },
+  "flower_patch_pink.png": {
+    "pixels": [
+      128,
+      96
+    ],
+    "pivot": [
+      64,
+      90
+    ],
+    "anchor_pixels": [
+      64,
+      90
+    ]
+  },
+  "flower_patch_yellow.png": {
+    "pixels": [
+      128,
+      96
+    ],
+    "pivot": [
+      64,
+      90
+    ],
+    "anchor_pixels": [
+      64,
+      90
+    ]
+  },
+  "flower_patch_blue.png": {
+    "pixels": [
+      128,
+      96
+    ],
+    "pivot": [
+      64,
+      90
+    ],
+    "anchor_pixels": [
+      64,
+      90
+    ]
+  },
+  "mushroom.png": {
+    "pixels": [
+      96,
+      96
+    ],
+    "pivot": [
+      48,
+      90
+    ],
+    "anchor_pixels": [
+      48,
+      90
+    ]
+  },
+  "stump.png": {
+    "pixels": [
+      160,
+      128
+    ],
+    "pivot": [
+      80,
+      122
+    ],
+    "anchor_pixels": [
+      80,
+      122
+    ]
+  },
+  "pond.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "pivot": [
+      256,
+      250
+    ],
+    "anchor_pixels": [
+      256,
+      250
+    ]
+  },
+  "sign.png": {
+    "pixels": [
+      160,
+      192
+    ],
+    "pivot": [
+      80,
+      186
+    ],
+    "anchor_pixels": [
+      80,
+      186
+    ]
+  },
+  "neighbor_gate.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "pivot": [
+      128,
+      314
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ]
+  },
+  "visit_mailbox.png": {
+    "pixels": [
+      160,
+      192
+    ],
+    "pivot": [
+      80,
+      186
+    ],
+    "anchor_pixels": [
+      80,
+      186
+    ]
+  },
+  "tree_round_spring.png": {
+    "pixels": [
+      256,
+      384
+    ],
+    "pivot": [
+      128,
+      378
+    ],
+    "anchor_pixels": [
+      128,
+      378
+    ]
+  },
+  "tree_round_autumn.png": {
+    "pixels": [
+      256,
+      384
+    ],
+    "pivot": [
+      128,
+      378
+    ],
+    "anchor_pixels": [
+      128,
+      378
+    ]
+  },
+  "tree_round_winter.png": {
+    "pixels": [
+      256,
+      384
+    ],
+    "pivot": [
+      128,
+      378
+    ],
+    "anchor_pixels": [
+      128,
+      378
+    ]
+  },
+  "tree_pine_winter.png": {
+    "pixels": [
+      256,
+      448
+    ],
+    "pivot": [
+      128,
+      442
+    ],
+    "anchor_pixels": [
+      128,
+      442
+    ]
+  }
+}

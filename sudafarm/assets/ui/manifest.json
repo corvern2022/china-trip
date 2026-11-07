@@ -1,0 +1,1309 @@
+{
+  "panel_wood.png": {
+    "pixels": [
+      512,
+      512
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      40,
+      40,
+      40,
+      40
+    ],
+    "min_pixels": [
+      81,
+      81
+    ],
+    "stretch": "edges-and-center"
+  },
+  "panel_paper.png": {
+    "pixels": [
+      512,
+      512
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      16,
+      16,
+      16,
+      16
+    ],
+    "min_pixels": [
+      33,
+      33
+    ],
+    "stretch": "edges-and-center"
+  },
+  "hud_bar.png": {
+    "pixels": [
+      320,
+      64
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      12,
+      12,
+      12,
+      12
+    ],
+    "min_pixels": [
+      25,
+      25
+    ],
+    "stretch": "edges-and-center"
+  },
+  "hud_bar_fill_gold.png": {
+    "pixels": [
+      320,
+      64
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "min_pixels": [
+      37,
+      37
+    ],
+    "stretch": "edges-and-center"
+  },
+  "hud_bar_fill_heart.png": {
+    "pixels": [
+      320,
+      64
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "min_pixels": [
+      37,
+      37
+    ],
+    "stretch": "edges-and-center"
+  },
+  "hud_bar_fill_sheep.png": {
+    "pixels": [
+      320,
+      64
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "min_pixels": [
+      37,
+      37
+    ],
+    "stretch": "edges-and-center"
+  },
+  "hud_bar_fill_xp.png": {
+    "pixels": [
+      320,
+      64
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "min_pixels": [
+      37,
+      37
+    ],
+    "stretch": "edges-and-center"
+  },
+  "level_star.png": {
+    "pixels": [
+      96,
+      96
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "stretch": "fixed"
+  },
+  "btn_green.png": {
+    "pixels": [
+      240,
+      80
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      32,
+      42,
+      32,
+      42
+    ],
+    "min_pixels": [
+      85,
+      65
+    ],
+    "stretch": "edges-and-center"
+  },
+  "btn_red.png": {
+    "pixels": [
+      240,
+      80
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      32,
+      42,
+      32,
+      42
+    ],
+    "min_pixels": [
+      85,
+      65
+    ],
+    "stretch": "edges-and-center"
+  },
+  "btn_yellow.png": {
+    "pixels": [
+      240,
+      80
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      32,
+      42,
+      32,
+      42
+    ],
+    "min_pixels": [
+      85,
+      65
+    ],
+    "stretch": "edges-and-center"
+  },
+  "btn_square.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      24,
+      24,
+      24,
+      24
+    ],
+    "min_pixels": [
+      49,
+      49
+    ],
+    "stretch": "edges-and-center"
+  },
+  "btn_square_on.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      24,
+      24,
+      24,
+      24
+    ],
+    "min_pixels": [
+      49,
+      49
+    ],
+    "stretch": "edges-and-center"
+  },
+  "btn_round.png": {
+    "pixels": [
+      96,
+      96
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "stretch": "fixed"
+  },
+  "btn_close.png": {
+    "pixels": [
+      80,
+      80
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "stretch": "fixed"
+  },
+  "btn_wide.png": {
+    "pixels": [
+      320,
+      96
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "min_pixels": [
+      37,
+      37
+    ],
+    "stretch": "edges-and-center"
+  },
+  "card.png": {
+    "pixels": [
+      208,
+      256
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "min_pixels": [
+      37,
+      37
+    ],
+    "stretch": "edges-and-center"
+  },
+  "card_locked.png": {
+    "pixels": [
+      208,
+      256
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "min_pixels": [
+      37,
+      37
+    ],
+    "stretch": "edges-and-center"
+  },
+  "tab.png": {
+    "pixels": [
+      128,
+      96
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      24,
+      24,
+      24,
+      24
+    ],
+    "min_pixels": [
+      49,
+      49
+    ],
+    "stretch": "edges-and-center"
+  },
+  "tab_on.png": {
+    "pixels": [
+      128,
+      96
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      30,
+      30,
+      30,
+      30
+    ],
+    "min_pixels": [
+      61,
+      61
+    ],
+    "stretch": "edges-and-center"
+  },
+  "tooltip.png": {
+    "pixels": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      30,
+      30,
+      30,
+      30
+    ],
+    "min_pixels": [
+      61,
+      61
+    ],
+    "stretch": "edges-and-center",
+    "tail": {
+      "file": "tooltip_tail.png",
+      "placement": "bottom-center",
+      "overlap_pixels": 5
+    }
+  },
+  "tooltip_tail.png": {
+    "pixels": [
+      40,
+      28
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "stretch": "fixed"
+  },
+  "dialog_box.png": {
+    "pixels": [
+      1600,
+      280
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      40,
+      40,
+      40,
+      40
+    ],
+    "min_pixels": [
+      81,
+      81
+    ],
+    "stretch": "edges-and-center"
+  },
+  "speech_bubble.png": {
+    "pixels": [
+      192,
+      160
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "stretch": "fixed"
+  },
+  "friend_slot.png": {
+    "pixels": [
+      128,
+      144
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "min_pixels": [
+      37,
+      37
+    ],
+    "stretch": "edges-and-center"
+  },
+  "friend_slot_empty.png": {
+    "pixels": [
+      128,
+      144
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "min_pixels": [
+      37,
+      37
+    ],
+    "stretch": "edges-and-center"
+  },
+  "friend_add.png": {
+    "pixels": [
+      48,
+      48
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "stretch": "fixed"
+  },
+  "lock.png": {
+    "pixels": [
+      48,
+      48
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "stretch": "fixed"
+  },
+  "badge_new.png": {
+    "pixels": [
+      96,
+      48
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "min_pixels": [
+      37,
+      37
+    ],
+    "stretch": "edges-and-center"
+  },
+  "badge_complete.png": {
+    "pixels": [
+      96,
+      48
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "min_pixels": [
+      37,
+      37
+    ],
+    "stretch": "edges-and-center"
+  },
+  "badge_count.png": {
+    "pixels": [
+      96,
+      48
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "min_pixels": [
+      37,
+      37
+    ],
+    "stretch": "edges-and-center"
+  },
+  "banner.png": {
+    "pixels": [
+      960,
+      96
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "min_pixels": [
+      37,
+      37
+    ],
+    "stretch": "edges-and-center"
+  },
+  "progress_bar.png": {
+    "pixels": [
+      160,
+      24
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      6,
+      6,
+      6,
+      6
+    ],
+    "min_pixels": [
+      13,
+      13
+    ],
+    "stretch": "edges-and-center"
+  },
+  "progress_bar_fill.png": {
+    "pixels": [
+      160,
+      24
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      8,
+      8,
+      8,
+      8
+    ],
+    "min_pixels": [
+      17,
+      17
+    ],
+    "stretch": "edges-and-center"
+  },
+  "name_tag.png": {
+    "pixels": [
+      320,
+      96
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      20,
+      40,
+      28,
+      64
+    ],
+    "min_pixels": [
+      105,
+      49
+    ]
+  },
+  "visit_banner.png": {
+    "pixels": [
+      960,
+      96
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      38,
+      42,
+      18,
+      64
+    ],
+    "min_pixels": [
+      107,
+      57
+    ]
+  },
+  "btn_light.png": {
+    "pixels": [
+      240,
+      80
+    ],
+    "pivot": [
+      120,
+      40
+    ],
+    "anchor_pixels": [
+      120,
+      40
+    ],
+    "slice_trbl": [
+      24,
+      24,
+      24,
+      24
+    ],
+    "min_pixels": [
+      49,
+      49
+    ],
+    "stretch": "edges-and-center"
+  },
+  "btn_pill.png": {
+    "pixels": [
+      160,
+      56
+    ],
+    "pivot": [
+      80,
+      28
+    ],
+    "anchor_pixels": [
+      80,
+      28
+    ],
+    "slice_trbl": [
+      20,
+      20,
+      20,
+      20
+    ],
+    "min_pixels": [
+      41,
+      41
+    ],
+    "stretch": "edges-and-center"
+  },
+  "btn_pill_on.png": {
+    "pixels": [
+      160,
+      56
+    ],
+    "pivot": [
+      80,
+      28
+    ],
+    "anchor_pixels": [
+      80,
+      28
+    ],
+    "slice_trbl": [
+      20,
+      20,
+      20,
+      20
+    ],
+    "min_pixels": [
+      41,
+      41
+    ],
+    "stretch": "edges-and-center"
+  },
+  "chip.png": {
+    "pixels": [
+      192,
+      64
+    ],
+    "pivot": [
+      96,
+      32
+    ],
+    "anchor_pixels": [
+      96,
+      32
+    ],
+    "slice_trbl": [
+      28,
+      28,
+      28,
+      28
+    ],
+    "min_pixels": [
+      57,
+      57
+    ],
+    "stretch": "edges-and-center"
+  },
+  "btn_arrow_left.png": {
+    "pixels": [
+      96,
+      96
+    ],
+    "pivot": [
+      48,
+      48
+    ],
+    "anchor_pixels": [
+      48,
+      48
+    ]
+  },
+  "btn_arrow_right.png": {
+    "pixels": [
+      96,
+      96
+    ],
+    "pivot": [
+      48,
+      48
+    ],
+    "anchor_pixels": [
+      48,
+      48
+    ]
+  },
+  "heart_on.png": {
+    "pixels": [
+      48,
+      48
+    ],
+    "pivot": [
+      24,
+      24
+    ],
+    "anchor_pixels": [
+      24,
+      24
+    ]
+  },
+  "heart_off.png": {
+    "pixels": [
+      48,
+      48
+    ],
+    "pivot": [
+      24,
+      24
+    ],
+    "anchor_pixels": [
+      24,
+      24
+    ]
+  },
+  "badge_rarity_n.png": {
+    "pixels": [
+      120,
+      48
+    ],
+    "pivot": [
+      60,
+      24
+    ],
+    "anchor_pixels": [
+      60,
+      24
+    ],
+    "slice_trbl": [
+      16,
+      16,
+      16,
+      16
+    ],
+    "min_pixels": [
+      33,
+      33
+    ],
+    "stretch": "edges-and-center"
+  },
+  "badge_rarity_r.png": {
+    "pixels": [
+      120,
+      48
+    ],
+    "pivot": [
+      60,
+      24
+    ],
+    "anchor_pixels": [
+      60,
+      24
+    ],
+    "slice_trbl": [
+      16,
+      16,
+      16,
+      16
+    ],
+    "min_pixels": [
+      33,
+      33
+    ],
+    "stretch": "edges-and-center"
+  },
+  "badge_rarity_sr.png": {
+    "pixels": [
+      120,
+      48
+    ],
+    "pivot": [
+      60,
+      24
+    ],
+    "anchor_pixels": [
+      60,
+      24
+    ],
+    "slice_trbl": [
+      16,
+      16,
+      16,
+      16
+    ],
+    "min_pixels": [
+      33,
+      33
+    ],
+    "stretch": "edges-and-center"
+  },
+  "badge_rarity_ur.png": {
+    "pixels": [
+      120,
+      48
+    ],
+    "pivot": [
+      60,
+      24
+    ],
+    "anchor_pixels": [
+      60,
+      24
+    ],
+    "slice_trbl": [
+      16,
+      16,
+      16,
+      16
+    ],
+    "min_pixels": [
+      33,
+      33
+    ],
+    "stretch": "edges-and-center"
+  },
+  "badge_rarity_legend.png": {
+    "pixels": [
+      120,
+      48
+    ],
+    "pivot": [
+      60,
+      24
+    ],
+    "anchor_pixels": [
+      60,
+      24
+    ],
+    "slice_trbl": [
+      16,
+      16,
+      16,
+      16
+    ],
+    "min_pixels": [
+      33,
+      33
+    ],
+    "stretch": "edges-and-center"
+  },
+  "sheet_panel.png": {
+    "pixels": [
+      512,
+      512
+    ],
+    "pivot": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      256,
+      256
+    ],
+    "slice_trbl": [
+      40,
+      16,
+      16,
+      16
+    ],
+    "min_pixels": [
+      33,
+      57
+    ],
+    "stretch": "edges-and-center"
+  },
+  "stat_bar.png": {
+    "pixels": [
+      160,
+      20
+    ],
+    "pivot": [
+      80,
+      10
+    ],
+    "anchor_pixels": [
+      80,
+      10
+    ],
+    "slice_trbl": [
+      8,
+      8,
+      8,
+      8
+    ],
+    "min_pixels": [
+      17,
+      17
+    ],
+    "stretch": "edges-and-center"
+  },
+  "stat_bar_fill_food.png": {
+    "pixels": [
+      160,
+      20
+    ],
+    "pivot": [
+      80,
+      10
+    ],
+    "anchor_pixels": [
+      80,
+      10
+    ],
+    "slice_trbl": [
+      8,
+      8,
+      8,
+      8
+    ],
+    "min_pixels": [
+      17,
+      17
+    ],
+    "stretch": "edges-and-center"
+  },
+  "stat_bar_fill_mood.png": {
+    "pixels": [
+      160,
+      20
+    ],
+    "pivot": [
+      80,
+      10
+    ],
+    "anchor_pixels": [
+      80,
+      10
+    ],
+    "slice_trbl": [
+      8,
+      8,
+      8,
+      8
+    ],
+    "min_pixels": [
+      17,
+      17
+    ],
+    "stretch": "edges-and-center"
+  },
+  "stat_bar_fill_wool.png": {
+    "pixels": [
+      160,
+      20
+    ],
+    "pivot": [
+      80,
+      10
+    ],
+    "anchor_pixels": [
+      80,
+      10
+    ],
+    "slice_trbl": [
+      8,
+      8,
+      8,
+      8
+    ],
+    "min_pixels": [
+      17,
+      17
+    ],
+    "stretch": "edges-and-center"
+  },
+  "stat_bar_fill_grow.png": {
+    "pixels": [
+      160,
+      20
+    ],
+    "pivot": [
+      80,
+      10
+    ],
+    "anchor_pixels": [
+      80,
+      10
+    ],
+    "slice_trbl": [
+      8,
+      8,
+      8,
+      8
+    ],
+    "min_pixels": [
+      17,
+      17
+    ],
+    "stretch": "edges-and-center"
+  },
+  "grade_normal.png": {
+    "pixels": [
+      96,
+      48
+    ],
+    "pivot": [
+      48,
+      24
+    ],
+    "anchor_pixels": [
+      48,
+      24
+    ],
+    "slice_trbl": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "min_pixels": [
+      37,
+      37
+    ],
+    "stretch": "edges-and-center"
+  },
+  "grade_good.png": {
+    "pixels": [
+      96,
+      48
+    ],
+    "pivot": [
+      48,
+      24
+    ],
+    "anchor_pixels": [
+      48,
+      24
+    ],
+    "slice_trbl": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "min_pixels": [
+      37,
+      37
+    ],
+    "stretch": "edges-and-center"
+  },
+  "grade_best.png": {
+    "pixels": [
+      96,
+      48
+    ],
+    "pivot": [
+      48,
+      24
+    ],
+    "anchor_pixels": [
+      48,
+      24
+    ],
+    "slice_trbl": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "min_pixels": [
+      37,
+      37
+    ],
+    "stretch": "edges-and-center"
+  },
+  "storage_full.png": {
+    "pixels": [
+      96,
+      48
+    ],
+    "pivot": [
+      48,
+      24
+    ],
+    "anchor_pixels": [
+      48,
+      24
+    ],
+    "slice_trbl": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "min_pixels": [
+      37,
+      37
+    ],
+    "stretch": "edges-and-center"
+  },
+  "order_note.png": {
+    "pixels": [
+      240,
+      280
+    ],
+    "pivot": [
+      120,
+      140
+    ],
+    "anchor_pixels": [
+      120,
+      140
+    ],
+    "slice_trbl": [
+      36,
+      36,
+      36,
+      36
+    ],
+    "min_pixels": [
+      73,
+      73
+    ],
+    "stretch": "edges-and-center"
+  },
+  "stall_slot.png": {
+    "pixels": [
+      128,
+      144
+    ],
+    "pivot": [
+      64,
+      72
+    ],
+    "anchor_pixels": [
+      64,
+      72
+    ]
+  },
+  "away_card.png": {
+    "pixels": [
+      720,
+      960
+    ],
+    "pivot": [
+      360,
+      480
+    ],
+    "anchor_pixels": [
+      360,
+      480
+    ],
+    "slice_trbl": [
+      160,
+      40,
+      40,
+      40
+    ],
+    "min_pixels": [
+      81,
+      201
+    ],
+    "stretch": "edges-and-center"
+  },
+  "share_frame.png": {
+    "pixels": [
+      1080,
+      1350
+    ],
+    "pivot": [
+      540,
+      675
+    ],
+    "anchor_pixels": [
+      540,
+      675
+    ],
+    "photo_window": "transparent opening; frame must be overlaid on shared image"
+  }
+}

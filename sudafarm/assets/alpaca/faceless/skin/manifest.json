@@ -1,0 +1,162 @@
+{
+  "body_idle.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "pivot": [
+      128,
+      314
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ],
+    "slot": "skin",
+    "paint": "white",
+    "body": "../body_idle.png"
+  },
+  "body_eat.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "pivot": [
+      128,
+      314
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ],
+    "slot": "skin",
+    "paint": "white",
+    "body": "../body_eat.png"
+  },
+  "body_half.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "pivot": [
+      128,
+      314
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ],
+    "slot": "skin",
+    "paint": "white",
+    "body": "../body_half.png"
+  },
+  "body_sheared.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "pivot": [
+      128,
+      314
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ],
+    "slot": "skin",
+    "paint": "white",
+    "body": "../body_sheared.png"
+  },
+  "body_sleep.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "pivot": [
+      128,
+      314
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ],
+    "slot": "skin",
+    "paint": "white",
+    "body": "../body_sleep.png"
+  },
+  "body_walk_a.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "pivot": [
+      128,
+      314
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ],
+    "slot": "skin",
+    "paint": "white",
+    "body": "../body_walk_a.png"
+  },
+  "body_walk_b.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "pivot": [
+      128,
+      314
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ],
+    "slot": "skin",
+    "paint": "white",
+    "body": "../body_walk_b.png"
+  },
+  "body_suri.png": {
+    "pixels": [
+      256,
+      320
+    ],
+    "pivot": [
+      128,
+      314
+    ],
+    "anchor_pixels": [
+      128,
+      314
+    ],
+    "slot": "skin",
+    "paint": "white",
+    "body": "../body_suri.png"
+  },
+  "baby_body.png": {
+    "pixels": [
+      192,
+      240
+    ],
+    "pivot": [
+      96,
+      234
+    ],
+    "anchor_pixels": [
+      96,
+      234
+    ],
+    "slot": "skin",
+    "paint": "white",
+    "body": "../baby_body.png"
+  },
+  "_skins": {
+    "brown": "#8b5d4d",
+    "cocoa": "#b28064",
+    "cream": "#ffe2d4",
+    "gray": "#c4c4cc",
+    "black": "#544a4e"
+  }
+}

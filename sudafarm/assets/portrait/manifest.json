@@ -1,0 +1,550 @@
+{
+  "sheep_cute_smug.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_sheep_cute_smug.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "sheep_cute_angry.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_sheep_cute_angry.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "sheep_cute_happy.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_sheep_cute_happy.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "sheep_cute_sad.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_sheep_cute_sad.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "sheep_elegant_smug.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_sheep_elegant_smug.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "sheep_elegant_angry.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_sheep_elegant_angry.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "sheep_elegant_happy.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_sheep_elegant_happy.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "sheep_elegant_sad.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_sheep_elegant_sad.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "sheep_chic_smug.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_sheep_chic_smug.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "sheep_chic_angry.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_sheep_chic_angry.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "sheep_chic_happy.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_sheep_chic_happy.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "sheep_chic_sad.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_sheep_chic_sad.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "npc_shopkeeper.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_npc_shopkeeper.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "npc_quest_1.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_npc_quest_1.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "npc_quest_2.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_npc_quest_2.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "npc_quest_3.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_npc_quest_3.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "sheep_cute.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_sheep_cute.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "sheep_elegant.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_sheep_elegant.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "sheep_chic.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_sheep_chic.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "alpaca.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "pivot": [
+      384,
+      756
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_alpaca.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "pivot": [
+      80,
+      80
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "alpaca_happy.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "pivot": [
+      384,
+      756
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_alpaca_happy.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "pivot": [
+      80,
+      80
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "npc_neighbor_1.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "pivot": [
+      384,
+      760
+    ],
+    "anchor_pixels": [
+      384,
+      760
+    ]
+  },
+  "face_npc_neighbor_1.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "pivot": [
+      80,
+      80
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "npc_neighbor_2.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "pivot": [
+      384,
+      760
+    ],
+    "anchor_pixels": [
+      384,
+      760
+    ]
+  },
+  "face_npc_neighbor_2.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "pivot": [
+      80,
+      80
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "npc_neighbor_3.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "pivot": [
+      384,
+      760
+    ],
+    "anchor_pixels": [
+      384,
+      760
+    ]
+  },
+  "face_npc_neighbor_3.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "pivot": [
+      80,
+      80
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "npc_neighbor_4.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "pivot": [
+      384,
+      760
+    ],
+    "anchor_pixels": [
+      384,
+      760
+    ]
+  },
+  "face_npc_neighbor_4.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "pivot": [
+      80,
+      80
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  }
+}

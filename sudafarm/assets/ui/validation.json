@@ -1,0 +1,7 @@
+{
+  "assets": 34,
+  "nine_slice_assets": 27,
+  "corner_pixels_preserved": true,
+  "resize_cases_per_asset": 2,
+  "tooltip_tail_separate": true
+}

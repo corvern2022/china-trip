@@ -1,0 +1,155 @@
+{
+  "body_idle.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "slot": "body",
+    "wool": "wool_full.png",
+    "face_anchor": "face-anchor.json"
+  },
+  "body_eat.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "slot": "body",
+    "wool": "wool_full.png",
+    "face_anchor": "face-anchor.json"
+  },
+  "body_half.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "slot": "body",
+    "wool": "wool_half.png",
+    "face_anchor": "face-anchor.json"
+  },
+  "body_sheared.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "slot": "body",
+    "wool": "wool_sheared.png",
+    "face_anchor": "face-anchor.json"
+  },
+  "body_sleep.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "slot": "body",
+    "wool": "wool_sleep.png",
+    "face_anchor": "face-anchor.json"
+  },
+  "body_walk_a.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "slot": "body",
+    "wool": "wool_full.png",
+    "face_anchor": "face-anchor.json"
+  },
+  "body_walk_b.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "slot": "body",
+    "wool": "wool_full.png",
+    "face_anchor": "face-anchor.json"
+  },
+  "body_short.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "slot": "body",
+    "wool": "short_wool_full.png",
+    "face_anchor": "face-anchor.json"
+  },
+  "baby_body.png": {
+    "pixels": [
+      192,
+      192
+    ],
+    "anchor_pixels": [
+      96,
+      186
+    ],
+    "pivot": [
+      96,
+      186
+    ],
+    "slot": "body",
+    "wool": "baby_wool.png",
+    "face_anchor": "face-anchor.json"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "coordinate_system": {
+    "logical_tile": [
+      256,
+      128
+    ],
+    "pixel_tile": [
+      512,
+      256
+    ],
+    "scale": 2,
+    "grid_steps": [
+      [
+        256,
+        128
+      ],
+      [
+        -256,
+        128
+      ]
+    ]
+  },
+  "grass_seams": {
+    "before": {
+      "horizontal_max": 1.0,
+      "vertical_max": 1.0
+    },
+    "after": {
+      "horizontal_max": 0.0,
+      "vertical_max": 0.0
+    }
+  },
+  "dirt_seams": {
+    "before": {
+      "horizontal_max": 38.0,
+      "vertical_max": 37.0
+    },
+    "after": {
+      "horizontal_max": 0.0,
+      "vertical_max": 0.0
+    }
+  },
+  "cliff_seams": {
+    "before": {
+      "horizontal_max": 26.0,
+      "vertical_max": 72.0
+    },
+    "after": {
+      "horizontal_max": 0.0,
+      "vertical_max": 0.0
+    }
+  },
+  "grass_top_a.png": {
+    "size": [
+      512,
+      256
+    ],
+    "alpha_bbox": [
+      0,
+      0,
+      512,
+      256
+    ],
+    "ratio": 2
+  },
+  "grass_top_b.png": {
+    "size": [
+      512,
+      256
+    ],
+    "alpha_bbox": [
+      0,
+      0,
+      512,
+      256
+    ],
+    "ratio": 2
+  },
+  "path_dirt.png": {
+    "size": [
+      512,
+      256
+    ],
+    "alpha_bbox": [
+      0,
+      0,
+      512,
+      256
+    ],
+    "ratio": 2
+  },
+  "ab_boundary_max_delta": 0,
+  "tile_test": {
+    "tile_count": 25,
+    "interior_holes": 0,
+    "clipped_outer_vertex_pixels": 4,
+    "shared_edge_overdraw_pixels": 5100
+  },
+  "sky_horizontal_max_delta": 0.0,
+  "macro_surface": {
+    "period_tiles": [
+      4,
+      4
+    ],
+    "variants": 16,
+    "patch_span_tiles": [
+      2,
+      3
+    ],
+    "source_edge_delta": {
+      "horizontal_max": 0.0,
+      "vertical_max": 0.0
+    },
+    "saved_neighbor_max_delta": 0
+  },
+  "cliff_geometry": {
+    "canvas": [
+      512,
+      768
+    ],
+    "wall_depth": 512,
+    "previous_wall_depth": 256,
+    "vertical_end_cap_outlines": false,
+    "lip_is_separate": true,
+    "bottom": "periodic roots and stones silhouette, brown contour",
+    "saved_face_seam_max_delta": 0
+  },
+  "island_preview": {
+    "grid": [
+      5,
+      5
+    ],
+    "tile_width_pixels": 112,
+    "size": [
+      658,
+      462
+    ],
+    "background": "sky_bg.png"
+  }
+}

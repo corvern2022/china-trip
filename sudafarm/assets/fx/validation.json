@@ -1,0 +1,8 @@
+{
+  "animations": 9,
+  "frames": 54,
+  "duration_ms": 500,
+  "sheet_frames_pixel_exact": true,
+  "no_edge_clipping": true,
+  "fixed_center_anchors": true
+}

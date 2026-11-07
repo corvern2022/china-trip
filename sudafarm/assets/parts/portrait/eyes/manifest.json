@@ -1,0 +1,434 @@
+{
+  "round_open.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/round_open.png",
+    "render_scale": 3
+  },
+  "round_closed.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/round_closed.png",
+    "render_scale": 3
+  },
+  "sparkle_open.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/sparkle_open.png",
+    "render_scale": 3
+  },
+  "sparkle_closed.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/sparkle_closed.png",
+    "render_scale": 3
+  },
+  "sleepy_open.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/sleepy_open.png",
+    "render_scale": 3
+  },
+  "sleepy_closed.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/sleepy_closed.png",
+    "render_scale": 3
+  },
+  "teary_open.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/teary_open.png",
+    "render_scale": 3
+  },
+  "teary_closed.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/teary_closed.png",
+    "render_scale": 3
+  },
+  "smug_open.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/smug_open.png",
+    "render_scale": 3
+  },
+  "smug_closed.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/smug_closed.png",
+    "render_scale": 3
+  },
+  "sharp_open.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/sharp_open.png",
+    "render_scale": 3
+  },
+  "sharp_closed.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/sharp_closed.png",
+    "render_scale": 3
+  },
+  "dot_open.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/dot_open.png",
+    "render_scale": 3
+  },
+  "dot_closed.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/dot_closed.png",
+    "render_scale": 3
+  },
+  "swirl_open.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/swirl_open.png",
+    "render_scale": 3
+  },
+  "swirl_closed.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/swirl_closed.png",
+    "render_scale": 3
+  },
+  "monocle_open.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/monocle_open.png",
+    "render_scale": 3
+  },
+  "monocle_closed.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/monocle_closed.png",
+    "render_scale": 3
+  },
+  "heart_open.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/heart_open.png",
+    "render_scale": 3
+  },
+  "heart_closed.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/heart_closed.png",
+    "render_scale": 3
+  },
+  "alien_open.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/alien_open.png",
+    "render_scale": 3
+  },
+  "alien_closed.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/alien_closed.png",
+    "render_scale": 3
+  },
+  "fire_open.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/fire_open.png",
+    "render_scale": 3
+  },
+  "fire_closed.png": {
+    "pixels": [
+      192,
+      120
+    ],
+    "pivot": [
+      96,
+      60
+    ],
+    "anchor_pixels": [
+      96,
+      60
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/eyes/fire_closed.png",
+    "render_scale": 3
+  }
+}

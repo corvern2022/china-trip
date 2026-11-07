@@ -1,0 +1,12 @@
+{
+  "style-board-v3.png": {
+    "pixels": [
+      2048,
+      1024
+    ],
+    "opaque": true,
+    "purpose": "approval-board",
+    "status": "awaiting-user-approval",
+    "source": "scripts/art/sources/order7/style-board-v3-original.png"
+  }
+}

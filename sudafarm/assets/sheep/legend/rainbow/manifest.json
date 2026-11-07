@@ -1,0 +1,154 @@
+{
+  "idle.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "name_ko": "무지개양",
+    "pose": "idle",
+    "layered": false
+  },
+  "blink.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "name_ko": "무지개양",
+    "pose": "blink",
+    "layered": false
+  },
+  "walk_a.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "name_ko": "무지개양",
+    "pose": "walk_a",
+    "layered": false
+  },
+  "walk_b.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "name_ko": "무지개양",
+    "pose": "walk_b",
+    "layered": false
+  },
+  "eat.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "name_ko": "무지개양",
+    "pose": "eat",
+    "layered": false
+  },
+  "sleep.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      250
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "name_ko": "무지개양",
+    "pose": "sleep",
+    "layered": false
+  },
+  "baby.png": {
+    "pixels": [
+      192,
+      192
+    ],
+    "pivot": [
+      96,
+      186
+    ],
+    "anchor_pixels": [
+      96,
+      186
+    ],
+    "name_ko": "무지개양",
+    "pose": "baby",
+    "layered": false
+  },
+  "portrait.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "pivot": [
+      384,
+      760
+    ],
+    "anchor_pixels": [
+      384,
+      760
+    ],
+    "name_ko": "무지개양",
+    "pose": "portrait",
+    "layered": false
+  },
+  "face.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "pivot": [
+      80,
+      80
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ],
+    "name_ko": "무지개양",
+    "layered": false
+  }
+}

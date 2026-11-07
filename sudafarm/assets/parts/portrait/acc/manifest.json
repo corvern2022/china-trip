@@ -1,0 +1,506 @@
+{
+  "bow.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      120
+    ],
+    "anchor_pixels": [
+      192,
+      120
+    ],
+    "slot": "neck",
+    "paint": "white",
+    "source": "parts/acc/bow.png",
+    "render_scale": 3
+  },
+  "scarf.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      138
+    ],
+    "anchor_pixels": [
+      192,
+      138
+    ],
+    "slot": "neck",
+    "paint": "white",
+    "source": "parts/acc/scarf.png",
+    "render_scale": 3
+  },
+  "bell.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      120
+    ],
+    "anchor_pixels": [
+      192,
+      120
+    ],
+    "slot": "neck",
+    "paint": "white",
+    "source": "parts/acc/bell.png",
+    "render_scale": 3
+  },
+  "bandana.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      114
+    ],
+    "anchor_pixels": [
+      192,
+      114
+    ],
+    "slot": "neck",
+    "paint": "white",
+    "source": "parts/acc/bandana.png",
+    "render_scale": 3
+  },
+  "flower_crown.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      216,
+      258
+    ],
+    "anchor_pixels": [
+      216,
+      258
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "source": "parts/acc/flower_crown.png",
+    "render_scale": 3
+  },
+  "beanie.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      216,
+      288
+    ],
+    "anchor_pixels": [
+      216,
+      288
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "source": "parts/acc/beanie.png",
+    "render_scale": 3
+  },
+  "party_hat.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      216,
+      288
+    ],
+    "anchor_pixels": [
+      216,
+      288
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "source": "parts/acc/party_hat.png",
+    "render_scale": 3
+  },
+  "leaf.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      216,
+      288
+    ],
+    "anchor_pixels": [
+      216,
+      288
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "source": "parts/acc/leaf.png",
+    "render_scale": 3
+  },
+  "horns_small.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      216,
+      288
+    ],
+    "anchor_pixels": [
+      216,
+      288
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "source": "parts/acc/horns_small.png",
+    "render_scale": 3
+  },
+  "horns_curl.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      216,
+      288
+    ],
+    "anchor_pixels": [
+      216,
+      288
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "source": "parts/acc/horns_curl.png",
+    "render_scale": 3
+  },
+  "ear_tag.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      216,
+      150
+    ],
+    "anchor_pixels": [
+      216,
+      150
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "source": "parts/acc/ear_tag.png",
+    "render_scale": 3
+  },
+  "halo.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      216,
+      270
+    ],
+    "anchor_pixels": [
+      216,
+      270
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "source": "parts/acc/halo.png",
+    "render_scale": 3
+  },
+  "acc_shy.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      192
+    ],
+    "anchor_pixels": [
+      192,
+      192
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/acc/acc_shy.png",
+    "render_scale": 3
+  },
+  "acc_showoff.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      24
+    ],
+    "anchor_pixels": [
+      192,
+      24
+    ],
+    "slot": "neck",
+    "paint": "original",
+    "source": "parts/acc/acc_showoff.png",
+    "render_scale": 3
+  },
+  "acc_princess.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      336
+    ],
+    "anchor_pixels": [
+      192,
+      336
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "source": "parts/acc/acc_princess.png",
+    "render_scale": 3
+  },
+  "acc_boss.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      192
+    ],
+    "anchor_pixels": [
+      192,
+      192
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/acc/acc_boss.png",
+    "render_scale": 3
+  },
+  "acc_klutz.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      312
+    ],
+    "anchor_pixels": [
+      192,
+      312
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "source": "parts/acc/acc_klutz.png",
+    "render_scale": 3
+  },
+  "acc_philosopher.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      225,
+      264
+    ],
+    "anchor_pixels": [
+      225,
+      264
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/acc/acc_philosopher.png",
+    "render_scale": 3
+  },
+  "acc_glutton.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      192
+    ],
+    "anchor_pixels": [
+      192,
+      192
+    ],
+    "slot": "mouth",
+    "paint": "original",
+    "source": "parts/acc/acc_glutton.png",
+    "render_scale": 3
+  },
+  "acc_tsundere.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      126,
+      252
+    ],
+    "anchor_pixels": [
+      126,
+      252
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "source": "parts/acc/acc_tsundere.png",
+    "render_scale": 3
+  },
+  "acc_idol.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      108
+    ],
+    "anchor_pixels": [
+      192,
+      108
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "source": "parts/acc/acc_idol.png",
+    "render_scale": 3
+  },
+  "acc_detective.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      336
+    ],
+    "anchor_pixels": [
+      192,
+      336
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "source": "parts/acc/acc_detective.png",
+    "render_scale": 3
+  },
+  "acc_grandma.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      96
+    ],
+    "anchor_pixels": [
+      192,
+      96
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "source": "parts/acc/acc_grandma.png",
+    "render_scale": 3
+  },
+  "acc_poet.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      336
+    ],
+    "anchor_pixels": [
+      192,
+      336
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "source": "parts/acc/acc_poet.png",
+    "render_scale": 3
+  },
+  "acc_sleepy.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      300
+    ],
+    "anchor_pixels": [
+      192,
+      300
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "source": "parts/acc/acc_sleepy.png",
+    "render_scale": 3
+  },
+  "acc_noble.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      336
+    ],
+    "anchor_pixels": [
+      192,
+      336
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "source": "parts/acc/acc_noble.png",
+    "render_scale": 3
+  },
+  "acc_chuuni.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      249,
+      192
+    ],
+    "anchor_pixels": [
+      249,
+      192
+    ],
+    "slot": "eyes",
+    "paint": "original",
+    "source": "parts/acc/acc_chuuni.png",
+    "render_scale": 3
+  },
+  "acc_alien.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "pivot": [
+      192,
+      336
+    ],
+    "anchor_pixels": [
+      192,
+      336
+    ],
+    "slot": "head_top",
+    "paint": "original",
+    "source": "parts/acc/acc_alien.png",
+    "render_scale": 3
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "sheep_wool.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "pivot": [
+      384,
+      760
+    ],
+    "anchor_pixels": [
+      384,
+      760
+    ],
+    "slot": "wool",
+    "paint": "white"
+  },
+  "sheep_body.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "pivot": [
+      384,
+      760
+    ],
+    "anchor_pixels": [
+      384,
+      760
+    ],
+    "slot": "body",
+    "paint": "original"
+  },
+  "sheep_skin.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "pivot": [
+      384,
+      760
+    ],
+    "anchor_pixels": [
+      384,
+      760
+    ],
+    "slot": "skin",
+    "paint": "white"
+  },
+  "alpaca_wool.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "pivot": [
+      384,
+      760
+    ],
+    "anchor_pixels": [
+      384,
+      760
+    ],
+    "slot": "wool",
+    "paint": "white"
+  },
+  "alpaca_body.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "pivot": [
+      384,
+      760
+    ],
+    "anchor_pixels": [
+      384,
+      760
+    ],
+    "slot": "body",
+    "paint": "original"
+  },
+  "alpaca_skin.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "pivot": [
+      384,
+      760
+    ],
+    "anchor_pixels": [
+      384,
+      760
+    ],
+    "slot": "skin",
+    "paint": "white"
+  }
+}

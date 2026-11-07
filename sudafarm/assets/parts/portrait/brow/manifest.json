@@ -1,0 +1,96 @@
+{
+  "up.png": {
+    "pixels": [
+      192,
+      60
+    ],
+    "pivot": [
+      96,
+      30
+    ],
+    "anchor_pixels": [
+      96,
+      30
+    ],
+    "slot": "brow",
+    "paint": "original",
+    "source": "parts/brow/up.png",
+    "render_scale": 3
+  },
+  "down.png": {
+    "pixels": [
+      192,
+      60
+    ],
+    "pivot": [
+      96,
+      30
+    ],
+    "anchor_pixels": [
+      96,
+      30
+    ],
+    "slot": "brow",
+    "paint": "original",
+    "source": "parts/brow/down.png",
+    "render_scale": 3
+  },
+  "worried.png": {
+    "pixels": [
+      192,
+      60
+    ],
+    "pivot": [
+      96,
+      30
+    ],
+    "anchor_pixels": [
+      96,
+      30
+    ],
+    "slot": "brow",
+    "paint": "original",
+    "source": "parts/brow/worried.png",
+    "render_scale": 3
+  },
+  "thick.png": {
+    "pixels": [
+      192,
+      60
+    ],
+    "pivot": [
+      96,
+      30
+    ],
+    "anchor_pixels": [
+      96,
+      30
+    ],
+    "slot": "brow",
+    "paint": "original",
+    "source": "parts/brow/thick.png",
+    "render_scale": 3
+  },
+  "fancy.png": {
+    "pixels": [
+      192,
+      60
+    ],
+    "pivot": [
+      96,
+      30
+    ],
+    "anchor_pixels": [
+      96,
+      30
+    ],
+    "slot": "brow",
+    "paint": "original",
+    "source": "parts/brow/fancy.png",
+    "render_scale": 3
+  },
+  "none": {
+    "render": false,
+    "slot": "brow"
+  }
+}

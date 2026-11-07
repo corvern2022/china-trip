@@ -1,0 +1,182 @@
+{
+  "smile.png": {
+    "pixels": [
+      120,
+      84
+    ],
+    "pivot": [
+      60,
+      42
+    ],
+    "anchor_pixels": [
+      60,
+      42
+    ],
+    "slot": "mouth",
+    "paint": "original",
+    "source": "parts/mouth/smile.png",
+    "render_scale": 3
+  },
+  "grin.png": {
+    "pixels": [
+      120,
+      84
+    ],
+    "pivot": [
+      60,
+      42
+    ],
+    "anchor_pixels": [
+      60,
+      42
+    ],
+    "slot": "mouth",
+    "paint": "original",
+    "source": "parts/mouth/grin.png",
+    "render_scale": 3
+  },
+  "open.png": {
+    "pixels": [
+      120,
+      84
+    ],
+    "pivot": [
+      60,
+      42
+    ],
+    "anchor_pixels": [
+      60,
+      42
+    ],
+    "slot": "mouth",
+    "paint": "original",
+    "source": "parts/mouth/open.png",
+    "render_scale": 3
+  },
+  "pout.png": {
+    "pixels": [
+      120,
+      84
+    ],
+    "pivot": [
+      60,
+      42
+    ],
+    "anchor_pixels": [
+      60,
+      42
+    ],
+    "slot": "mouth",
+    "paint": "original",
+    "source": "parts/mouth/pout.png",
+    "render_scale": 3
+  },
+  "cat.png": {
+    "pixels": [
+      120,
+      84
+    ],
+    "pivot": [
+      60,
+      42
+    ],
+    "anchor_pixels": [
+      60,
+      42
+    ],
+    "slot": "mouth",
+    "paint": "original",
+    "source": "parts/mouth/cat.png",
+    "render_scale": 3
+  },
+  "tongue.png": {
+    "pixels": [
+      120,
+      84
+    ],
+    "pivot": [
+      60,
+      42
+    ],
+    "anchor_pixels": [
+      60,
+      42
+    ],
+    "slot": "mouth",
+    "paint": "original",
+    "source": "parts/mouth/tongue.png",
+    "render_scale": 3
+  },
+  "wavy.png": {
+    "pixels": [
+      120,
+      84
+    ],
+    "pivot": [
+      60,
+      42
+    ],
+    "anchor_pixels": [
+      60,
+      42
+    ],
+    "slot": "mouth",
+    "paint": "original",
+    "source": "parts/mouth/wavy.png",
+    "render_scale": 3
+  },
+  "o.png": {
+    "pixels": [
+      120,
+      84
+    ],
+    "pivot": [
+      60,
+      42
+    ],
+    "anchor_pixels": [
+      60,
+      42
+    ],
+    "slot": "mouth",
+    "paint": "original",
+    "source": "parts/mouth/o.png",
+    "render_scale": 3
+  },
+  "smirk.png": {
+    "pixels": [
+      120,
+      84
+    ],
+    "pivot": [
+      60,
+      42
+    ],
+    "anchor_pixels": [
+      60,
+      42
+    ],
+    "slot": "mouth",
+    "paint": "original",
+    "source": "parts/mouth/smirk.png",
+    "render_scale": 3
+  },
+  "munch.png": {
+    "pixels": [
+      120,
+      84
+    ],
+    "pivot": [
+      60,
+      42
+    ],
+    "anchor_pixels": [
+      60,
+      42
+    ],
+    "slot": "mouth",
+    "paint": "original",
+    "source": "parts/mouth/munch.png",
+    "render_scale": 3
+  }
+}

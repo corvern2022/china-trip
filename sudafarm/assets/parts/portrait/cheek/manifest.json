@@ -1,0 +1,78 @@
+{
+  "blush.png": {
+    "pixels": [
+      144,
+      60
+    ],
+    "pivot": [
+      72,
+      30
+    ],
+    "anchor_pixels": [
+      72,
+      30
+    ],
+    "slot": "cheek",
+    "paint": "white",
+    "source": "parts/cheek/blush.png",
+    "render_scale": 3
+  },
+  "swirl.png": {
+    "pixels": [
+      144,
+      60
+    ],
+    "pivot": [
+      72,
+      30
+    ],
+    "anchor_pixels": [
+      72,
+      30
+    ],
+    "slot": "cheek",
+    "paint": "white",
+    "source": "parts/cheek/swirl.png",
+    "render_scale": 3
+  },
+  "freckle.png": {
+    "pixels": [
+      144,
+      60
+    ],
+    "pivot": [
+      72,
+      30
+    ],
+    "anchor_pixels": [
+      72,
+      30
+    ],
+    "slot": "cheek",
+    "paint": "white",
+    "source": "parts/cheek/freckle.png",
+    "render_scale": 3
+  },
+  "sparkle.png": {
+    "pixels": [
+      144,
+      60
+    ],
+    "pivot": [
+      72,
+      30
+    ],
+    "anchor_pixels": [
+      72,
+      30
+    ],
+    "slot": "cheek",
+    "paint": "white",
+    "source": "parts/cheek/sparkle.png",
+    "render_scale": 3
+  },
+  "none": {
+    "render": false,
+    "slot": "cheek"
+  }
+}

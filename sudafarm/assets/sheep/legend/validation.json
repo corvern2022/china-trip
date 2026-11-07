@@ -1,0 +1,24 @@
+{
+  "characters": 10,
+  "production_assets": 90,
+  "pivots": {
+    "game": [
+      128,
+      250
+    ],
+    "baby": [
+      96,
+      186
+    ],
+    "portrait": [
+      384,
+      760
+    ],
+    "face": [
+      80,
+      80
+    ]
+  },
+  "alpha_edges_clear": true,
+  "distinct_walk_and_blink_frames": true
+}

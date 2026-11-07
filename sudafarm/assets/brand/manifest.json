@@ -1,0 +1,74 @@
+{
+  "logo.png": {
+    "pixels": [
+      1024,
+      512
+    ],
+    "pivot": [
+      512,
+      256
+    ],
+    "anchor_pixels": [
+      512,
+      256
+    ]
+  },
+  "app_icon.png": {
+    "pixels": [
+      1024,
+      1024
+    ],
+    "pivot": [
+      512,
+      512
+    ],
+    "anchor_pixels": [
+      512,
+      512
+    ]
+  },
+  "favicon.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      128,
+      128
+    ]
+  },
+  "loading_bg_portrait.png": {
+    "pixels": [
+      1080,
+      1920
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "opaque": true
+  },
+  "loading_bg_landscape.png": {
+    "pixels": [
+      1920,
+      1080
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "opaque": true
+  }
+}
