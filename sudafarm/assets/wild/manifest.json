@@ -1,0 +1,62 @@
+{
+  "wild_bramble_big.png": {
+    "pixels": [
+      256,
+      192
+    ],
+    "anchor_pixels": [
+      128,
+      187
+    ]
+  },
+  "wild_bramble_small.png": {
+    "pixels": [
+      192,
+      144
+    ],
+    "anchor_pixels": [
+      96,
+      139
+    ]
+  },
+  "wild_weeds.png": {
+    "pixels": [
+      192,
+      128
+    ],
+    "anchor_pixels": [
+      96,
+      123
+    ]
+  },
+  "wild_rocks.png": {
+    "pixels": [
+      192,
+      144
+    ],
+    "anchor_pixels": [
+      96,
+      139
+    ]
+  },
+  "wild_log.png": {
+    "pixels": [
+      224,
+      128
+    ],
+    "anchor_pixels": [
+      112,
+      123
+    ]
+  },
+  "wild_stump_old.png": {
+    "pixels": [
+      160,
+      128
+    ],
+    "anchor_pixels": [
+      80,
+      123
+    ]
+  }
+}

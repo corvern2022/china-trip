@@ -1093,5 +1093,15 @@
       80,
       186
     ]
+  },
+  "island_grow_sign.png": {
+    "pixels": [
+      160,
+      192
+    ],
+    "anchor_pixels": [
+      80,
+      187
+    ]
   }
 }

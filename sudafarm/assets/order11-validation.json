@@ -1,0 +1,267 @@
+{
+  "asset_count": 16,
+  "required_count": 12,
+  "optional_count": 4,
+  "entries": {
+    "wild/wild_bramble_big.png": {
+      "pixels": [
+        256,
+        192
+      ],
+      "anchor_pixels": [
+        128,
+        187
+      ],
+      "visible_bbox": [
+        8,
+        6,
+        248,
+        188
+      ]
+    },
+    "wild/wild_bramble_small.png": {
+      "pixels": [
+        192,
+        144
+      ],
+      "anchor_pixels": [
+        96,
+        139
+      ],
+      "visible_bbox": [
+        9,
+        6,
+        182,
+        139
+      ]
+    },
+    "wild/wild_weeds.png": {
+      "pixels": [
+        192,
+        128
+      ],
+      "anchor_pixels": [
+        96,
+        123
+      ],
+      "visible_bbox": [
+        32,
+        6,
+        159,
+        124
+      ]
+    },
+    "wild/wild_rocks.png": {
+      "pixels": [
+        192,
+        144
+      ],
+      "anchor_pixels": [
+        96,
+        139
+      ],
+      "visible_bbox": [
+        6,
+        10,
+        186,
+        140
+      ]
+    },
+    "wild/wild_log.png": {
+      "pixels": [
+        224,
+        128
+      ],
+      "anchor_pixels": [
+        112,
+        123
+      ],
+      "visible_bbox": [
+        6,
+        7,
+        218,
+        124
+      ]
+    },
+    "wild/wild_stump_old.png": {
+      "pixels": [
+        160,
+        128
+      ],
+      "anchor_pixels": [
+        80,
+        123
+      ],
+      "visible_bbox": [
+        14,
+        6,
+        146,
+        124
+      ]
+    },
+    "building/fence_x.png": {
+      "pixels": [
+        256,
+        192
+      ],
+      "anchor_pixels": [
+        128,
+        186
+      ],
+      "source": "crops/fence_x.png",
+      "visible_bbox": [
+        19,
+        6,
+        236,
+        186
+      ]
+    },
+    "building/fence_y.png": {
+      "pixels": [
+        256,
+        192
+      ],
+      "anchor_pixels": [
+        128,
+        186
+      ],
+      "source": "crops/fence_y.png",
+      "visible_bbox": [
+        13,
+        6,
+        243,
+        186
+      ]
+    },
+    "building/fence_post.png": {
+      "pixels": [
+        256,
+        192
+      ],
+      "anchor_pixels": [
+        128,
+        186
+      ],
+      "source": "crops/fence_post.png",
+      "visible_bbox": [
+        106,
+        76,
+        150,
+        186
+      ]
+    },
+    "deco/flowerbed.png": {
+      "pixels": [
+        320,
+        192
+      ],
+      "anchor_pixels": [
+        160,
+        187
+      ],
+      "visible_bbox": [
+        6,
+        8,
+        313,
+        187
+      ]
+    },
+    "animal/duck_idle.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "anchor_pixels": [
+        64,
+        123
+      ],
+      "visible_bbox": [
+        9,
+        6,
+        118,
+        124
+      ]
+    },
+    "animal/duck_swim.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "anchor_pixels": [
+        64,
+        123
+      ],
+      "anchor_meaning": "bottom center of the small water ripple",
+      "visible_bbox": [
+        6,
+        6,
+        122,
+        124
+      ]
+    },
+    "terrain/island_grow_sign.png": {
+      "pixels": [
+        160,
+        192
+      ],
+      "anchor_pixels": [
+        80,
+        187
+      ],
+      "visible_bbox": [
+        33,
+        6,
+        127,
+        188
+      ]
+    },
+    "deco/tree_big.png": {
+      "pixels": [
+        384,
+        448
+      ],
+      "anchor_pixels": [
+        192,
+        443
+      ],
+      "visible_bbox": [
+        14,
+        38,
+        370,
+        444
+      ]
+    },
+    "deco/hill_small.png": {
+      "pixels": [
+        384,
+        224
+      ],
+      "anchor_pixels": [
+        192,
+        219
+      ],
+      "visible_bbox": [
+        7,
+        32,
+        377,
+        220
+      ]
+    },
+    "deco/rock_cliff.png": {
+      "pixels": [
+        320,
+        256
+      ],
+      "anchor_pixels": [
+        160,
+        251
+      ],
+      "visible_bbox": [
+        6,
+        60,
+        314,
+        252
+      ]
+    }
+  }
+}

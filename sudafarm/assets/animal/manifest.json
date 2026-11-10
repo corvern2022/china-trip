@@ -1,0 +1,23 @@
+{
+  "duck_idle.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      123
+    ]
+  },
+  "duck_swim.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      123
+    ],
+    "anchor_meaning": "bottom center of the small water ripple"
+  }
+}

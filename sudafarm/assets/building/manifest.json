@@ -394,5 +394,38 @@
       ]
     ],
     "region_coordinate_space": "source normalized 1280x1280"
+  },
+  "fence_x.png": {
+    "pixels": [
+      256,
+      192
+    ],
+    "anchor_pixels": [
+      128,
+      186
+    ],
+    "source": "crops/fence_x.png"
+  },
+  "fence_y.png": {
+    "pixels": [
+      256,
+      192
+    ],
+    "anchor_pixels": [
+      128,
+      186
+    ],
+    "source": "crops/fence_y.png"
+  },
+  "fence_post.png": {
+    "pixels": [
+      256,
+      192
+    ],
+    "anchor_pixels": [
+      128,
+      186
+    ],
+    "source": "crops/fence_post.png"
   }
 }

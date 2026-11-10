@@ -472,5 +472,45 @@
       128,
       442
     ]
+  },
+  "flowerbed.png": {
+    "pixels": [
+      320,
+      192
+    ],
+    "anchor_pixels": [
+      160,
+      187
+    ]
+  },
+  "tree_big.png": {
+    "pixels": [
+      384,
+      448
+    ],
+    "anchor_pixels": [
+      192,
+      443
+    ]
+  },
+  "hill_small.png": {
+    "pixels": [
+      384,
+      224
+    ],
+    "anchor_pixels": [
+      192,
+      219
+    ]
+  },
+  "rock_cliff.png": {
+    "pixels": [
+      320,
+      256
+    ],
+    "anchor_pixels": [
+      160,
+      251
+    ]
   }
 }

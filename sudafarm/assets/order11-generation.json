@@ -1,0 +1,159 @@
+[
+  {
+    "path": "wild/wild_bramble_big.png",
+    "pixels": [
+      256,
+      192
+    ],
+    "method": "image_gen",
+    "prompt": "One isolated original 2D isometric farm game sprite on genuinely transparent alpha, no scenery or tile. Match attached existing 10/22 sprites exactly in rendering: warm hand-painted muted pastels, firm chocolate outline #4a2f1d, top-left light, simple matte shapes. Map screenshot is context only. Three-quarter view with 2:1 iso ground axes. Object fully in frame, centered, visible at small game size. No text, watermark, ambient ground, outer glow, or long shadow. A large unruly tangled mound of sharp thorny branches and only a few dead ochre leaves, deep faded olive and brown, no flowers. Much rougher and more irregular than the attached bright decorative bush. Intended final canvas 256 by 192.",
+    "reference": "deco/bush.png"
+  },
+  {
+    "path": "wild/wild_bramble_small.png",
+    "pixels": [
+      192,
+      144
+    ],
+    "method": "image_gen",
+    "prompt": "One isolated original 2D isometric farm game sprite on genuinely transparent alpha, no scenery or tile. Match attached existing 10/22 sprites exactly in rendering: warm hand-painted muted pastels, firm chocolate outline #4a2f1d, top-left light, simple matte shapes. Map screenshot is context only. Three-quarter view with 2:1 iso ground axes. Object fully in frame, centered, visible at small game size. No text, watermark, ambient ground, outer glow, or long shadow. Small low asymmetrical scrub bush, 3-4 crooked stems and patchy dusty olive leaves, exposed twig ends, a few tan dry leaves. No flowers or bright scalloped decorative foliage. Intended final canvas 192 by 144.",
+    "reference": "deco/bush.png"
+  },
+  {
+    "path": "wild/wild_weeds.png",
+    "pixels": [
+      192,
+      128
+    ],
+    "method": "image_gen",
+    "prompt": "One isolated original 2D isometric farm game sprite on genuinely transparent alpha, no scenery or tile. Match attached existing 10/22 sprites exactly in rendering: warm hand-painted muted pastels, firm chocolate outline #4a2f1d, top-left light, simple matte shapes. Map screenshot is context only. Three-quarter view with 2:1 iso ground axes. Object fully in frame, centered, visible at small game size. No text, watermark, ambient ground, outer glow, or long shadow. A wild unruly clump of long upright grass blades arching in different directions, muted olive with straw yellow tips and two slender seed stalks. Compact shared base, no flowers. Intended final canvas 192 by 128.",
+    "reference": "deco/bush.png"
+  },
+  {
+    "path": "wild/wild_rocks.png",
+    "pixels": [
+      192,
+      144
+    ],
+    "method": "image_gen",
+    "prompt": "One isolated original 2D isometric farm game sprite on genuinely transparent alpha, no scenery or tile. Match attached existing 10/22 sprites exactly in rendering: warm hand-painted muted pastels, firm chocolate outline #4a2f1d, top-left light, simple matte shapes. Map screenshot is context only. Three-quarter view with 2:1 iso ground axes. Object fully in frame, centered, visible at small game size. No text, watermark, ambient ground, outer glow, or long shadow. An irregular tight heap of FOUR small angular field stones, muted warm grey with one subtle olive moss spot. Uneven cracked surfaces; visibly a rubble pile distinct from the smooth two decorative reference stones. Intended final canvas 192 by 144.",
+    "reference": "deco/rock_small.png"
+  },
+  {
+    "path": "wild/wild_log.png",
+    "pixels": [
+      224,
+      128
+    ],
+    "method": "image_gen",
+    "prompt": "One isolated original 2D isometric farm game sprite on genuinely transparent alpha, no scenery or tile. Match attached existing 10/22 sprites exactly in rendering: warm hand-painted muted pastels, firm chocolate outline #4a2f1d, top-left light, simple matte shapes. Map screenshot is context only. Three-quarter view with 2:1 iso ground axes. Object fully in frame, centered, visible at small game size. No text, watermark, ambient ground, outer glow, or long shadow. One fallen dead log, rough dark grey-brown bark, broken knot, slightly split worn end, little dull olive moss. Log axis descends gently right along 2:1 isometric axis. No sawn lumber stack or green leaves. Intended final canvas 224 by 128.",
+    "reference": "deco/stump.png"
+  },
+  {
+    "path": "wild/wild_stump_old.png",
+    "pixels": [
+      160,
+      128
+    ],
+    "method": "image_gen",
+    "prompt": "One isolated original 2D isometric farm game sprite on genuinely transparent alpha, no scenery or tile. Match attached existing 10/22 sprites exactly in rendering: warm hand-painted muted pastels, firm chocolate outline #4a2f1d, top-left light, simple matte shapes. Map screenshot is context only. Three-quarter view with 2:1 iso ground axes. Object fully in frame, centered, visible at small game size. No text, watermark, ambient ground, outer glow, or long shadow. One weathered old low tree stump with split jagged top, desaturated dark brown bark and one small ochre mushroom at foot. No fresh golden saw cut, no bright plants. Different from fresh reference stump. Intended final canvas 160 by 128.",
+    "reference": "deco/stump.png"
+  },
+  {
+    "path": "building/fence_x.png",
+    "pixels": [
+      256,
+      192
+    ],
+    "method": "existing source reused",
+    "reference": "crops/fence_x.png"
+  },
+  {
+    "path": "building/fence_y.png",
+    "pixels": [
+      256,
+      192
+    ],
+    "method": "existing source reused",
+    "reference": "crops/fence_y.png"
+  },
+  {
+    "path": "building/fence_post.png",
+    "pixels": [
+      256,
+      192
+    ],
+    "method": "existing source reused",
+    "reference": "crops/fence_post.png"
+  },
+  {
+    "path": "deco/flowerbed.png",
+    "pixels": [
+      320,
+      192
+    ],
+    "method": "image_gen",
+    "prompt": "One isolated original 2D isometric farm game sprite on genuinely transparent alpha, no scenery or tile. Match attached existing 10/22 sprites exactly in rendering: warm hand-painted muted pastels, firm chocolate outline #4a2f1d, top-left light, simple matte shapes. Map screenshot is context only. Three-quarter view with 2:1 iso ground axes. Object fully in frame, centered, visible at small game size. No text, watermark, ambient ground, outer glow, or long shadow. A small tidy low rounded flower bed with irregular light beige rounded stone edging, dark soil, 5 simple coral pink and creamy yellow flowers with soft green leaves, shallow oval footprint in isometric perspective, styled like a garden in the reference map. No box, no pot. Intended final canvas 320 by 192.",
+    "reference": "deco/rock_small.png"
+  },
+  {
+    "path": "animal/duck_idle.png",
+    "pixels": [
+      128,
+      128
+    ],
+    "method": "image_gen",
+    "prompt": "One isolated original 2D isometric farm game sprite on genuinely transparent alpha, no scenery or tile. Match attached existing 10/22 sprites exactly in rendering: warm hand-painted muted pastels, firm chocolate outline #4a2f1d, top-left light, simple matte shapes. Map screenshot is context only. Three-quarter view with 2:1 iso ground axes. Object fully in frame, centered, visible at small game size. No text, watermark, ambient ground, outer glow, or long shadow. One small cute cream-white farm duck standing in three-quarter view facing right. Two tiny muted orange webbed feet, soft cream belly, short orange bill, one dark brown eye, one folded wing, simple silhouette. No water or puddle. Preserve this same design for later swim pose. Intended final canvas 128 by 128.",
+    "reference": "sheep/_reference_idle.png"
+  },
+  {
+    "path": "animal/duck_swim.png",
+    "pixels": [
+      128,
+      128
+    ],
+    "method": "image_gen",
+    "prompt": "Edit the supplied isolated duck sprite into the SAME exact game duck floating in a pond, facing exactly the same direction and keeping original shape, face, crest, folded wing, orange bill, cream colours, thick brown outline, upper-left lighting, and proportions. Remove only the two orange feet, replaced by a short tight pale blue ripple immediately under the lower belly where it meets water. The duck body must remain much wider than any small ripple extension. No pond, no oval water background, no scene, no text. True transparent alpha. Single character, 128x128 final asset.",
+    "reference": "animal/duck_idle.png"
+  },
+  {
+    "path": "terrain/island_grow_sign.png",
+    "pixels": [
+      160,
+      192
+    ],
+    "method": "image_gen",
+    "prompt": "One isolated original 2D isometric farm game sprite on genuinely transparent alpha, no scenery or tile. Match attached existing 10/22 sprites exactly in rendering: warm hand-painted muted pastels, firm chocolate outline #4a2f1d, top-left light, simple matte shapes. Map screenshot is context only. Three-quarter view with 2:1 iso ground axes. Object fully in frame, centered, visible at small game size. No text, watermark, ambient ground, outer glow, or long shadow. A short handbuilt wooden sign with its own survey stake and a small carved pale shovel plus tiny upward chevron symbol, no written characters and NO gold coin. Visibly distinct from the referenced land purchase sign, using a narrow vertical irregular timber board rather than a horizontal wide plank. Intended final canvas 160 by 192.",
+    "reference": "terrain/land_sale_sign.png"
+  },
+  {
+    "path": "deco/tree_big.png",
+    "pixels": [
+      384,
+      448
+    ],
+    "method": "image_gen",
+    "prompt": "One isolated original 2D isometric farm game sprite on genuinely transparent alpha, no scenery or tile. Match attached existing 10/22 sprites exactly in rendering: warm hand-painted muted pastels, firm chocolate outline #4a2f1d, top-left light, simple matte shapes. Map screenshot is context only. Three-quarter view with 2:1 iso ground axes. Object fully in frame, centered, visible at small game size. No text, watermark, ambient ground, outer glow, or long shadow. Large mature rounded deciduous oak in same style as reference. A wide crown of several broad clusters in muted olive spring greens, branching sturdy trunk and visible roots. Fuller and older than reference tree, harmonious colors, no fruit. Sprite almost fills canvas vertically. Intended final canvas 384 by 448.",
+    "reference": "deco/tree_round.png"
+  },
+  {
+    "path": "deco/hill_small.png",
+    "pixels": [
+      384,
+      224
+    ],
+    "method": "image_gen",
+    "prompt": "One isolated original 2D isometric farm game sprite on genuinely transparent alpha, no scenery or tile. Match attached existing 10/22 sprites exactly in rendering: warm hand-painted muted pastels, firm chocolate outline #4a2f1d, top-left light, simple matte shapes. Map screenshot is context only. Three-quarter view with 2:1 iso ground axes. Object fully in frame, centered, visible at small game size. No text, watermark, ambient ground, outer glow, or long shadow. A low broad gently sloping grassy knoll, soft rounded plateau wide enough for a sheep, 2:1 isometric footprint. Same light olive grass as existing map, a little visible warm soil and stone only on lower face, no plants and no grass tile beneath it. No tall cliff or platform. Intended final canvas 384 by 224.",
+    "reference": "deco/tree_round.png"
+  },
+  {
+    "path": "deco/rock_cliff.png",
+    "pixels": [
+      320,
+      256
+    ],
+    "method": "image_gen",
+    "prompt": "One isolated original 2D isometric farm game sprite on genuinely transparent alpha, no scenery or tile. Match attached existing 10/22 sprites exactly in rendering: warm hand-painted muted pastels, firm chocolate outline #4a2f1d, top-left light, simple matte shapes. Map screenshot is context only. Three-quarter view with 2:1 iso ground axes. Object fully in frame, centered, visible at small game size. No text, watermark, ambient ground, outer glow, or long shadow. One large angular weathered warm grey-brown boulder outcrop for the island edge, with a few broad ledges and restrained olive moss on top. Grounded broad silhouette, not a tall spire, no other stones spread out beyond its compact base. Intended final canvas 320 by 256.",
+    "reference": "deco/rock_small.png"
+  }
+]
