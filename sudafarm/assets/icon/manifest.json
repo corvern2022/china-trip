@@ -1266,5 +1266,175 @@
       64,
       64
     ]
+  },
+  "event_weekend.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "event_collect.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "event_festival.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "event_merchant.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "clover.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "attend_calendar.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "weekly_goal.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "mastery_1.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "mastery_2.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "mastery_3.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "title_ribbon.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "book_reward.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "golden_seed.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "honor_box.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "shooting_star.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "legend_shard.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "birthday.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
   }
 }

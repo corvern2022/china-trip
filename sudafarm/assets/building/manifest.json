@@ -469,5 +469,45 @@
       192,
       378
     ]
+  },
+  "landmark_pavilion.png": {
+    "pixels": [
+      512,
+      512
+    ],
+    "anchor_pixels": [
+      256,
+      506
+    ]
+  },
+  "landmark_playground.png": {
+    "pixels": [
+      512,
+      512
+    ],
+    "anchor_pixels": [
+      256,
+      506
+    ]
+  },
+  "landmark_observatory.png": {
+    "pixels": [
+      512,
+      512
+    ],
+    "anchor_pixels": [
+      256,
+      506
+    ]
+  },
+  "landmark_site.png": {
+    "pixels": [
+      384,
+      256
+    ],
+    "anchor_pixels": [
+      192,
+      250
+    ]
   }
 }

@@ -546,5 +546,25 @@
       80,
       80
     ]
+  },
+  "npc_merchant.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "face_npc_merchant.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
   }
 }

@@ -258,5 +258,61 @@
       128,
       250
     ]
+  },
+  "acc_mint.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "attachment_pixels": [
+      184,
+      70
+    ]
+  },
+  "acc_moon.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "attachment_pixels": [
+      184,
+      70
+    ]
+  },
+  "acc_sunset.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "attachment_pixels": [
+      175,
+      181
+    ]
+  },
+  "acc_ribbon.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "attachment_pixels": [
+      184,
+      70
+    ]
   }
 }

@@ -178,5 +178,33 @@
       128,
       314
     ]
+  },
+  "acc_cottoncandy.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "attachment_pixels": [
+      180,
+      46
+    ]
+  },
+  "acc_stardust.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "attachment_pixels": [
+      181,
+      47
+    ]
   }
 }

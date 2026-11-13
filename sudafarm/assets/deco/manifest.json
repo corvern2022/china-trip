@@ -592,5 +592,303 @@
       192,
       378
     ]
+  },
+  "merchant_cart.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ]
+  },
+  "deco_family_board.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco_flower_path.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      128
+    ],
+    "top_vertices": [
+      [
+        128,
+        64
+      ],
+      [
+        255,
+        128
+      ],
+      [
+        128,
+        191
+      ],
+      [
+        0,
+        128
+      ]
+    ]
+  },
+  "deco_star_lamp.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "festival_spring_garland.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ]
+  },
+  "fest_spring_1.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "fest_spring_2.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "festival_summer_garland.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ]
+  },
+  "fest_summer_1.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "fest_summer_2.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "festival_autumn_garland.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ]
+  },
+  "fest_autumn_1.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "fest_autumn_2.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "festival_winter_garland.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ]
+  },
+  "fest_winter_1.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "fest_winter_2.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "month_01.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "month_02.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "month_03.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "month_04.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "month_05.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "month_06.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "month_07.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "month_08.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "month_09.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "month_10.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "month_11.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "month_12.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
   }
 }

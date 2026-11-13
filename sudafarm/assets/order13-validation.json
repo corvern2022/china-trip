@@ -1,0 +1,648 @@
+{
+  "icon/event_weekend.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "icon/event_collect.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "icon/event_festival.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "icon/event_merchant.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "icon/clover.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "icon/attend_calendar.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "icon/weekly_goal.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "icon/mastery_1.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "icon/mastery_2.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "icon/mastery_3.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "icon/title_ribbon.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "icon/book_reward.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "icon/golden_seed.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "icon/honor_box.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "icon/shooting_star.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "icon/legend_shard.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "icon/birthday.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "ui/attend/board_month.png": {
+    "pixels": [
+      640,
+      720
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      52,
+      52,
+      52,
+      52
+    ],
+    "min_pixels": [
+      105,
+      105
+    ],
+    "grid": {
+      "cols": 7,
+      "rows": 4,
+      "slot_pixels": 68,
+      "gap_pixels": 8,
+      "top_left": [
+        58,
+        172
+      ]
+    }
+  },
+  "building/landmark_pavilion.png": {
+    "pixels": [
+      512,
+      512
+    ],
+    "anchor_pixels": [
+      256,
+      506
+    ]
+  },
+  "building/landmark_playground.png": {
+    "pixels": [
+      512,
+      512
+    ],
+    "anchor_pixels": [
+      256,
+      506
+    ]
+  },
+  "building/landmark_observatory.png": {
+    "pixels": [
+      512,
+      512
+    ],
+    "anchor_pixels": [
+      256,
+      506
+    ]
+  },
+  "building/landmark_site.png": {
+    "pixels": [
+      384,
+      256
+    ],
+    "anchor_pixels": [
+      192,
+      250
+    ]
+  },
+  "sheep/acc_mint.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "attachment_pixels": [
+      184,
+      70
+    ]
+  },
+  "alpaca/acc_cottoncandy.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "attachment_pixels": [
+      180,
+      46
+    ]
+  },
+  "sheep/acc_moon.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "attachment_pixels": [
+      184,
+      70
+    ]
+  },
+  "sheep/acc_sunset.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "attachment_pixels": [
+      175,
+      181
+    ]
+  },
+  "alpaca/acc_stardust.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "attachment_pixels": [
+      181,
+      47
+    ]
+  },
+  "portrait/npc_merchant.png": {
+    "pixels": [
+      768,
+      768
+    ],
+    "anchor_pixels": [
+      384,
+      756
+    ]
+  },
+  "portrait/face_npc_merchant.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "anchor_pixels": [
+      80,
+      80
+    ]
+  },
+  "deco/merchant_cart.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ]
+  },
+  "deco/deco_family_board.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/deco_flower_path.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      128
+    ],
+    "top_vertices": [
+      [
+        128,
+        64
+      ],
+      [
+        255,
+        128
+      ],
+      [
+        128,
+        191
+      ],
+      [
+        0,
+        128
+      ]
+    ]
+  },
+  "deco/deco_star_lamp.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "sheep/acc_ribbon.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ],
+    "attachment_pixels": [
+      184,
+      70
+    ]
+  },
+  "deco/festival_spring_garland.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ]
+  },
+  "deco/fest_spring_1.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/fest_spring_2.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/festival_summer_garland.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ]
+  },
+  "deco/fest_summer_1.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/fest_summer_2.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/festival_autumn_garland.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ]
+  },
+  "deco/fest_autumn_1.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/fest_autumn_2.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/festival_winter_garland.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ]
+  },
+  "deco/fest_winter_1.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/fest_winter_2.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/month_01.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/month_02.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/month_03.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/month_04.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/month_05.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/month_06.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/month_07.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/month_08.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/month_09.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/month_10.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/month_11.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco/month_12.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  }
+}

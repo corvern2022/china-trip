@@ -1,0 +1,282 @@
+[
+  {
+    "file": "building/landmark_pavilion.png",
+    "w": 512,
+    "h": 512,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a wooden open-sided conversation gazebo, curved terracotta tiled roof, low floor, two visible colorful cushions inside",
+    "ref": "building/house_3.png"
+  },
+  {
+    "file": "building/landmark_playground.png",
+    "w": 512,
+    "h": 512,
+    "prompt": "A single original cozy isometric farming game playground sprite on true transparent background. Exactly TWO pieces of equipment, both large enough to identify clearly: on the LEFT, a real working wooden seesaw, a long straight beam across a triangular CENTRAL pivot, seats at both far ends, one raised and one lowered; on the RIGHT, a separate short red slide with a ladder. No clubhouse, sandbox, toys, or other equipment. A compact low wood-chip oval just beneath their bases. Warm muted hand-painted pastel colors, chocolate brown #4a2f1d outlines, top-left lighting, 10/22 game style matching the wooden bridge reference, fully inside the frame with transparent margin, no letters.",
+    "ref": "deco/deco_bridge.png"
+  },
+  {
+    "file": "building/landmark_observatory.png",
+    "w": 512,
+    "h": 512,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a compact little observatory with a muted indigo dome partially open, one brass telescope pointed skyward, cream stone foundation and warm wood door",
+    "ref": "building/house_3.png"
+  },
+  {
+    "file": "building/landmark_site.png",
+    "w": 384,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a vacant isometric construction site marker, four short wooden stakes and slack rope around an empty flat patch of brown earth, no building and no tools",
+    "ref": "building/fence_x.png"
+  },
+  {
+    "file": "sheep/acc_mint.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. two simple paired mint leaves as a tiny head pin, detached accessory only, no sheep",
+    "ref": "sheep/acc_flower.png"
+  },
+  {
+    "file": "alpaca/acc_cottoncandy.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. tiny pastel pink cotton candy tuft as a small fur accessory, soft rounded silhouette, no cone, no alpaca",
+    "ref": "sheep/acc_flower.png"
+  },
+  {
+    "file": "sheep/acc_moon.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. one little golden crescent-moon hairpin, detached accessory only, no animal",
+    "ref": "sheep/acc_flower.png"
+  },
+  {
+    "file": "sheep/acc_sunset.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. one small terracotta orange scarf tied with a compact knot and two short tails, detached wearable accessory, no animal",
+    "ref": "sheep/acc_flower.png"
+  },
+  {
+    "file": "alpaca/acc_stardust.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. one little gold headband crown with three clear five-point stars, detached accessory, no animal",
+    "ref": "sheep/acc_flower.png"
+  },
+  {
+    "file": "portrait/npc_merchant.png",
+    "w": 768,
+    "h": 768,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. original friendly raccoon traveling merchant bust, gray fur and mask, moss green vest with warm rust neckerchief and a tan bindle carried over one shoulder. Warm friendly eyes, no videogame character imitation",
+    "ref": "portrait/npc_quest_1.png"
+  },
+  {
+    "file": "portrait/face_npc_merchant.png",
+    "w": 160,
+    "h": 160,
+    "prompt": "Use the exact raccoon merchant from the attached image. A head-only game conversation avatar of the same gray raccoon, same eye shape, brows, large round ears, side swept tuft, dark mask, tan cheeks, chestnut outline, warm top-left light and friendly smile. Maintain its personality and exact 3/4 angle. No neck, body, clothes, bag, stick, text, tile or frame. Single isolated complete head with margin and genuine transparent alpha. Strong silhouette at 48px.",
+    "ref": "portrait/npc_merchant.png"
+  },
+  {
+    "file": "deco/merchant_cart.png",
+    "w": 384,
+    "h": 384,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a short traveling wooden merchant pushcart with two visible wheels and a warm moss-green fabric canopy, one tan bundle and a closed wooden box inside. No character",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/deco_family_board.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a freestanding little wooden family photo board displaying three framed tiny portraits of curly sheep, no letters or numbers",
+    "ref": "sheep/_reference_idle.png"
+  },
+  {
+    "file": "deco/deco_flower_path.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. one repeatable 2:1 isometric diamond path tile. Pale cream packed path uninterrupted edge to edge along the downward-right axis; very low pink blossoms along the sides, no flowers on join ends; simple repeatable uniform finish",
+    "ref": "deco/flowerbed.png"
+  },
+  {
+    "file": "deco/deco_star_lamp.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a little slim warm wooden garden lamppost with a five-point golden star lantern at its top and a compact stone base",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "sheep/acc_ribbon.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. one small pink fabric bow with short ends, detached accessory only, no animal",
+    "ref": "sheep/acc_flower.png"
+  },
+  {
+    "file": "deco/festival_spring_garland.png",
+    "w": 512,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. one short horizontally strung decorative bunting garland in pale pink cherry blossom and cream, light sag, exactly two clean end tie points, no mounting posts or background",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/fest_spring_1.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a wooden flower cart overflowing with soft pink blossoms",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/fest_spring_2.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a hanging cherry blossom paper lantern on a small wooden stand",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/festival_summer_garland.png",
+    "w": 512,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. one short horizontally strung decorative bunting garland in teal, lemon yellow and peach, light sag, exactly two clean end tie points, no mounting posts or background",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/fest_summer_1.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a short watermelon-themed wood picnic platform with a slice motif",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/fest_summer_2.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a small round wooden splash tub with pale blue water and tiny float",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/festival_autumn_garland.png",
+    "w": 512,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. one short horizontally strung decorative bunting garland in rust, ochre and muted gold, light sag, exactly two clean end tie points, no mounting posts or background",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/fest_autumn_1.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a compact pile of three orange pumpkins and one pale gourd",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/fest_autumn_2.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a friendly pair of small farm scarecrows, with straw hats and warm scarves",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/festival_winter_garland.png",
+    "w": 512,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. one short horizontally strung decorative bunting garland in soft blue, cream and holly red, light sag, exactly two clean end tie points, no mounting posts or background",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/fest_winter_1.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a cute sheep-shaped snowman sculpture with a little scarf",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/fest_winter_2.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a low outdoor wood-and-stone winter stove with amber glow",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/month_01.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a honey wooden mailbox with a fluffy snow cap and tiny holly leaves",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/month_02.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a cluster of three pink heart-shaped balloons tied to a low stake",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/month_03.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a tidy tower of three small terracotta pots with green seedlings",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/month_04.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a wooden bench with a small cherry blossom branch arching over it",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/month_05.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. one bright pastel pinwheel on a short planted wooden stake",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/month_06.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. one tiny stone pond with a cute green frog sitting on its rim",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/month_07.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a small watermelon-patterned garden parasol, single pole and stone base",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/month_08.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a short wood fence segment with three big yellow sunflowers along it",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/month_09.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a glowing rabbit-shaped paper lantern on a small autumn garden stand",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/month_10.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. one carved orange pumpkin lantern with gentle smiling cutouts",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/month_11.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a low compact pile of muted orange and gold fallen leaves",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/month_12.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original isolated hand-painted 2D sprite for this exact cozy 10/22 farming game. Match reference's thick chocolate-brown #4a2f1d outlines, muted warm pastels, top-left light, simple matte shapes and isometric 2:1 ground. Genuine transparent alpha. Entire artwork inside frame, no text, no backdrop, no border, no long shadow. a little evergreen tree with scattered small warm golden twinkles and simple red ornaments",
+    "ref": "deco/deco_bench.png"
+  }
+]

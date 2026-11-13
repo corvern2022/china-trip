@@ -92,5 +92,39 @@
       64,
       122
     ]
+  },
+  "board_month.png": {
+    "pixels": [
+      640,
+      720
+    ],
+    "pivot": [
+      0,
+      0
+    ],
+    "anchor_pixels": [
+      0,
+      0
+    ],
+    "slice_trbl": [
+      52,
+      52,
+      52,
+      52
+    ],
+    "min_pixels": [
+      105,
+      105
+    ],
+    "grid": {
+      "cols": 7,
+      "rows": 4,
+      "slot_pixels": 68,
+      "gap_pixels": 8,
+      "top_left": [
+        58,
+        172
+      ]
+    }
   }
 }
