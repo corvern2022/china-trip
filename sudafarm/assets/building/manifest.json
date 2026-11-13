@@ -427,5 +427,47 @@
       186
     ],
     "source": "crops/fence_post.png"
+  },
+  "house_4.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "pivot": [
+      192,
+      378
+    ]
+  },
+  "house_5.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "pivot": [
+      192,
+      378
+    ]
+  },
+  "house_6.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "pivot": [
+      192,
+      378
+    ]
   }
 }

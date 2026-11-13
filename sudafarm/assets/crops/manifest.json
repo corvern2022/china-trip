@@ -692,5 +692,255 @@
       250
     ],
     "usage": "wilted crop, same canvas as _3ripe; root anchor"
+  },
+  "pumpkin_3ripe.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "grape_3ripe.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "blueberry_3ripe.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "peach_3ripe.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "star_bean_3ripe.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "pumpkin_1sprout.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "pumpkin_2grow.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "pumpkin_4wilt.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "pumpkin_4dead.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "grape_1sprout.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "grape_2grow.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "grape_4wilt.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "grape_4dead.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "blueberry_1sprout.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "blueberry_2grow.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "blueberry_4wilt.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "blueberry_4dead.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "peach_1sprout.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "peach_2grow.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "peach_4wilt.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "peach_4dead.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "star_bean_1sprout.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "star_bean_2grow.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "star_bean_4wilt.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "star_bean_4dead.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
   }
 }

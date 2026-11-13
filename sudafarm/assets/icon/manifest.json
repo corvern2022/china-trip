@@ -1186,5 +1186,85 @@
       64
     ],
     "usage": "centered UI icon"
+  },
+  "crop_pumpkin.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "crop_grape.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "crop_blueberry.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "crop_peach.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "crop_star_bean.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "env_fence.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "env_flowerbed.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
+  },
+  "env_duck.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ]
   }
 }

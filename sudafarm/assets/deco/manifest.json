@@ -512,5 +512,85 @@
       160,
       251
     ]
+  },
+  "deco_flower_arch.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco_fountain.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ]
+  },
+  "deco_bridge.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco_sheep_statue.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco_treehouse.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ]
+  },
+  "deco_balloon.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ]
+  },
+  "deco_stone_tower.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "anchor_pixels": [
+      128,
+      250
+    ]
+  },
+  "deco_rainbow_gate.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ]
   }
 }

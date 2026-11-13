@@ -1,0 +1,546 @@
+{
+  "required_count": 45,
+  "optional_count": 1,
+  "entries": {
+    "building/house_4.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "anchor_pixels": [
+        192,
+        378
+      ],
+      "pivot": [
+        192,
+        378
+      ]
+    },
+    "building/house_5.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "anchor_pixels": [
+        192,
+        378
+      ],
+      "pivot": [
+        192,
+        378
+      ]
+    },
+    "building/house_6.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "anchor_pixels": [
+        192,
+        378
+      ],
+      "pivot": [
+        192,
+        378
+      ]
+    },
+    "crops/pumpkin_3ripe.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/grape_3ripe.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/blueberry_3ripe.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/peach_3ripe.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/star_bean_3ripe.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/pumpkin_1sprout.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/pumpkin_2grow.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/pumpkin_4wilt.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/pumpkin_4dead.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "icon/crop_pumpkin.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "anchor_pixels": [
+        64,
+        64
+      ]
+    },
+    "crops/grape_1sprout.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/grape_2grow.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/grape_4wilt.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/grape_4dead.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "icon/crop_grape.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "anchor_pixels": [
+        64,
+        64
+      ]
+    },
+    "crops/blueberry_1sprout.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/blueberry_2grow.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/blueberry_4wilt.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/blueberry_4dead.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "icon/crop_blueberry.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "anchor_pixels": [
+        64,
+        64
+      ]
+    },
+    "crops/peach_1sprout.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/peach_2grow.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/peach_4wilt.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/peach_4dead.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "icon/crop_peach.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "anchor_pixels": [
+        64,
+        64
+      ]
+    },
+    "crops/star_bean_1sprout.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/star_bean_2grow.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/star_bean_4wilt.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "crops/star_bean_4dead.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "icon/crop_star_bean.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "anchor_pixels": [
+        64,
+        64
+      ]
+    },
+    "deco/deco_flower_arch.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "deco/deco_fountain.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "anchor_pixels": [
+        192,
+        378
+      ]
+    },
+    "deco/deco_bridge.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "deco/deco_sheep_statue.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "deco/deco_treehouse.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "anchor_pixels": [
+        192,
+        378
+      ]
+    },
+    "deco/deco_balloon.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "anchor_pixels": [
+        192,
+        378
+      ]
+    },
+    "deco/deco_stone_tower.png": {
+      "pixels": [
+        256,
+        256
+      ],
+      "anchor_pixels": [
+        128,
+        250
+      ]
+    },
+    "deco/deco_rainbow_gate.png": {
+      "pixels": [
+        384,
+        384
+      ],
+      "anchor_pixels": [
+        192,
+        378
+      ]
+    },
+    "icon/env_fence.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "anchor_pixels": [
+        64,
+        64
+      ]
+    },
+    "icon/env_flowerbed.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "anchor_pixels": [
+        64,
+        64
+      ]
+    },
+    "icon/env_duck.png": {
+      "pixels": [
+        128,
+        128
+      ],
+      "anchor_pixels": [
+        64,
+        64
+      ]
+    },
+    "brand/feature_graphic.png": {
+      "pixels": [
+        1024,
+        500
+      ]
+    },
+    "fx/clear_puff_sheet.png": {
+      "sheet": "clear_puff_sheet.png",
+      "frame_pixels": [
+        256,
+        256
+      ],
+      "frame_count": 6,
+      "anchor_pixels": [
+        128,
+        128
+      ],
+      "durations_ms": [
+        60,
+        70,
+        80,
+        90,
+        100,
+        100
+      ],
+      "loop": false,
+      "frames": [
+        {
+          "file": "clear_puff_sheet.png",
+          "rect": [
+            0,
+            0,
+            256,
+            256
+          ]
+        },
+        {
+          "file": "clear_puff_sheet.png",
+          "rect": [
+            256,
+            0,
+            256,
+            256
+          ]
+        },
+        {
+          "file": "clear_puff_sheet.png",
+          "rect": [
+            512,
+            0,
+            256,
+            256
+          ]
+        },
+        {
+          "file": "clear_puff_sheet.png",
+          "rect": [
+            768,
+            0,
+            256,
+            256
+          ]
+        },
+        {
+          "file": "clear_puff_sheet.png",
+          "rect": [
+            1024,
+            0,
+            256,
+            256
+          ]
+        },
+        {
+          "file": "clear_puff_sheet.png",
+          "rect": [
+            1280,
+            0,
+            256,
+            256
+          ]
+        }
+      ]
+    }
+  },
+  "reviews": [
+    "_order12_houses.png",
+    "_order12_crops.png",
+    "_order12_deco.png"
+  ]
+}

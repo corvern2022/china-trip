@@ -837,5 +837,82 @@
       116
     ],
     "usage": "non-animated illness status bubble; bottom tail above sheep"
+  },
+  "clear_puff": {
+    "sheet": "clear_puff_sheet.png",
+    "frame_pixels": [
+      256,
+      256
+    ],
+    "frame_count": 6,
+    "anchor_pixels": [
+      128,
+      128
+    ],
+    "durations_ms": [
+      60,
+      70,
+      80,
+      90,
+      100,
+      100
+    ],
+    "loop": false,
+    "frames": [
+      {
+        "file": "clear_puff_sheet.png",
+        "rect": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "clear_puff_sheet.png",
+        "rect": [
+          256,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "clear_puff_sheet.png",
+        "rect": [
+          512,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "clear_puff_sheet.png",
+        "rect": [
+          768,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "clear_puff_sheet.png",
+        "rect": [
+          1024,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "file": "clear_puff_sheet.png",
+        "rect": [
+          1280,
+          0,
+          256,
+          256
+        ]
+      }
+    ]
   }
 }

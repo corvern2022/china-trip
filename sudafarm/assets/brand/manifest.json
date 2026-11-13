@@ -70,5 +70,11 @@
       0
     ],
     "opaque": true
+  },
+  "feature_graphic.png": {
+    "pixels": [
+      1024,
+      500
+    ]
   }
 }

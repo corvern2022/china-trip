@@ -1,0 +1,401 @@
+[
+  {
+    "file": "building/house_4.png",
+    "w": 384,
+    "h": 384,
+    "prompt": "One single original 2D sprite for this exact hand-painted casual isometric farming game. Follow attached source art for outline #4a2f1d, warm pastels, top-left light, smooth shapes. No backdrop, lettering, border or ground tile. Genuine transparent background. Leave clear padding all sides. Upgrade the referenced sheep house one modest step. Preserve the open arched front entrance, exact three-quarter facing, wood, terracotta tile and stone material. Slightly wider with one compact chimney. No grounds or sheep.",
+    "ref": "building/house_3.png"
+  },
+  {
+    "file": "building/house_5.png",
+    "w": 384,
+    "h": 384,
+    "prompt": "One single original 2D sprite for this exact hand-painted casual isometric farming game. Follow attached source art for outline #4a2f1d, warm pastels, top-left light, smooth shapes. No backdrop, lettering, border or ground tile. Genuine transparent background. Leave clear padding all sides. Upgrade the referenced sheep house two steps, same facing, terracotta roof and prominent arched entry. Add a small upstairs dormer window and a tiny two-rail fenced yard close to the building front. Compact footprint, moderate size increase. No sheep, floating objects or grass tile.",
+    "ref": "building/house_3.png"
+  },
+  {
+    "file": "building/house_6.png",
+    "w": 384,
+    "h": 384,
+    "prompt": "One single original 2D sprite for this exact hand-painted casual isometric farming game. Follow attached source art for outline #4a2f1d, warm pastels, top-left light, smooth shapes. No backdrop, lettering, border or ground tile. Genuine transparent background. Leave clear padding all sides. Final tier of attached sheep house. A handsome slightly wider timber barn with familiar red tile roof, generous arched entrance, modest loft, one readable roof weather vane and one or two small flower pots beside entry. Retain exact isometric orientation and modest footprint. No sheep.",
+    "ref": "building/house_3.png"
+  },
+  {
+    "file": "crops/pumpkin_3ripe.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original 2D game sprite, isolated on transparent alpha, no labels, scene, tiles, framing, typography or long cast shadow. Match source art's warm hand-painted muted pastel palette, thick chocolate brown #4a2f1d outlines and soft top-left light. Use its three-quarter isometric orientation. Fully ripe crop of one round ribbed orange pumpkin and wide lobed green leaves on low vines. One clear mature silhouette, visibly ready to harvest. Ground contact at bottom centre.",
+    "ref": "crops/carrot_3ripe.png"
+  },
+  {
+    "file": "crops/grape_3ripe.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original 2D game sprite, isolated on transparent alpha, no labels, scene, tiles, framing, typography or long cast shadow. Match source art's warm hand-painted muted pastel palette, thick chocolate brown #4a2f1d outlines and soft top-left light. Use its three-quarter isometric orientation. Fully ripe crop of purple grape bunches on a compact low wood trellis with lobed vine leaves. One clear mature silhouette, visibly ready to harvest. Ground contact at bottom centre.",
+    "ref": "crops/carrot_3ripe.png"
+  },
+  {
+    "file": "crops/blueberry_3ripe.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original 2D game sprite, isolated on transparent alpha, no labels, scene, tiles, framing, typography or long cast shadow. Match source art's warm hand-painted muted pastel palette, thick chocolate brown #4a2f1d outlines and soft top-left light. Use its three-quarter isometric orientation. Fully ripe crop of a compact round shrub with smooth oval leaves and dusty blue berries. One clear mature silhouette, visibly ready to harvest. Ground contact at bottom centre.",
+    "ref": "crops/carrot_3ripe.png"
+  },
+  {
+    "file": "crops/peach_3ripe.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original 2D game sprite, isolated on transparent alpha, no labels, scene, tiles, framing, typography or long cast shadow. Match source art's warm hand-painted muted pastel palette, thick chocolate brown #4a2f1d outlines and soft top-left light. Use its three-quarter isometric orientation. Fully ripe crop of a very small peach sapling with a thin trunk, lanceolate leaves and pink peaches. One clear mature silhouette, visibly ready to harvest. Ground contact at bottom centre.",
+    "ref": "crops/carrot_3ripe.png"
+  },
+  {
+    "file": "crops/star_bean_3ripe.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One original 2D game sprite, isolated on transparent alpha, no labels, scene, tiles, framing, typography or long cast shadow. Match source art's warm hand-painted muted pastel palette, thick chocolate brown #4a2f1d outlines and soft top-left light. Use its three-quarter isometric orientation. Fully ripe crop of a compact fantasy bean plant with rounded green leaves and clearly five-pointed golden star-shaped seed pods. One clear mature silhouette, visibly ready to harvest. Ground contact at bottom centre.",
+    "ref": "crops/carrot_3ripe.png"
+  },
+  {
+    "file": "crops/pumpkin_1sprout.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Create one tiny first-stage pumpkin seedling sprite on transparent alpha, match the provided reference's warm farming game watercolor with dark brown outlines. Two broad green oval cotyledons, one tiny young lobed green leaf and a very short green stem. This plant has just germinated. Zero pumpkins, zero fruits or round orange shapes, no soil clump, no seed shell, no flowers, no text, no shadow. Centered base, full object inside safe transparent margins.",
+    "ref": "crops/carrot_1sprout.png"
+  },
+  {
+    "file": "crops/pumpkin_2grow.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Middle growth, one small pale-green pumpkin bud amid wide lobed leaves. Unripe and visibly smaller than ripe reference. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Ground contact centered.",
+    "ref": [
+      "crops/pumpkin_3ripe.png",
+      "crops/carrot_2grow.png"
+    ]
+  },
+  {
+    "file": "crops/pumpkin_4wilt.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Withered but still unpicked. Keep the original fruit or pods present and recognizable, faded, with bowed stems and drooping yellow-ochre leaves. Preserve plant species and construction from first reference. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Ground contact centered.",
+    "ref": [
+      "crops/pumpkin_3ripe.png",
+      "crops/carrot_4wilt.png"
+    ]
+  },
+  {
+    "file": "crops/pumpkin_4dead.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Post-eating remains of the first reference crop. Show a cut hollow orange pumpkin rind with several broken vine ends and two limp lobed leaves. This stage must read as eaten: reduced broken plant silhouette, flattened leaves and no intact ripe produce. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Ground contact centered.",
+    "ref": [
+      "crops/pumpkin_3ripe.png",
+      "crops/carrot_4dead.png"
+    ]
+  },
+  {
+    "file": "icon/crop_pumpkin.png",
+    "w": 128,
+    "h": 128,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Inventory icon of one squat ribbed orange pumpkin with its short green stalk and one lobed leaf. Show only the harvested produce, strong recognizable shape at 24px. Not the whole growing plant. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Centered icon.",
+    "ref": [
+      "crops/pumpkin_3ripe.png",
+      "icon/crop_rainbow_berry.png"
+    ]
+  },
+  {
+    "file": "crops/grape_1sprout.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Earliest growth. A small sprout of purple grape bunches on a low wood trellis, with just two or three characteristic baby leaves and a short stem or tendril; no fruit, no mature foliage. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Ground contact centered.",
+    "ref": [
+      "crops/grape_3ripe.png",
+      "crops/carrot_1sprout.png"
+    ]
+  },
+  {
+    "file": "crops/grape_2grow.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Middle growth, a low two-post trellis with young vine leaves and tiny green immature grape clusters. Unripe and visibly smaller than ripe reference. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Ground contact centered.",
+    "ref": [
+      "crops/grape_3ripe.png",
+      "crops/carrot_2grow.png"
+    ]
+  },
+  {
+    "file": "crops/grape_4wilt.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Withered but still unpicked. Keep the original fruit or pods present and recognizable, faded, with bowed stems and drooping yellow-ochre leaves. Preserve plant species and construction from first reference. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Ground contact centered.",
+    "ref": [
+      "crops/grape_3ripe.png",
+      "crops/carrot_4wilt.png"
+    ]
+  },
+  {
+    "file": "crops/grape_4dead.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Post-eating remains of the first reference crop. Show an emptied low trellis with snapped curled stems and a few wilted leaves, all fruit picked away. This stage must read as eaten: reduced broken plant silhouette, flattened leaves and no intact ripe produce. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Ground contact centered.",
+    "ref": [
+      "crops/grape_3ripe.png",
+      "crops/carrot_4dead.png"
+    ]
+  },
+  {
+    "file": "icon/crop_grape.png",
+    "w": 128,
+    "h": 128,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Inventory icon of one rich purple grape bunch with a single lobed green leaf. Show only the harvested produce, strong recognizable shape at 24px. Not the whole growing plant. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Centered icon.",
+    "ref": [
+      "crops/grape_3ripe.png",
+      "icon/crop_rainbow_berry.png"
+    ]
+  },
+  {
+    "file": "crops/blueberry_1sprout.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Earliest growth. A small sprout of oval green leaves on a blueberry bush with dusty blue fruits, with just two or three characteristic baby leaves and a short stem or tendril; no fruit, no mature foliage. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Ground contact centered.",
+    "ref": [
+      "crops/blueberry_3ripe.png",
+      "crops/carrot_1sprout.png"
+    ]
+  },
+  {
+    "file": "crops/blueberry_2grow.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Middle growth, a young round leafy blueberry shrub with two pale green immature berries. Unripe and visibly smaller than ripe reference. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Ground contact centered.",
+    "ref": [
+      "crops/blueberry_3ripe.png",
+      "crops/carrot_2grow.png"
+    ]
+  },
+  {
+    "file": "crops/blueberry_4wilt.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Withered but still unpicked. Keep the original fruit or pods present and recognizable, faded, with bowed stems and drooping yellow-ochre leaves. Preserve plant species and construction from first reference. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Ground contact centered.",
+    "ref": [
+      "crops/blueberry_3ripe.png",
+      "crops/carrot_4wilt.png"
+    ]
+  },
+  {
+    "file": "crops/blueberry_4dead.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Post-eating remains of the first reference crop. Show the same small shrub with sparse snapped branch tips, flattened leaves and no berries. This stage must read as eaten: reduced broken plant silhouette, flattened leaves and no intact ripe produce. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Ground contact centered.",
+    "ref": [
+      "crops/blueberry_3ripe.png",
+      "crops/carrot_4dead.png"
+    ]
+  },
+  {
+    "file": "icon/crop_blueberry.png",
+    "w": 128,
+    "h": 128,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Inventory icon of three large recognizable dusty blue berries with a green leaf. Show only the harvested produce, strong recognizable shape at 24px. Not the whole growing plant. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Centered icon.",
+    "ref": [
+      "crops/blueberry_3ripe.png",
+      "icon/crop_rainbow_berry.png"
+    ]
+  },
+  {
+    "file": "crops/peach_1sprout.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Earliest growth. A small sprout of a very small peach tree with narrow green leaves and pink fruit, with just two or three characteristic baby leaves and a short stem or tendril; no fruit, no mature foliage. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Ground contact centered.",
+    "ref": [
+      "crops/peach_3ripe.png",
+      "crops/carrot_1sprout.png"
+    ]
+  },
+  {
+    "file": "crops/peach_2grow.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Middle growth, a tiny young peach sapling with small green immature peaches. Unripe and visibly smaller than ripe reference. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Ground contact centered.",
+    "ref": [
+      "crops/peach_3ripe.png",
+      "crops/carrot_2grow.png"
+    ]
+  },
+  {
+    "file": "crops/peach_4wilt.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Withered but still unpicked. Keep the original fruit or pods present and recognizable, faded, with bowed stems and drooping yellow-ochre leaves. Preserve plant species and construction from first reference. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Ground contact centered.",
+    "ref": [
+      "crops/peach_3ripe.png",
+      "crops/carrot_4wilt.png"
+    ]
+  },
+  {
+    "file": "crops/peach_4dead.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Post-eating remains of the first reference crop. Show a low broken thin peach sapling with a stub and scattered curled narrow leaves, fruit gone. This stage must read as eaten: reduced broken plant silhouette, flattened leaves and no intact ripe produce. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Ground contact centered.",
+    "ref": [
+      "crops/peach_3ripe.png",
+      "crops/carrot_4dead.png"
+    ]
+  },
+  {
+    "file": "icon/crop_peach.png",
+    "w": 128,
+    "h": 128,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Inventory icon of one pink-blushed peach with one slender green leaf. Show only the harvested produce, strong recognizable shape at 24px. Not the whole growing plant. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Centered icon.",
+    "ref": [
+      "crops/peach_3ripe.png",
+      "icon/crop_rainbow_berry.png"
+    ]
+  },
+  {
+    "file": "crops/star_bean_1sprout.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "One very young bean seedling from a cozy hand-painted farming game. Exactly two smooth rounded green cotyledon leaves, one tiny curled shoot, short green stem. Just germinated, nothing edible visible. Absolutely NO stars, flowers, pods, berries or fruit. Match warm muted pastel colors, #4a2f1d outlines, top-left light and simple 2D sprite style of attached sprout. Transparent alpha, no shadow or tile.",
+    "ref": "crops/carrot_1sprout.png"
+  },
+  {
+    "file": "crops/star_bean_2grow.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Middle growth, young rounded-leaf fantasy bean vine with small pale-green immature five-pointed pods. Unripe and visibly smaller than ripe reference. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Ground contact centered.",
+    "ref": [
+      "crops/star_bean_3ripe.png",
+      "crops/carrot_2grow.png"
+    ]
+  },
+  {
+    "file": "crops/star_bean_4wilt.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Withered but still unpicked. Keep the original fruit or pods present and recognizable, faded, with bowed stems and drooping yellow-ochre leaves. Preserve plant species and construction from first reference. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Ground contact centered.",
+    "ref": [
+      "crops/star_bean_3ripe.png",
+      "crops/carrot_4wilt.png"
+    ]
+  },
+  {
+    "file": "crops/star_bean_4dead.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Post-eating remains of the first reference crop. Show a broken short vine, two split empty five-pointed husks and limp green-brown leaves; no ripe golden pods. This stage must read as eaten: reduced broken plant silhouette, flattened leaves and no intact ripe produce. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Ground contact centered.",
+    "ref": [
+      "crops/star_bean_3ripe.png",
+      "crops/carrot_4dead.png"
+    ]
+  },
+  {
+    "file": "icon/crop_star_bean.png",
+    "w": 128,
+    "h": 128,
+    "prompt": "Original single 2D game sprite for the first reference crop family. Inventory icon of one clearly five-pointed golden star-shaped bean pod with a short stem and round green leaf. Show only the harvested produce, strong recognizable shape at 24px. Not the whole growing plant. The second reference guides the stage or icon size and the existing 10/22 hand-painted farm style. Chocolate brown outline #4a2f1d, warm muted pastels, top-left light. Fully isolated transparent alpha, no tile, soil base, text, outline halos or cast shadow. Keep all edges clear. Centered icon.",
+    "ref": [
+      "crops/star_bean_3ripe.png",
+      "icon/crop_rainbow_berry.png"
+    ]
+  },
+  {
+    "file": "deco/deco_flower_arch.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original 2D hand-painted isometric farm game art in the exact reference's warm pastel style, chocolate brown #4a2f1d outline and light from top left. No words. A compact freestanding wooden garden arch gateway covered by sparse pastel pink and cream blossoms and sage leaves, open walk-through centre, two anchored feet. Isolated, genuine transparent alpha. No background, long shadows or ground tile.",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/deco_fountain.png",
+    "w": 384,
+    "h": 384,
+    "prompt": "Original 2D hand-painted isometric farm game art in the exact reference's warm pastel style, chocolate brown #4a2f1d outline and light from top left. No words. A charming two-tier circular stone garden fountain with round shallow basin, pale cool blue water and one little water jet. Warm grey stone, compact and symmetrical. Isolated, genuine transparent alpha. No background, long shadows or ground tile.",
+    "ref": "deco/deco_windmill.png"
+  },
+  {
+    "file": "deco/deco_bridge.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original 2D hand-painted isometric farm game art in the exact reference's warm pastel style, chocolate brown #4a2f1d outline and light from top left. No words. A short curved wooden footbridge with simple rounded rails, warm honey boards and compact clearly readable isometric shape. No water or terrain beneath it. Isolated, genuine transparent alpha. No background, long shadows or ground tile.",
+    "ref": "deco/deco_bench.png"
+  },
+  {
+    "file": "deco/deco_sheep_statue.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original 2D hand-painted isometric farm game art in the exact reference's warm pastel style, chocolate brown #4a2f1d outline and light from top left. No words. One rounded pale warm-grey stone sculpture of this exact sleepy curly sheep design on a low carved stone plinth, monochrome masonry highlights, unmistakably a statue. Isolated, genuine transparent alpha. No background, long shadows or ground tile.",
+    "ref": "sheep/_reference_idle.png"
+  },
+  {
+    "file": "deco/deco_treehouse.png",
+    "w": 384,
+    "h": 384,
+    "prompt": "Original 2D hand-painted isometric farm game art in the exact reference's warm pastel style, chocolate brown #4a2f1d outline and light from top left. No words. A tiny honey-wood treehouse in one mature rounded olive-green tree, red tile roof, tiny window, neatly fitted ladder down the trunk, compact silhouette and clearly grounded roots. Isolated, genuine transparent alpha. No background, long shadows or ground tile.",
+    "ref": "deco/tree_big.png"
+  },
+  {
+    "file": "deco/deco_balloon.png",
+    "w": 384,
+    "h": 384,
+    "prompt": "Original 2D hand-painted isometric farm game art in the exact reference's warm pastel style, chocolate brown #4a2f1d outline and light from top left. No words. A grounded tethered hot air balloon garden ornament with broad dusty red, cream, and muted ochre fabric gores, small woven basket and two short tie ropes to stakes close to basket. All parts fully visible. Isolated, genuine transparent alpha. No background, long shadows or ground tile.",
+    "ref": "deco/deco_windmill.png"
+  },
+  {
+    "file": "deco/deco_stone_tower.png",
+    "w": 256,
+    "h": 256,
+    "prompt": "Original 2D hand-painted isometric farm game art in the exact reference's warm pastel style, chocolate brown #4a2f1d outline and light from top left. No words. A small sturdy ornamental tower of rounded stacked warm slate stones, subtle moss at base, five diminishing levels, clearly different from a rubble heap. Hand-built and charming. Isolated, genuine transparent alpha. No background, long shadows or ground tile.",
+    "ref": "deco/rock_cliff.png"
+  },
+  {
+    "file": "deco/deco_rainbow_gate.png",
+    "w": 384,
+    "h": 384,
+    "prompt": "Original 2D hand-painted isometric farm game art in the exact reference's warm pastel style, chocolate brown #4a2f1d outline and light from top left. No words. A celebratory freestanding rainbow gateway, clearly walk-through opening, six broad muted pastel enamel bands over a wood arch, two tiny cloud-shaped carved white stone bases. Sculpted garden object. Isolated, genuine transparent alpha. No background, long shadows or ground tile.",
+    "ref": "deco/deco_windmill.png"
+  },
+  {
+    "file": "icon/env_fence.png",
+    "w": 128,
+    "h": 128,
+    "prompt": "Original 2D hand-painted isometric farm game art in the exact reference's warm pastel style, chocolate brown #4a2f1d outline and light from top left. No words. A simplified small UI icon of one exact timber two-rail fence segment from the reference, two posts, clean dark outline, readable at 24px. Isolated, genuine transparent alpha. No background, long shadows or ground tile.",
+    "ref": "building/fence_x.png"
+  },
+  {
+    "file": "icon/env_flowerbed.png",
+    "w": 128,
+    "h": 128,
+    "prompt": "Original 2D hand-painted isometric farm game art in the exact reference's warm pastel style, chocolate brown #4a2f1d outline and light from top left. No words. A simplified small UI icon of this exact small rounded stone-bordered flower bed, pink and buttery cream blossoms, clean dark outline, readable at 24px. Isolated, genuine transparent alpha. No background, long shadows or ground tile.",
+    "ref": "deco/flowerbed.png"
+  },
+  {
+    "file": "icon/env_duck.png",
+    "w": 128,
+    "h": 128,
+    "prompt": "Original 2D hand-painted isometric farm game art in the exact reference's warm pastel style, chocolate brown #4a2f1d outline and light from top left. No words. A simplified small UI icon showing only the head of this exact cream white duck, orange bill and little tuft facing right, clean dark outline, readable at 24px. Isolated, genuine transparent alpha. No background, long shadows or ground tile.",
+    "ref": "animal/duck_idle.png"
+  },
+  {
+    "file": "brand/feature_graphic.png",
+    "w": 1024,
+    "h": 500,
+    "prompt": "Original 2D hand-painted isometric farm game art in the exact reference's warm pastel style, chocolate brown #4a2f1d outline and light from top left. No words. Create a Google Play feature graphic for the attached farm, composition 2.048:1 wide landscape. A compact floating grassy island with timber sheep house and two recognizable original sheep, one pale pink wool and one pale blue wool, both on the RIGHT half. Left 43 percent clean spacious sky gradient in pale sky blue and cream with very restrained clouds, enough empty room to later add logo. Seamless full bleed illustration, preserve coherent warm hand-painted 10/22 art and isometric island shape. All main content inside safe margins. Absolutely no text, logos, symbols, lettering or UI. FULLY OPAQUE.",
+    "ref": "sheep/_reference_idle.png"
+  },
+  {
+    "file": "fx/clear_puff_sheet.png",
+    "w": 1536,
+    "h": 256,
+    "prompt": "Original 2D hand-painted isometric farm game art in the exact reference's warm pastel style, chocolate brown #4a2f1d outline and light from top left. No words. Create a perfectly aligned HORIZONTAL 6-frame game sprite strip, wide 6:1 aspect ratio, six equally sized square cells in one single row. In each cell a self-contained small clearing burst with flying olive green leaves and a few warm beige dust motes, entirely within its cell. Sequence left to right: initial tiny puff, burst, outward leaves, falling leaves, fading dust, tiny final motes. Keep frame centers equally spaced and do not let any artwork cross cell boundaries. Transparent, no borders, no labels, no scene. Isolated, genuine transparent alpha. No background, long shadows or ground tile.",
+    "ref": "fx/dust_sheet.png",
+    "frame_prompts": [
+      "Single isolated frame 1 of a six-frame 2D farming game bush-clearing effect. Show a tiny beige central dust puff and two little leaves just lifting. Small sage and warm olive leaves, pale muted beige dust, subtle painterly outline and top-left light, like supplied original dust sprite. Center the whole effect. Genuine alpha, no ground, no shadows, no borders, no lettering, no other frames.",
+      "Single isolated frame 2 of a six-frame 2D farming game bush-clearing effect. Show a compact energetic rising dust burst and four small leaves. Small sage and warm olive leaves, pale muted beige dust, subtle painterly outline and top-left light, like supplied original dust sprite. Center the whole effect. Genuine alpha, no ground, no shadows, no borders, no lettering, no other frames.",
+      "Three isolated cream dust puffs with five sage leaves, matched to frame 4; no smoke veil or background.",
+      "Single isolated frame 4 of a six-frame 2D farming game bush-clearing effect. Show a loose expanding cluster of five detached leaves with fading small tan dust particles. Small sage and warm olive leaves, pale muted beige dust, subtle painterly outline and top-left light, like supplied original dust sprite. Center the whole effect. Genuine alpha, no ground, no shadows, no borders, no lettering, no other frames.",
+      "Single isolated frame 5 of a six-frame 2D farming game bush-clearing effect. Show four sparse separated falling leaves and two very faint small dust motes. Small sage and warm olive leaves, pale muted beige dust, subtle painterly outline and top-left light, like supplied original dust sprite. Center the whole effect. Genuine alpha, no ground, no shadows, no borders, no lettering, no other frames.",
+      "Single isolated frame 6 of a six-frame 2D farming game bush-clearing effect. Show two tiny drifting leaves and just one faded speck of dust. Small sage and warm olive leaves, pale muted beige dust, subtle painterly outline and top-left light, like supplied original dust sprite. Center the whole effect. Genuine alpha, no ground, no shadows, no borders, no lettering, no other frames."
+    ]
+  }
+]
