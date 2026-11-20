@@ -1,0 +1,271 @@
+{
+  "date": "2026-11-20",
+  "count": 15,
+  "checks": [
+    {
+      "file": "building/home_log.png",
+      "pixels": [
+        384,
+        384
+      ],
+      "anchor_pixels": [
+        192,
+        378
+      ],
+      "content_bounds": {
+        "left": 46,
+        "top": 80,
+        "width": 292,
+        "height": 298
+      }
+    },
+    {
+      "file": "building/home_stone.png",
+      "pixels": [
+        384,
+        384
+      ],
+      "anchor_pixels": [
+        192,
+        378
+      ],
+      "content_bounds": {
+        "left": 29,
+        "top": 60,
+        "width": 326,
+        "height": 318
+      }
+    },
+    {
+      "file": "building/home_red.png",
+      "pixels": [
+        384,
+        384
+      ],
+      "anchor_pixels": [
+        192,
+        378
+      ],
+      "content_bounds": {
+        "left": 15,
+        "top": 33,
+        "width": 354,
+        "height": 345
+      }
+    },
+    {
+      "file": "building/pub_well.png",
+      "pixels": [
+        384,
+        384
+      ],
+      "anchor_pixels": [
+        192,
+        378
+      ],
+      "content_bounds": {
+        "left": 81,
+        "top": 76,
+        "width": 223,
+        "height": 302
+      }
+    },
+    {
+      "file": "building/pub_share.png",
+      "pixels": [
+        384,
+        384
+      ],
+      "anchor_pixels": [
+        192,
+        378
+      ],
+      "content_bounds": {
+        "left": 40,
+        "top": 82,
+        "width": 305,
+        "height": 296
+      }
+    },
+    {
+      "file": "building/pub_school.png",
+      "pixels": [
+        384,
+        384
+      ],
+      "anchor_pixels": [
+        192,
+        378
+      ],
+      "content_bounds": {
+        "left": 22,
+        "top": 28,
+        "width": 341,
+        "height": 350
+      }
+    },
+    {
+      "file": "building/pub_site.png",
+      "pixels": [
+        384,
+        256
+      ],
+      "anchor_pixels": [
+        192,
+        250
+      ],
+      "content_bounds": {
+        "left": 15,
+        "top": 54,
+        "width": 354,
+        "height": 196
+      }
+    },
+    {
+      "file": "building/cart.png",
+      "pixels": [
+        384,
+        384
+      ],
+      "anchor_pixels": [
+        192,
+        378
+      ],
+      "content_bounds": {
+        "left": 17,
+        "top": 120,
+        "width": 350,
+        "height": 258
+      }
+    },
+    {
+      "file": "building/cart_loaded.png",
+      "pixels": [
+        384,
+        384
+      ],
+      "anchor_pixels": [
+        192,
+        378
+      ],
+      "content_bounds": {
+        "left": 17,
+        "top": 120,
+        "width": 350,
+        "height": 258
+      }
+    },
+    {
+      "file": "icon/mat_plank.png",
+      "pixels": [
+        128,
+        128
+      ],
+      "anchor_pixels": [
+        64,
+        64
+      ],
+      "content_bounds": {
+        "left": 8,
+        "top": 14,
+        "width": 112,
+        "height": 100
+      }
+    },
+    {
+      "file": "icon/mat_brick.png",
+      "pixels": [
+        128,
+        128
+      ],
+      "anchor_pixels": [
+        64,
+        64
+      ],
+      "content_bounds": {
+        "left": 8,
+        "top": 18,
+        "width": 112,
+        "height": 93
+      }
+    },
+    {
+      "file": "icon/mat_glass.png",
+      "pixels": [
+        128,
+        128
+      ],
+      "anchor_pixels": [
+        64,
+        64
+      ],
+      "content_bounds": {
+        "left": 13,
+        "top": 8,
+        "width": 102,
+        "height": 112
+      }
+    },
+    {
+      "file": "icon/mat_nail.png",
+      "pixels": [
+        128,
+        128
+      ],
+      "anchor_pixels": [
+        64,
+        64
+      ],
+      "content_bounds": {
+        "left": 9,
+        "top": 8,
+        "width": 111,
+        "height": 112
+      }
+    },
+    {
+      "file": "icon/mat_hammer.png",
+      "pixels": [
+        128,
+        128
+      ],
+      "anchor_pixels": [
+        64,
+        64
+      ],
+      "content_bounds": {
+        "left": 18,
+        "top": 8,
+        "width": 93,
+        "height": 112
+      }
+    },
+    {
+      "file": "icon/mat_paint.png",
+      "pixels": [
+        128,
+        128
+      ],
+      "anchor_pixels": [
+        64,
+        64
+      ],
+      "content_bounds": {
+        "left": 18,
+        "top": 8,
+        "width": 92,
+        "height": 112
+      }
+    }
+  ],
+  "cart_alignment": {
+    "lower_region_y": 279,
+    "best_translation_pixels": [
+      0,
+      0
+    ],
+    "mean_rgb_difference": 7.820877639658529,
+    "note": "same geometry, minor generated paint differences"
+  },
+  "review": "placement is a composite using current tile and facility display scale, not a running game screenshot"
+}

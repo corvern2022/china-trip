@@ -1436,5 +1436,71 @@
       64,
       64
     ]
+  },
+  "mat_plank.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered construction material icon"
+  },
+  "mat_brick.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered construction material icon"
+  },
+  "mat_glass.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered construction material icon"
+  },
+  "mat_nail.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered construction material icon"
+  },
+  "mat_hammer.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered construction material icon"
+  },
+  "mat_paint.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered construction material icon"
   }
 }

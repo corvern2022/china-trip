@@ -509,5 +509,144 @@
       192,
       250
     ]
+  },
+  "home_log.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "usage": "order14 town, one tile"
+  },
+  "home_stone.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "usage": "order14 town, one tile"
+  },
+  "home_red.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "usage": "order14 town, one tile"
+  },
+  "pub_well.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "usage": "order14 town, one tile"
+  },
+  "pub_share.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "usage": "order14 town, one tile"
+  },
+  "pub_school.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "usage": "order14 town, one tile"
+  },
+  "pub_site.png": {
+    "pixels": [
+      384,
+      256
+    ],
+    "anchor_pixels": [
+      192,
+      250
+    ],
+    "pivot": [
+      192,
+      250
+    ],
+    "usage": "order14 town, one tile"
+  },
+  "cart.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "usage": "order14 town, one tile",
+    "animation_base": "cart.png",
+    "fixed_chassis": true
+  },
+  "cart_loaded.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "anchor_pixels": [
+      192,
+      378
+    ],
+    "pivot": [
+      192,
+      378
+    ],
+    "usage": "order14 town, one tile",
+    "animation_base": "cart.png",
+    "fixed_chassis": true
   }
 }
