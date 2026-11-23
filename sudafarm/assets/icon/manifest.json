@@ -466,32 +466,22 @@
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
     ],
-    "usage": "centered UI icon",
-    "source": "next/icons.png"
+    "usage": "centered UI icon"
   },
   "ai_brain.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
     ],
-    "usage": "centered UI icon",
-    "source": "next/icons.png"
+    "usage": "centered UI icon"
   },
   "tool_news.png": {
     "pixels": [
@@ -530,64 +520,44 @@
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
     ],
-    "usage": "centered UI icon",
-    "source": "next/icons.png"
+    "usage": "centered UI icon"
   },
   "adopt.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
     ],
-    "usage": "centered UI icon",
-    "source": "next/icons.png"
+    "usage": "centered UI icon"
   },
   "personality.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
     ],
-    "usage": "centered UI icon",
-    "source": "next/icons.png"
+    "usage": "centered UI icon"
   },
   "thought.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
     ],
-    "usage": "centered UI icon",
-    "source": "next/icons.png"
+    "usage": "centered UI icon"
   },
   "act_fight.png": {
     "pixels": [
@@ -610,76 +580,55 @@
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
     ],
-    "usage": "centered UI icon",
-    "source": "next/icons.png"
+    "usage": "centered UI icon"
   },
   "partner.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
     ],
-    "usage": "centered UI icon",
-    "source": "next/icons.png"
+    "usage": "centered UI icon"
   },
   "hand_point.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
     ],
-    "usage": "centered UI icon",
-    "source": "next/icons.png"
+    "usage": "centered UI icon"
   },
   "visit.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "legend.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "stat_food.png": {
     "pixels": [
@@ -700,42 +649,33 @@
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "stat_wool.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "stat_grow.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "act_feed.png": {
     "pixels": [
@@ -784,42 +724,33 @@
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "good_feed_alpaca.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "good_cookie.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "good_wool.png": {
     "pixels": [
@@ -840,28 +771,22 @@
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "crop_potato.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "crop_corn.png": {
     "pixels": [
@@ -882,70 +807,55 @@
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "crop_lavender.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "crop_sunflower.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "crop_rainbow_berry.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "storage.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "order.png": {
     "pixels": [
@@ -1036,14 +946,11 @@
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "season_spring.png": {
     "pixels": [
@@ -1092,45 +999,33 @@
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
     ],
-    "tintable": false
+    "usage": "centered UI icon"
   },
   "good_punch.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
     ],
-    "tintable": false
+    "usage": "centered UI icon"
   },
   "good_yarn.png": {
     "pixels": [
       128,
       128
     ],
-    "pivot": [
-      64,
-      64
-    ],
     "anchor_pixels": [
       64,
       64
     ],
-    "tintable": true
+    "usage": "centered UI icon"
   },
   "dock_storage.png": {
     "pixels": [
@@ -1195,7 +1090,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "crop_grape.png": {
     "pixels": [
@@ -1205,7 +1101,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "crop_blueberry.png": {
     "pixels": [
@@ -1215,7 +1112,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "crop_peach.png": {
     "pixels": [
@@ -1225,7 +1123,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "crop_star_bean.png": {
     "pixels": [
@@ -1235,7 +1134,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "env_fence.png": {
     "pixels": [
@@ -1245,7 +1145,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "env_flowerbed.png": {
     "pixels": [
@@ -1255,7 +1156,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "env_duck.png": {
     "pixels": [
@@ -1265,7 +1167,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "event_weekend.png": {
     "pixels": [
@@ -1275,7 +1178,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "event_collect.png": {
     "pixels": [
@@ -1285,7 +1189,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "event_festival.png": {
     "pixels": [
@@ -1295,7 +1200,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "event_merchant.png": {
     "pixels": [
@@ -1305,7 +1211,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "clover.png": {
     "pixels": [
@@ -1315,7 +1222,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "attend_calendar.png": {
     "pixels": [
@@ -1325,7 +1233,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "weekly_goal.png": {
     "pixels": [
@@ -1335,7 +1244,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "mastery_1.png": {
     "pixels": [
@@ -1345,7 +1255,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "mastery_2.png": {
     "pixels": [
@@ -1355,7 +1266,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "mastery_3.png": {
     "pixels": [
@@ -1365,7 +1277,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "title_ribbon.png": {
     "pixels": [
@@ -1375,7 +1288,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "book_reward.png": {
     "pixels": [
@@ -1385,7 +1299,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "golden_seed.png": {
     "pixels": [
@@ -1395,7 +1310,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "honor_box.png": {
     "pixels": [
@@ -1405,7 +1321,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "shooting_star.png": {
     "pixels": [
@@ -1415,7 +1332,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "legend_shard.png": {
     "pixels": [
@@ -1425,7 +1343,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "birthday.png": {
     "pixels": [
@@ -1435,7 +1354,8 @@
     "anchor_pixels": [
       64,
       64
-    ]
+    ],
+    "usage": "centered UI icon"
   },
   "mat_plank.png": {
     "pixels": [
@@ -1502,5 +1422,93 @@
       64
     ],
     "usage": "centered construction material icon"
+  },
+  "skip_now.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tab_goods.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "quality_star.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "sound_off.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "zoom.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "sound_on.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "tab_mats.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
+  },
+  "happy.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "anchor_pixels": [
+      64,
+      64
+    ],
+    "usage": "centered UI icon"
   }
 }

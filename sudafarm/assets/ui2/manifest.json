@@ -1,0 +1,791 @@
+{
+  "panel.png": {
+    "pixels": [
+      384,
+      384
+    ],
+    "slice_trbl": [
+      108,
+      108,
+      108,
+      108
+    ],
+    "stretch": "edges-and-center"
+  },
+  "ribbon_title.png": {
+    "pixels": [
+      512,
+      144
+    ],
+    "slice_trbl": [
+      0,
+      112,
+      0,
+      112
+    ],
+    "stretch": "edges-and-center"
+  },
+  "panel_inset.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "slice_trbl": [
+      48,
+      48,
+      48,
+      48
+    ],
+    "stretch": "edges-and-center"
+  },
+  "sheet_bottom.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "slice_trbl": [
+      80,
+      112,
+      80,
+      112
+    ],
+    "stretch": "edges-and-center"
+  },
+  "dialog.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "slice_trbl": [
+      80,
+      80,
+      80,
+      80
+    ],
+    "stretch": "edges-and-center"
+  },
+  "name_plate.png": {
+    "pixels": [
+      256,
+      96
+    ],
+    "slice_trbl": [
+      0,
+      48,
+      0,
+      48
+    ],
+    "stretch": "edges-and-center"
+  },
+  "toast.png": {
+    "pixels": [
+      384,
+      112
+    ],
+    "slice_trbl": [
+      48,
+      48,
+      48,
+      48
+    ],
+    "stretch": "edges-and-center"
+  },
+  "quest_card.png": {
+    "pixels": [
+      512,
+      176
+    ],
+    "slice_trbl": [
+      56,
+      56,
+      56,
+      144
+    ],
+    "stretch": "edges-and-center"
+  },
+  "portrait_ring.png": {
+    "pixels": [
+      160,
+      160
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "bubble.png": {
+    "pixels": [
+      256,
+      160
+    ],
+    "slice_trbl": [
+      56,
+      56,
+      56,
+      56
+    ],
+    "stretch": "edges-and-center"
+  },
+  "bubble_tail.png": {
+    "pixels": [
+      64,
+      48
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "panel_head.png": {
+    "pixels": [
+      384,
+      128
+    ],
+    "slice_trbl": [
+      0,
+      64,
+      0,
+      64
+    ],
+    "stretch": "edges-and-center"
+  },
+  "want_bubble.png": {
+    "pixels": [
+      128,
+      144
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "btn_green.png": {
+    "pixels": [
+      256,
+      112
+    ],
+    "slice_trbl": [
+      40,
+      64,
+      32,
+      64
+    ],
+    "stretch": "edges-and-center"
+  },
+  "btn_green_down.png": {
+    "pixels": [
+      256,
+      112
+    ],
+    "slice_trbl": [
+      40,
+      64,
+      32,
+      64
+    ],
+    "stretch": "edges-and-center"
+  },
+  "btn_cream.png": {
+    "pixels": [
+      256,
+      112
+    ],
+    "slice_trbl": [
+      40,
+      64,
+      32,
+      64
+    ],
+    "stretch": "edges-and-center"
+  },
+  "btn_cream_down.png": {
+    "pixels": [
+      256,
+      112
+    ],
+    "slice_trbl": [
+      40,
+      64,
+      32,
+      64
+    ],
+    "stretch": "edges-and-center"
+  },
+  "btn_red.png": {
+    "pixels": [
+      256,
+      112
+    ],
+    "slice_trbl": [
+      40,
+      64,
+      32,
+      64
+    ],
+    "stretch": "edges-and-center"
+  },
+  "btn_red_down.png": {
+    "pixels": [
+      256,
+      112
+    ],
+    "slice_trbl": [
+      40,
+      64,
+      32,
+      64
+    ],
+    "stretch": "edges-and-center"
+  },
+  "btn_yellow.png": {
+    "pixels": [
+      256,
+      112
+    ],
+    "slice_trbl": [
+      40,
+      64,
+      32,
+      64
+    ],
+    "stretch": "edges-and-center"
+  },
+  "btn_yellow_down.png": {
+    "pixels": [
+      256,
+      112
+    ],
+    "slice_trbl": [
+      40,
+      64,
+      32,
+      64
+    ],
+    "stretch": "edges-and-center"
+  },
+  "btn_off.png": {
+    "pixels": [
+      256,
+      112
+    ],
+    "slice_trbl": [
+      40,
+      64,
+      32,
+      64
+    ],
+    "stretch": "edges-and-center"
+  },
+  "btn_round.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "btn_round_down.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "btn_side.png": {
+    "pixels": [
+      176,
+      176
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "btn_side_down.png": {
+    "pixels": [
+      176,
+      176
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "btn_tile.png": {
+    "pixels": [
+      224,
+      192
+    ],
+    "slice_trbl": [
+      48,
+      72,
+      72,
+      72
+    ],
+    "stretch": "edges-and-center"
+  },
+  "btn_tile_down.png": {
+    "pixels": [
+      224,
+      192
+    ],
+    "slice_trbl": [
+      48,
+      72,
+      72,
+      72
+    ],
+    "stretch": "edges-and-center"
+  },
+  "g_close.png": {
+    "pixels": [
+      64,
+      64
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "g_help.png": {
+    "pixels": [
+      64,
+      64
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "g_plus.png": {
+    "pixels": [
+      64,
+      64
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "g_minus.png": {
+    "pixels": [
+      64,
+      64
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "g_left.png": {
+    "pixels": [
+      64,
+      64
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "g_right.png": {
+    "pixels": [
+      64,
+      64
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "g_check.png": {
+    "pixels": [
+      64,
+      64
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "g_lock.png": {
+    "pixels": [
+      64,
+      64
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "tab.png": {
+    "pixels": [
+      256,
+      96
+    ],
+    "slice_trbl": [
+      40,
+      40,
+      40,
+      40
+    ],
+    "stretch": "edges-and-center"
+  },
+  "tab_on.png": {
+    "pixels": [
+      256,
+      96
+    ],
+    "slice_trbl": [
+      40,
+      40,
+      40,
+      40
+    ],
+    "stretch": "edges-and-center"
+  },
+  "chip.png": {
+    "pixels": [
+      192,
+      72
+    ],
+    "slice_trbl": [
+      0,
+      36,
+      0,
+      36
+    ],
+    "stretch": "edges-and-center"
+  },
+  "chip_on.png": {
+    "pixels": [
+      192,
+      72
+    ],
+    "slice_trbl": [
+      0,
+      36,
+      0,
+      36
+    ],
+    "stretch": "edges-and-center"
+  },
+  "card.png": {
+    "pixels": [
+      256,
+      192
+    ],
+    "slice_trbl": [
+      64,
+      72,
+      64,
+      72
+    ],
+    "stretch": "edges-and-center"
+  },
+  "card_on.png": {
+    "pixels": [
+      256,
+      192
+    ],
+    "slice_trbl": [
+      64,
+      72,
+      64,
+      72
+    ],
+    "stretch": "edges-and-center"
+  },
+  "card_lock.png": {
+    "pixels": [
+      256,
+      192
+    ],
+    "slice_trbl": [
+      64,
+      72,
+      64,
+      72
+    ],
+    "stretch": "edges-and-center"
+  },
+  "tag_quest.png": {
+    "pixels": [
+      128,
+      56
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "price_pill.png": {
+    "pixels": [
+      192,
+      64
+    ],
+    "slice_trbl": [
+      0,
+      32,
+      0,
+      48
+    ],
+    "stretch": "edges-and-center"
+  },
+  "hud_pill.png": {
+    "pixels": [
+      320,
+      96
+    ],
+    "slice_trbl": [
+      0,
+      48,
+      0,
+      96
+    ],
+    "stretch": "edges-and-center"
+  },
+  "hud_level.png": {
+    "pixels": [
+      128,
+      128
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "bar_track.png": {
+    "pixels": [
+      256,
+      40
+    ],
+    "slice_trbl": [
+      0,
+      20,
+      0,
+      20
+    ],
+    "stretch": "edges-and-center"
+  },
+  "bar_green.png": {
+    "pixels": [
+      256,
+      40
+    ],
+    "slice_trbl": [
+      0,
+      20,
+      0,
+      20
+    ],
+    "stretch": "edges-and-center"
+  },
+  "bar_pink.png": {
+    "pixels": [
+      256,
+      40
+    ],
+    "slice_trbl": [
+      0,
+      20,
+      0,
+      20
+    ],
+    "stretch": "edges-and-center"
+  },
+  "bar_gold.png": {
+    "pixels": [
+      256,
+      40
+    ],
+    "slice_trbl": [
+      0,
+      20,
+      0,
+      20
+    ],
+    "stretch": "edges-and-center"
+  },
+  "bar_blue.png": {
+    "pixels": [
+      256,
+      40
+    ],
+    "slice_trbl": [
+      0,
+      20,
+      0,
+      20
+    ],
+    "stretch": "edges-and-center"
+  },
+  "badge_count.png": {
+    "pixels": [
+      64,
+      64
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "badge_new.png": {
+    "pixels": [
+      128,
+      56
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "star_on.png": {
+    "pixels": [
+      64,
+      64
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "star_off.png": {
+    "pixels": [
+      64,
+      64
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "heart_on.png": {
+    "pixels": [
+      64,
+      64
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "heart_off.png": {
+    "pixels": [
+      64,
+      64
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "toggle_on.png": {
+    "pixels": [
+      160,
+      88
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "toggle_off.png": {
+    "pixels": [
+      160,
+      88
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "input.png": {
+    "pixels": [
+      384,
+      96
+    ],
+    "slice_trbl": [
+      40,
+      40,
+      40,
+      40
+    ],
+    "stretch": "edges-and-center"
+  },
+  "shop_frame.png": {
+    "pixels": [
+      1448,
+      1086
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed",
+    "note": "Fixed-aspect shop stall artwork; do not use nine-slice."
+  },
+  "levelup_rays.png": {
+    "pixels": [
+      512,
+      512
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "levelup_ribbon.png": {
+    "pixels": [
+      640,
+      176
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "reward_frame.png": {
+    "pixels": [
+      192,
+      192
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "reward_frame_got.png": {
+    "pixels": [
+      192,
+      192
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "chapter_banner.png": {
+    "pixels": [
+      640,
+      200
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "attend_cell.png": {
+    "pixels": [
+      160,
+      128
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "attend_cell_today.png": {
+    "pixels": [
+      160,
+      128
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "attend_stamp.png": {
+    "pixels": [
+      96,
+      96
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "divider.png": {
+    "pixels": [
+      384,
+      24
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "corner_leaf.png": {
+    "pixels": [
+      96,
+      96
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "spark_small.png": {
+    "pixels": [
+      64,
+      64
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "coin_burst.png": {
+    "pixels": [
+      256,
+      256
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "page_dot.png": {
+    "pixels": [
+      32,
+      32
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  },
+  "page_dot_on.png": {
+    "pixels": [
+      32,
+      32
+    ],
+    "slice_trbl": null,
+    "stretch": "fixed"
+  }
+}
