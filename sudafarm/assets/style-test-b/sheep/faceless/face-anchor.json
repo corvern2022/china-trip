@@ -1,0 +1,254 @@
+{
+  "body_idle.png": {
+    "eyes": [
+      183,
+      125
+    ],
+    "mouth": [
+      196,
+      146
+    ],
+    "brow": [
+      183,
+      111
+    ],
+    "cheek": [
+      181,
+      141
+    ],
+    "head_top": [
+      179,
+      49
+    ],
+    "neck": [
+      164,
+      158
+    ],
+    "scale": 1.0,
+    "wool": "wool_full.png"
+  },
+  "body_eat.png": {
+    "eyes": [
+      183,
+      130
+    ],
+    "mouth": [
+      196,
+      151
+    ],
+    "brow": [
+      183,
+      116
+    ],
+    "cheek": [
+      181,
+      146
+    ],
+    "head_top": [
+      179,
+      49
+    ],
+    "neck": [
+      164,
+      163
+    ],
+    "scale": 1.0,
+    "wool": "wool_full.png"
+  },
+  "body_half.png": {
+    "eyes": [
+      175,
+      113
+    ],
+    "mouth": [
+      188,
+      136
+    ],
+    "brow": [
+      175,
+      98
+    ],
+    "cheek": [
+      172,
+      130
+    ],
+    "head_top": [
+      170,
+      34
+    ],
+    "neck": [
+      153,
+      149
+    ],
+    "scale": 1.05,
+    "wool": "wool_half.png"
+  },
+  "body_sheared.png": {
+    "eyes": [
+      174,
+      113
+    ],
+    "mouth": [
+      188,
+      136
+    ],
+    "brow": [
+      174,
+      98
+    ],
+    "cheek": [
+      172,
+      130
+    ],
+    "head_top": [
+      168,
+      34
+    ],
+    "neck": [
+      152,
+      149
+    ],
+    "scale": 1.05,
+    "wool": "wool_sheared.png"
+  },
+  "body_sleep.png": {
+    "eyes": [
+      187,
+      205
+    ],
+    "mouth": [
+      198,
+      225
+    ],
+    "brow": [
+      187,
+      192
+    ],
+    "cheek": [
+      185,
+      219
+    ],
+    "head_top": [
+      187,
+      140
+    ],
+    "neck": [
+      177,
+      222
+    ],
+    "scale": 0.9,
+    "wool": "wool_sleep.png"
+  },
+  "body_walk_a.png": {
+    "eyes": [
+      183,
+      125
+    ],
+    "mouth": [
+      196,
+      146
+    ],
+    "brow": [
+      183,
+      111
+    ],
+    "cheek": [
+      181,
+      141
+    ],
+    "head_top": [
+      179,
+      49
+    ],
+    "neck": [
+      164,
+      158
+    ],
+    "scale": 1.0,
+    "wool": "wool_full.png"
+  },
+  "body_walk_b.png": {
+    "eyes": [
+      183,
+      125
+    ],
+    "mouth": [
+      196,
+      146
+    ],
+    "brow": [
+      183,
+      111
+    ],
+    "cheek": [
+      181,
+      141
+    ],
+    "head_top": [
+      179,
+      49
+    ],
+    "neck": [
+      164,
+      158
+    ],
+    "scale": 1.0,
+    "wool": "wool_full.png"
+  },
+  "body_short.png": {
+    "eyes": [
+      177,
+      118
+    ],
+    "mouth": [
+      191,
+      139
+    ],
+    "brow": [
+      177,
+      103
+    ],
+    "cheek": [
+      175,
+      134
+    ],
+    "head_top": [
+      172,
+      41
+    ],
+    "neck": [
+      156,
+      153
+    ],
+    "scale": 1.05,
+    "wool": "short_wool_full.png"
+  },
+  "baby_body.png": {
+    "eyes": [
+      122,
+      93
+    ],
+    "mouth": [
+      133,
+      114
+    ],
+    "brow": [
+      122,
+      81
+    ],
+    "cheek": [
+      120,
+      107
+    ],
+    "head_top": [
+      118,
+      23
+    ],
+    "neck": [
+      105,
+      123
+    ],
+    "scale": 0.85,
+    "wool": "baby_wool.png"
+  }
+}

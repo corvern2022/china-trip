@@ -1,0 +1,861 @@
+{
+  "grass_macro_0_0.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ],
+    "world_phase": {
+      "row_mod_4": 0,
+      "col_mod_4": 0
+    }
+  },
+  "grass_macro_0_1.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ],
+    "world_phase": {
+      "row_mod_4": 0,
+      "col_mod_4": 1
+    }
+  },
+  "grass_macro_0_2.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ],
+    "world_phase": {
+      "row_mod_4": 0,
+      "col_mod_4": 2
+    }
+  },
+  "grass_macro_0_3.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ],
+    "world_phase": {
+      "row_mod_4": 0,
+      "col_mod_4": 3
+    }
+  },
+  "grass_macro_1_0.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ],
+    "world_phase": {
+      "row_mod_4": 1,
+      "col_mod_4": 0
+    }
+  },
+  "grass_macro_1_1.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ],
+    "world_phase": {
+      "row_mod_4": 1,
+      "col_mod_4": 1
+    }
+  },
+  "grass_macro_1_2.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ],
+    "world_phase": {
+      "row_mod_4": 1,
+      "col_mod_4": 2
+    }
+  },
+  "grass_macro_1_3.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ],
+    "world_phase": {
+      "row_mod_4": 1,
+      "col_mod_4": 3
+    }
+  },
+  "grass_macro_2_0.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ],
+    "world_phase": {
+      "row_mod_4": 2,
+      "col_mod_4": 0
+    }
+  },
+  "grass_macro_2_1.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ],
+    "world_phase": {
+      "row_mod_4": 2,
+      "col_mod_4": 1
+    }
+  },
+  "grass_macro_2_2.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ],
+    "world_phase": {
+      "row_mod_4": 2,
+      "col_mod_4": 2
+    }
+  },
+  "grass_macro_2_3.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ],
+    "world_phase": {
+      "row_mod_4": 2,
+      "col_mod_4": 3
+    }
+  },
+  "grass_macro_3_0.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ],
+    "world_phase": {
+      "row_mod_4": 3,
+      "col_mod_4": 0
+    }
+  },
+  "grass_macro_3_1.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ],
+    "world_phase": {
+      "row_mod_4": 3,
+      "col_mod_4": 1
+    }
+  },
+  "grass_macro_3_2.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ],
+    "world_phase": {
+      "row_mod_4": 3,
+      "col_mod_4": 2
+    }
+  },
+  "grass_macro_3_3.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ],
+    "world_phase": {
+      "row_mod_4": 3,
+      "col_mod_4": 3
+    }
+  },
+  "sky_bg.png": {
+    "pixels": [
+      2048,
+      1152
+    ],
+    "display_size": [
+      2048,
+      1152
+    ],
+    "anchor_pixels": [
+      1024,
+      576
+    ],
+    "anchor_meaning": "center",
+    "top_vertices": null
+  },
+  "edge_left.png": {
+    "pixels": [
+      256,
+      208
+    ],
+    "display_size": [
+      128,
+      104
+    ],
+    "anchor_pixels": [
+      0,
+      16
+    ],
+    "anchor_meaning": "start of diagonal grass-soil boundary",
+    "top_vertices": null,
+    "segment_vector": [
+      256,
+      128
+    ]
+  },
+  "edge_right.png": {
+    "pixels": [
+      256,
+      208
+    ],
+    "display_size": [
+      128,
+      104
+    ],
+    "anchor_pixels": [
+      0,
+      144
+    ],
+    "anchor_meaning": "start of diagonal grass-soil boundary",
+    "top_vertices": null,
+    "segment_vector": [
+      256,
+      -128
+    ]
+  },
+  "edge_back_left.png": {
+    "pixels": [
+      256,
+      208
+    ],
+    "display_size": [
+      128,
+      104
+    ],
+    "anchor_pixels": [
+      0,
+      144
+    ],
+    "anchor_meaning": "start of diagonal grass-soil boundary",
+    "top_vertices": null,
+    "segment_vector": [
+      256,
+      -128
+    ]
+  },
+  "edge_back_right.png": {
+    "pixels": [
+      256,
+      208
+    ],
+    "display_size": [
+      128,
+      104
+    ],
+    "anchor_pixels": [
+      0,
+      16
+    ],
+    "anchor_meaning": "start of diagonal grass-soil boundary",
+    "top_vertices": null,
+    "segment_vector": [
+      256,
+      128
+    ]
+  },
+  "cliff_left.png": {
+    "pixels": [
+      512,
+      768
+    ],
+    "display_size": [
+      256,
+      384
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ]
+  },
+  "cliff_right.png": {
+    "pixels": [
+      512,
+      768
+    ],
+    "display_size": [
+      256,
+      384
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ]
+  },
+  "cliff_corner_front.png": {
+    "pixels": [
+      512,
+      768
+    ],
+    "display_size": [
+      256,
+      384
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ]
+  },
+  "cloud_1.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "center",
+    "top_vertices": null
+  },
+  "cloud_2.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "center",
+    "top_vertices": null
+  },
+  "cloud_3.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "center",
+    "top_vertices": null
+  },
+  "land_sale_sign.png": {
+    "pixels": [
+      160,
+      192
+    ],
+    "pivot": [
+      80,
+      186
+    ],
+    "anchor_pixels": [
+      80,
+      186
+    ]
+  },
+  "island_grow_sign.png": {
+    "pixels": [
+      160,
+      192
+    ],
+    "anchor_pixels": [
+      80,
+      187
+    ]
+  }
+}
