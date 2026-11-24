@@ -1103,5 +1103,104 @@
       80,
       187
     ]
+  },
+  "yard_sand.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ]
+  },
+  "path_stone.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ]
+  },
+  "yard_flower.png": {
+    "pixels": [
+      512,
+      256
+    ],
+    "display_size": [
+      256,
+      128
+    ],
+    "anchor_pixels": [
+      256,
+      128
+    ],
+    "anchor_meaning": "top diamond center",
+    "top_vertices": [
+      [
+        256,
+        0
+      ],
+      [
+        512,
+        128
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        0,
+        128
+      ]
+    ]
   }
 }
